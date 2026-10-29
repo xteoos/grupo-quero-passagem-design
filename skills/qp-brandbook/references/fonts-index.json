@@ -1,0 +1,120 @@
+[
+  {
+    "path": "assets/fontes/kit-marca-tipografia-4.instrument-serif/1QEl5p8RJ7HQdSmZpBUhku7OZDqDtGoii-instrumentserif-regular.ttf",
+    "names": {
+      "1": "Instrument Serif",
+      "2": "Regular",
+      "4": "Instrument Serif Regular",
+      "6": "InstrumentSerif-Regular"
+    },
+    "missing_glyphs": [],
+    "variable": false,
+    "axes": {}
+  },
+  {
+    "path": "assets/fontes/kit-marca-tipografia-4.instrument-serif/1UFOTpGXy6c1X7QeO5HKhYEBMK28651u4-instrumentserif-italic.ttf",
+    "names": {
+      "1": "Instrument Serif",
+      "2": "Italic",
+      "4": "Instrument Serif Italic",
+      "6": "InstrumentSerif-Italic"
+    },
+    "missing_glyphs": [],
+    "variable": false,
+    "axes": {}
+  },
+  {
+    "path": "assets/fontes/kit-marca-tipografia-2.inter/11NkbHCO-DrfAV5FdwQBRIUsGJy55MurD-inter-variablefont_opsz-wght.ttf",
+    "names": {
+      "1": "Inter",
+      "2": "Regular",
+      "4": "Inter Regular",
+      "6": "Inter-Regular"
+    },
+    "missing_glyphs": [],
+    "variable": true,
+    "axes": {
+      "opsz": {
+        "min": 14.0,
+        "default": 14.0,
+        "max": 32.0
+      },
+      "wght": {
+        "min": 100.0,
+        "default": 400.0,
+        "max": 900.0
+      }
+    }
+  },
+  {
+    "path": "assets/fontes/kit-marca-tipografia-2.inter/1KfNOS86-vz1QsnBEn-mLiB4EjuCqtf0H-inter-italic-variablefont_opsz-wght.ttf",
+    "names": {
+      "1": "Inter",
+      "2": "Italic",
+      "4": "Inter Italic",
+      "6": "Inter-Italic"
+    },
+    "missing_glyphs": [],
+    "variable": true,
+    "axes": {
+      "opsz": {
+        "min": 14.0,
+        "default": 14.0,
+        "max": 32.0
+      },
+      "wght": {
+        "min": 100.0,
+        "default": 400.0,
+        "max": 900.0
+      }
+    }
+  },
+  {
+    "path": "assets/fontes/kit-marca-tipografia-1.sora/164dLpreLRfwE_KztBqkT-RphAy1MwK0w-sora-variablefont_wght.ttf",
+    "names": {
+      "1": "Sora",
+      "2": "Regular",
+      "4": "Sora Regular",
+      "6": "Sora-Regular"
+    },
+    "missing_glyphs": [],
+    "variable": true,
+    "axes": {
+      "wght": {
+        "min": 100.0,
+        "default": 400.0,
+        "max": 800.0
+      }
+    }
+  },
+  {
+    "path": "assets/fontes/google-fonts/WorkSans[wght].ttf",
+    "names": {
+      "1": "Work Sans",
+      "2": "Regular",
+      "4": "Work Sans Regular",
+      "6": "WorkSans-Regular"
+    },
+    "missing_glyphs": [],
+    "variable": true,
+    "axes": {
+      "wght": {
+        "min": 100.0,
+        "default": 400.0,
+        "max": 900.0
+      }
+    }
+  },
+  {
+    "path": "assets/fontes/google-fonts/Poppins-Regular.ttf",
+    "names": {
+      "1": "Poppins",
+      "2": "Regular",
+      "4": "Poppins Regular",
+      "6": "Poppins-Regular"
+    },
+    "missing_glyphs": [],
+    "variable": false,
+    "axes": {}
+  }
+]

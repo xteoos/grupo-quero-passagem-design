@@ -1,0 +1,198 @@
+[
+  {
+    "area": "design-na-qp",
+    "slug": "marca",
+    "title": "A Quero Passagem",
+    "blocks": 3,
+    "path": "skills/qp-brandbook/references/paginas/design-na-qp/marca.md"
+  },
+  {
+    "area": "design-na-qp",
+    "slug": "o-grupo",
+    "title": "O Grupo",
+    "blocks": 3,
+    "path": "skills/qp-brandbook/references/paginas/design-na-qp/o-grupo.md"
+  },
+  {
+    "area": "fundamentos",
+    "slug": "tipografia",
+    "title": "Tipografia",
+    "blocks": 17,
+    "path": "skills/qp-brandbook/references/paginas/fundamentos/tipografia.md"
+  },
+  {
+    "area": "fundamentos",
+    "slug": "cores",
+    "title": "Cores",
+    "blocks": 14,
+    "path": "skills/qp-brandbook/references/paginas/fundamentos/cores.md"
+  },
+  {
+    "area": "fundamentos",
+    "slug": "ilustracao",
+    "title": "Ilustração",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/fundamentos/ilustracao.md"
+  },
+  {
+    "area": "fundamentos",
+    "slug": "fotografia",
+    "title": "Fotografia",
+    "blocks": 17,
+    "path": "skills/qp-brandbook/references/paginas/fundamentos/fotografia.md"
+  },
+  {
+    "area": "fundamentos",
+    "slug": "iconografia",
+    "title": "Iconografia",
+    "blocks": 2,
+    "path": "skills/qp-brandbook/references/paginas/fundamentos/iconografia.md"
+  },
+  {
+    "area": "fundamentos",
+    "slug": "grid-e-layout",
+    "title": "Grid e layout",
+    "blocks": 8,
+    "path": "skills/qp-brandbook/references/paginas/fundamentos/grid-e-layout.md"
+  },
+  {
+    "area": "fundamentos",
+    "slug": "espacamento",
+    "title": "Espaçamento",
+    "blocks": 7,
+    "path": "skills/qp-brandbook/references/paginas/fundamentos/espacamento.md"
+  },
+  {
+    "area": "fundamentos",
+    "slug": "tom-de-voz",
+    "title": "Tom de voz",
+    "blocks": 4,
+    "path": "skills/qp-brandbook/references/paginas/fundamentos/tom-de-voz.md"
+  },
+  {
+    "area": "fundamentos",
+    "slug": "acessibilidade",
+    "title": "Acessibilidade",
+    "blocks": 10,
+    "path": "skills/qp-brandbook/references/paginas/fundamentos/acessibilidade.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "botoes",
+    "title": "Botões",
+    "blocks": 8,
+    "path": "skills/qp-brandbook/references/paginas/componentes/botoes.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "cards",
+    "title": "Cards",
+    "blocks": 6,
+    "path": "skills/qp-brandbook/references/paginas/componentes/cards.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "inputs",
+    "title": "Inputs",
+    "blocks": 7,
+    "path": "skills/qp-brandbook/references/paginas/componentes/inputs.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "selects",
+    "title": "Selects",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/selects.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "checkbox",
+    "title": "Checkbox",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/checkbox.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "radio",
+    "title": "Radio",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/radio.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "tabs",
+    "title": "Tabs",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/tabs.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "modais",
+    "title": "Modais",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/modais.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "badges",
+    "title": "Badges",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/badges.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "tooltips",
+    "title": "Tooltips",
+    "blocks": 4,
+    "path": "skills/qp-brandbook/references/paginas/componentes/tooltips.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "accordions",
+    "title": "Accordions",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/accordions.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "navegacao",
+    "title": "Navegação",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/navegacao.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "busca",
+    "title": "Busca",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/busca.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "formularios",
+    "title": "Formulários",
+    "blocks": 6,
+    "path": "skills/qp-brandbook/references/paginas/componentes/formularios.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "tabelas",
+    "title": "Tabelas",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/tabelas.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "empty-states",
+    "title": "Empty states",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/empty-states.md"
+  },
+  {
+    "area": "componentes",
+    "slug": "loading-states",
+    "title": "Loading states",
+    "blocks": 5,
+    "path": "skills/qp-brandbook/references/paginas/componentes/loading-states.md"
+  }
+]

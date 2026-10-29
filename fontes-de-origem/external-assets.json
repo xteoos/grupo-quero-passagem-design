@@ -1,0 +1,858 @@
+[
+  {
+    "id": "1mDvm3tv2TAF0g1EiLwXuyTW-dlHsIuuw",
+    "name": "Apresentação B2B Quero Passagem - Nova Marca",
+    "source_url": "https://drive.google.com/file/d/1mDvm3tv2TAF0g1EiLwXuyTW-dlHsIuuw/view?usp=drivesdk",
+    "mime": "application/vnd.google-apps.shortcut",
+    "collection": "apresentacoes",
+    "reason": "atalho-nao-resolvido"
+  },
+  {
+    "id": "19pRLNTNMKqv9czTI7fvhtq2YLbUc9qaH",
+    "name": "Tipografias - Nova Marca QP.ai",
+    "source_url": "https://drive.google.com/file/d/19pRLNTNMKqv9czTI7fvhtq2YLbUc9qaH/view?usp=drivesdk",
+    "mime": "application/postscript",
+    "collection": "kit-marca/Tipografia",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1rJh63__DLTCxcXrfNUQGce4_pCGXc-CV",
+    "name": "0. COR",
+    "source_url": "https://drive.google.com/file/d/1rJh63__DLTCxcXrfNUQGce4_pCGXc-CV/view?usp=drivesdk",
+    "mime": "application/postscript",
+    "collection": "kit-marca/Cores",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1j0h-tBGl8YruqpM2j7LleY4FRo_nLV9-",
+    "name": "QP [INTERNO] Template de documento",
+    "source_url": "https://drive.google.com/file/d/1j0h-tBGl8YruqpM2j7LleY4FRo_nLV9-/view?usp=drivesdk",
+    "mime": "application/vnd.google-apps.shortcut",
+    "collection": "recursos/Templates de Documento",
+    "reason": "atalho-nao-resolvido"
+  },
+  {
+    "id": "1Ew-e2GMO3gqtBI8SJqdrwvO4hBcW_ELY",
+    "name": "Befonts-License.txt",
+    "source_url": "https://drive.google.com/file/d/1Ew-e2GMO3gqtBI8SJqdrwvO4hBcW_ELY/view?usp=drivesdk",
+    "mime": "text/plain",
+    "collection": "kit-marca/Tipografia/3.BACALAR",
+    "reason": "fonte-demo-trial"
+  },
+  {
+    "id": "1d50w6tfNlAxBS9zTrkx7GlXbq_-OtzLx",
+    "name": "bacalartest-ultraexpanded.otf",
+    "source_url": "https://drive.google.com/file/d/1d50w6tfNlAxBS9zTrkx7GlXbq_-OtzLx/view?usp=drivesdk",
+    "mime": "application/x-font-otf",
+    "collection": "kit-marca/Tipografia/3.BACALAR",
+    "reason": "fonte-demo-trial"
+  },
+  {
+    "id": "1dGUQxITe8wWevJbyTHaWTd_8ttiQH4AS",
+    "name": "bacalartest-ultracondensed.otf",
+    "source_url": "https://drive.google.com/file/d/1dGUQxITe8wWevJbyTHaWTd_8ttiQH4AS/view?usp=drivesdk",
+    "mime": "application/x-font-otf",
+    "collection": "kit-marca/Tipografia/3.BACALAR",
+    "reason": "fonte-demo-trial"
+  },
+  {
+    "id": "1dQ344I20fdj5uEjDviznDR3RHk_8_v2T",
+    "name": "bacalartest-turboexpanded.otf",
+    "source_url": "https://drive.google.com/file/d/1dQ344I20fdj5uEjDviznDR3RHk_8_v2T/view?usp=drivesdk",
+    "mime": "application/x-font-otf",
+    "collection": "kit-marca/Tipografia/3.BACALAR",
+    "reason": "fonte-demo-trial"
+  },
+  {
+    "id": "1i96TUI2f6V4_Aex_7H5YcfW66yGT2fkZ",
+    "name": "bacalartest-turbocondensed.otf",
+    "source_url": "https://drive.google.com/file/d/1i96TUI2f6V4_Aex_7H5YcfW66yGT2fkZ/view?usp=drivesdk",
+    "mime": "application/x-font-otf",
+    "collection": "kit-marca/Tipografia/3.BACALAR",
+    "reason": "fonte-demo-trial"
+  },
+  {
+    "id": "1KIwhMPduFZm2nOdmog6b3l6g625E14te",
+    "name": "bacalartest-semiexpanded.otf",
+    "source_url": "https://drive.google.com/file/d/1KIwhMPduFZm2nOdmog6b3l6g625E14te/view?usp=drivesdk",
+    "mime": "application/x-font-otf",
+    "collection": "kit-marca/Tipografia/3.BACALAR",
+    "reason": "fonte-demo-trial"
+  },
+  {
+    "id": "1qIn9TWXYNEqAYv9u31lR_-6Om5bbaWU4",
+    "name": "bacalartest-regular.otf",
+    "source_url": "https://drive.google.com/file/d/1qIn9TWXYNEqAYv9u31lR_-6Om5bbaWU4/view?usp=drivesdk",
+    "mime": "application/x-font-otf",
+    "collection": "kit-marca/Tipografia/3.BACALAR",
+    "reason": "fonte-demo-trial"
+  },
+  {
+    "id": "115fvjRTTcg7IjRLjBKOwerf334ApGe9F",
+    "name": "bacalartest-extraexpanded.otf",
+    "source_url": "https://drive.google.com/file/d/115fvjRTTcg7IjRLjBKOwerf334ApGe9F/view?usp=drivesdk",
+    "mime": "application/x-font-otf",
+    "collection": "kit-marca/Tipografia/3.BACALAR",
+    "reason": "fonte-demo-trial"
+  },
+  {
+    "id": "15FvRA2dRX0tKs6MlThAu39F4dyDYdDiM",
+    "name": "bacalartest-extracondensed.otf",
+    "source_url": "https://drive.google.com/file/d/15FvRA2dRX0tKs6MlThAu39F4dyDYdDiM/view?usp=drivesdk",
+    "mime": "application/x-font-otf",
+    "collection": "kit-marca/Tipografia/3.BACALAR",
+    "reason": "fonte-demo-trial"
+  },
+  {
+    "id": "1hsgrBb8bhVC4QtnUCl0WWiLU_KkbCAb-",
+    "name": "bacalartest-expanded.otf",
+    "source_url": "https://drive.google.com/file/d/1hsgrBb8bhVC4QtnUCl0WWiLU_KkbCAb-/view?usp=drivesdk",
+    "mime": "application/x-font-otf",
+    "collection": "kit-marca/Tipografia/3.BACALAR",
+    "reason": "fonte-demo-trial"
+  },
+  {
+    "id": "12H0WomurMxLp7XKDN0SoXvb5AB7XmEmB",
+    "name": "bacalartest-condensed.otf",
+    "source_url": "https://drive.google.com/file/d/12H0WomurMxLp7XKDN0SoXvb5AB7XmEmB/view?usp=drivesdk",
+    "mime": "application/x-font-otf",
+    "collection": "kit-marca/Tipografia/3.BACALAR",
+    "reason": "fonte-demo-trial"
+  },
+  {
+    "id": "1Qwb_CxxkPLOTyEKG_AiBxmO4PoaSj9p3",
+    "name": "SALA VIP_ NOVA VOZ _ LEGENDADO_HORIZONTAL.mp4",
+    "source_url": "https://drive.google.com/file/d/1Qwb_CxxkPLOTyEKG_AiBxmO4PoaSj9p3/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1HEwpwxsvP37hPA1Jc2MStORi1IEtdmiu",
+    "name": "SALA VIP_LEGENDADO_HORIZONTAL.mp4",
+    "source_url": "https://drive.google.com/file/d/1HEwpwxsvP37hPA1Jc2MStORi1IEtdmiu/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1xcIJZ8LTz6aDDsD6iHX5SIfaWSYY16bP",
+    "name": "VÍDEO - Quero Passagem VIP 01.mp4",
+    "source_url": "https://drive.google.com/file/d/1xcIJZ8LTz6aDDsD6iHX5SIfaWSYY16bP/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "12VKqWuDYDI9Y1KzC7GLb3d3H8g54Dhwd",
+    "name": "Áreas Quero Passagem - DTSUL.pptx",
+    "source_url": "https://docs.google.com/presentation/d/12VKqWuDYDI9Y1KzC7GLb3d3H8g54Dhwd/edit?usp=drivesdk&ouid=107825225365047711646&rtpof=true&sd=true",
+    "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "collection": "fotografia/SALA VIP/Documentos",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "13FjWO4UoHrsh1voz0y7LLvX5xssYuiT4",
+    "name": "Termo de autorização- Sala vip .docx",
+    "source_url": "https://docs.google.com/document/d/13FjWO4UoHrsh1voz0y7LLvX5xssYuiT4/edit?usp=drivesdk&ouid=107825225365047711646&rtpof=true&sd=true",
+    "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "collection": "fotografia/SALA VIP/Documentos",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "12VFwvpPlAlL4h3b3iq3me_CqcYwi1SAR",
+    "name": "DTSUL_Áreas Quero Passagem.pptx",
+    "source_url": "https://docs.google.com/presentation/d/12VFwvpPlAlL4h3b3iq3me_CqcYwi1SAR/edit?usp=drivesdk&ouid=107825225365047711646&rtpof=true&sd=true",
+    "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "collection": "fotografia/SALA VIP/Documentos",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "139rHZFNl6Kf6T5Cr4JqXK1jWnEHg5URw",
+    "name": "IMG_2692.MOV",
+    "source_url": "https://drive.google.com/file/d/139rHZFNl6Kf6T5Cr4JqXK1jWnEHg5URw/view?usp=drivesdk",
+    "mime": "video/quicktime",
+    "collection": "fotografia/SALA VIP/Mídias antigas",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "12kL77nyhDUw4tUhNSIJkY6rc2kvhCyc0",
+    "name": "IMG_2691.MOV",
+    "source_url": "https://drive.google.com/file/d/12kL77nyhDUw4tUhNSIJkY6rc2kvhCyc0/view?usp=drivesdk",
+    "mime": "video/quicktime",
+    "collection": "fotografia/SALA VIP/Mídias antigas",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "12sXnX51Ff6tUs8y3RhOVKTspz_0dbsSv",
+    "name": "IMG_2689.MOV",
+    "source_url": "https://drive.google.com/file/d/12sXnX51Ff6tUs8y3RhOVKTspz_0dbsSv/view?usp=drivesdk",
+    "mime": "video/quicktime",
+    "collection": "fotografia/SALA VIP/Mídias antigas",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "12o6u8YlydFxlM_CFI6teo3o6i4VHmnx4",
+    "name": "IMG_2687.MOV",
+    "source_url": "https://drive.google.com/file/d/12o6u8YlydFxlM_CFI6teo3o6i4VHmnx4/view?usp=drivesdk",
+    "mime": "video/quicktime",
+    "collection": "fotografia/SALA VIP/Mídias antigas",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "12Yx-nnoJsIWvxH7PUwiOEqgPZtqKnDfo",
+    "name": "IMG_2684.MOV",
+    "source_url": "https://drive.google.com/file/d/12Yx-nnoJsIWvxH7PUwiOEqgPZtqKnDfo/view?usp=drivesdk",
+    "mime": "video/quicktime",
+    "collection": "fotografia/SALA VIP/Mídias antigas",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "12pFPPyT6mmh5B4gv-xyBGhfTlBsBlknu",
+    "name": "IMG_2683.MOV",
+    "source_url": "https://drive.google.com/file/d/12pFPPyT6mmh5B4gv-xyBGhfTlBsBlknu/view?usp=drivesdk",
+    "mime": "video/quicktime",
+    "collection": "fotografia/SALA VIP/Mídias antigas",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1EGE4eOoGeHpgpsQjM61rwg_Ub7r4H3nZ",
+    "name": "Editadas",
+    "source_url": "https://drive.google.com/file/d/1EGE4eOoGeHpgpsQjM61rwg_Ub7r4H3nZ/view?usp=drivesdk",
+    "mime": "application/vnd.google-apps.shortcut",
+    "collection": "fotografia/SALA VIP/FOTOS/2025.1",
+    "reason": "atalho-nao-resolvido"
+  },
+  {
+    "id": "1k_9HGZ0sIiQ46wXAOroB4DAE93OhNU3j",
+    "name": "0K2A4246.MP4",
+    "source_url": "https://drive.google.com/file/d/1k_9HGZ0sIiQ46wXAOroB4DAE93OhNU3j/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1kAr6yrzhzRHAZo1keHanRnEnnsuOG__U",
+    "name": "0K2A4216.MP4",
+    "source_url": "https://drive.google.com/file/d/1kAr6yrzhzRHAZo1keHanRnEnnsuOG__U/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1kXc6KoYUBl8QQLGs-8D7bxjW--LiPe2O",
+    "name": "0K2A4210.MP4",
+    "source_url": "https://drive.google.com/file/d/1kXc6KoYUBl8QQLGs-8D7bxjW--LiPe2O/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1k9MVxkuD0ZKZduDjU5AgjPnNR7S1f1t8",
+    "name": "0K2A4208.MP4",
+    "source_url": "https://drive.google.com/file/d/1k9MVxkuD0ZKZduDjU5AgjPnNR7S1f1t8/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1A0aZgSJY2fdnL0CpZmCYTb6SkOsOMp3T",
+    "name": "0K2A4199.MP4",
+    "source_url": "https://drive.google.com/file/d/1A0aZgSJY2fdnL0CpZmCYTb6SkOsOMp3T/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1l1MuHPVXl0JxU3EmpuZCvc3R-fyTRsuf",
+    "name": "0K2A4201.MP4",
+    "source_url": "https://drive.google.com/file/d/1l1MuHPVXl0JxU3EmpuZCvc3R-fyTRsuf/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1l-AQH3ZFsvY8aoDgSMRNsn9I_NTWmW5T",
+    "name": "0K2A4231.MP4",
+    "source_url": "https://drive.google.com/file/d/1l-AQH3ZFsvY8aoDgSMRNsn9I_NTWmW5T/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1l4-qMvfuCLC16yoJ7tdIO3ly18Dr7CLV",
+    "name": "0K2A4218.MP4",
+    "source_url": "https://drive.google.com/file/d/1l4-qMvfuCLC16yoJ7tdIO3ly18Dr7CLV/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1O7wAwR7nMRydh1L-AdIiqc9Bh-AL9q30",
+    "name": "0K2A4265-003.MP4",
+    "source_url": "https://drive.google.com/file/d/1O7wAwR7nMRydh1L-AdIiqc9Bh-AL9q30/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1PE-Nszmv0Kmf-TZIWuGSIQznL5YBz5JN",
+    "name": "0K2A4187-021.MP4",
+    "source_url": "https://drive.google.com/file/d/1PE-Nszmv0Kmf-TZIWuGSIQznL5YBz5JN/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1B-LEEhN78jXtnNjTXj4ib4K4A9x5lqi3",
+    "name": "0K2A4193-026.MP4",
+    "source_url": "https://drive.google.com/file/d/1B-LEEhN78jXtnNjTXj4ib4K4A9x5lqi3/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1v7eXm9dXjl2jKaSzu-ub83olTj_HJDXF",
+    "name": "QP-20250818T173806Z-1-004.zip",
+    "source_url": "https://drive.google.com/file/d/1v7eXm9dXjl2jKaSzu-ub83olTj_HJDXF/view?usp=drivesdk",
+    "mime": "application/zip",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1X1bIPIRSNTiOiwmLCY63tTVnsbgKXAg-",
+    "name": "QP-20250818T173806Z-1-008.zip",
+    "source_url": "https://drive.google.com/file/d/1X1bIPIRSNTiOiwmLCY63tTVnsbgKXAg-/view?usp=drivesdk",
+    "mime": "application/zip",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1dReDlUUezZeT8VpZClNzSpzuicMdKsM4",
+    "name": "QP-20250818T173806Z-1-012.zip",
+    "source_url": "https://drive.google.com/file/d/1dReDlUUezZeT8VpZClNzSpzuicMdKsM4/view?usp=drivesdk",
+    "mime": "application/zip",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "19beU0Z8T_aM3q1FiXFrhqLbl7yii2xcV",
+    "name": "QP-20250818T173806Z-1-002.zip",
+    "source_url": "https://drive.google.com/file/d/19beU0Z8T_aM3q1FiXFrhqLbl7yii2xcV/view?usp=drivesdk",
+    "mime": "application/zip",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1eHaOIRYodNX8w_BNn8NDa5sCEbs07F1U",
+    "name": "QP-20250818T173806Z-1-011.zip",
+    "source_url": "https://drive.google.com/file/d/1eHaOIRYodNX8w_BNn8NDa5sCEbs07F1U/view?usp=drivesdk",
+    "mime": "application/zip",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1M75OhuYXuXk-S97SgMf7_Fg5OD0ohL2W",
+    "name": "QP-20250818T173806Z-1-005.zip",
+    "source_url": "https://drive.google.com/file/d/1M75OhuYXuXk-S97SgMf7_Fg5OD0ohL2W/view?usp=drivesdk",
+    "mime": "application/zip",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "197rhbnNjxUFNZK4ty3c72PitSufWQzwJ",
+    "name": "QP-20250818T173806Z-1-009.zip",
+    "source_url": "https://drive.google.com/file/d/197rhbnNjxUFNZK4ty3c72PitSufWQzwJ/view?usp=drivesdk",
+    "mime": "application/zip",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1XndTiH76C21l3k-Fz7qkYSkYAcQ9G-z3",
+    "name": "QP-20250818T173806Z-1-006.zip",
+    "source_url": "https://drive.google.com/file/d/1XndTiH76C21l3k-Fz7qkYSkYAcQ9G-z3/view?usp=drivesdk",
+    "mime": "application/zip",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1Zd7h4_lu6vLU1oKhv4VmZEc7QwW1XNWf",
+    "name": "QP-20250818T173806Z-1-007.zip",
+    "source_url": "https://drive.google.com/file/d/1Zd7h4_lu6vLU1oKhv4VmZEc7QwW1XNWf/view?usp=drivesdk",
+    "mime": "application/zip",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1MYEe0cnR6yDlPY8V6SEbKTf6YHs_8PPH",
+    "name": "QP-20250818T173806Z-1-010.zip",
+    "source_url": "https://drive.google.com/file/d/1MYEe0cnR6yDlPY8V6SEbKTf6YHs_8PPH/view?usp=drivesdk",
+    "mime": "application/zip",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1HaZefPP85NKGlWDDydbKhMZ0aPT2uIGp",
+    "name": "0K2A4188.MP4",
+    "source_url": "https://drive.google.com/file/d/1HaZefPP85NKGlWDDydbKhMZ0aPT2uIGp/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1tZ2zn5onyUSA7hvbc2DO4NnWLz43-n5p",
+    "name": "0K2A4189.MP4",
+    "source_url": "https://drive.google.com/file/d/1tZ2zn5onyUSA7hvbc2DO4NnWLz43-n5p/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1Wn359fVAARAJt2a29q5YXJYZ9iHRZX12",
+    "name": "0K2A4190.MP4",
+    "source_url": "https://drive.google.com/file/d/1Wn359fVAARAJt2a29q5YXJYZ9iHRZX12/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "10VvUPtZ_MFaZvuk2nuB9xi0k07nFe8uz",
+    "name": "0K2A4192.MP4",
+    "source_url": "https://drive.google.com/file/d/10VvUPtZ_MFaZvuk2nuB9xi0k07nFe8uz/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1LKWmtNSdl6CeTZpuLus4lVHLkzBGeFtY",
+    "name": "0K2A4200.MP4",
+    "source_url": "https://drive.google.com/file/d/1LKWmtNSdl6CeTZpuLus4lVHLkzBGeFtY/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1RgyLmSM2VuPYunauRWw_UHdjy3hiYoQU",
+    "name": "0K2A4202.MP4",
+    "source_url": "https://drive.google.com/file/d/1RgyLmSM2VuPYunauRWw_UHdjy3hiYoQU/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1R3X7pSjZxHVw-Bzbr4Z4dpWDl9ItYG76",
+    "name": "0K2A4203.MP4",
+    "source_url": "https://drive.google.com/file/d/1R3X7pSjZxHVw-Bzbr4Z4dpWDl9ItYG76/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1olAfN7vZVehzBlTCCP6WMFHhBFzty-SW",
+    "name": "0K2A4204.MP4",
+    "source_url": "https://drive.google.com/file/d/1olAfN7vZVehzBlTCCP6WMFHhBFzty-SW/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1F_EQ2MfErxhznjTcJuRnjGBGkfwPv-jY",
+    "name": "0K2A4205.MP4",
+    "source_url": "https://drive.google.com/file/d/1F_EQ2MfErxhznjTcJuRnjGBGkfwPv-jY/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1vxDfyrEsUbMeKWntK0beeUtvuuDt9OC1",
+    "name": "0K2A4206.MP4",
+    "source_url": "https://drive.google.com/file/d/1vxDfyrEsUbMeKWntK0beeUtvuuDt9OC1/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1VZm3QwLxPB50ZPn6-pw-G9waZjgJzGiy",
+    "name": "0K2A4207.MP4",
+    "source_url": "https://drive.google.com/file/d/1VZm3QwLxPB50ZPn6-pw-G9waZjgJzGiy/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "14TqdGpOsFVTfDndrSyQnHQU180KwOzyX",
+    "name": "0K2A4209.MP4",
+    "source_url": "https://drive.google.com/file/d/14TqdGpOsFVTfDndrSyQnHQU180KwOzyX/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "18qz3gJS8SFY_fBVaMK1BDzJVY-ZOG8H3",
+    "name": "0K2A4211.MP4",
+    "source_url": "https://drive.google.com/file/d/18qz3gJS8SFY_fBVaMK1BDzJVY-ZOG8H3/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1bqKnpWkxZWJcer7MstP1aYEBpouuCUDR",
+    "name": "0K2A4214.MP4",
+    "source_url": "https://drive.google.com/file/d/1bqKnpWkxZWJcer7MstP1aYEBpouuCUDR/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1VWS2wBUAqCxr8ri3wERac_Hg2JE9lrmH",
+    "name": "0K2A4217.MP4",
+    "source_url": "https://drive.google.com/file/d/1VWS2wBUAqCxr8ri3wERac_Hg2JE9lrmH/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1i4F5xDtMWU4KiqEesiDXaKroLXH3Ux_W",
+    "name": "0K2A4219.MP4",
+    "source_url": "https://drive.google.com/file/d/1i4F5xDtMWU4KiqEesiDXaKroLXH3Ux_W/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1Um9h3CLKaxpSQyHT9gLf79mxxzDcCcpX",
+    "name": "0K2A4220.MP4",
+    "source_url": "https://drive.google.com/file/d/1Um9h3CLKaxpSQyHT9gLf79mxxzDcCcpX/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1ToesL-TqDcVC7ty99Tf3gWyZbPz_TzJ6",
+    "name": "0K2A4222.MP4",
+    "source_url": "https://drive.google.com/file/d/1ToesL-TqDcVC7ty99Tf3gWyZbPz_TzJ6/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1OANjeZFB-5PPxsMTqRwwvJpel2mtIn4f",
+    "name": "0K2A4224.MP4",
+    "source_url": "https://drive.google.com/file/d/1OANjeZFB-5PPxsMTqRwwvJpel2mtIn4f/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1NMmsTXHeflMAOTkPKKALsqEC-cXcEUJP",
+    "name": "0K2A4225.MP4",
+    "source_url": "https://drive.google.com/file/d/1NMmsTXHeflMAOTkPKKALsqEC-cXcEUJP/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1M8ezv3dA0OTpCR_hc4ZCg5PJ25NBqbd-",
+    "name": "0K2A4226.MP4",
+    "source_url": "https://drive.google.com/file/d/1M8ezv3dA0OTpCR_hc4ZCg5PJ25NBqbd-/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1lONF7cll8XXuAb2u8p6o15UZ1OVe4-R9",
+    "name": "0K2A4228.MP4",
+    "source_url": "https://drive.google.com/file/d/1lONF7cll8XXuAb2u8p6o15UZ1OVe4-R9/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "15qMFQeKmbIkMNZwUr_REYWiuxbmn86AE",
+    "name": "0K2A4229.MP4",
+    "source_url": "https://drive.google.com/file/d/15qMFQeKmbIkMNZwUr_REYWiuxbmn86AE/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1hrYLym68MmnYrIUo5tbOj-UC2EzGLVwk",
+    "name": "0K2A4230.MP4",
+    "source_url": "https://drive.google.com/file/d/1hrYLym68MmnYrIUo5tbOj-UC2EzGLVwk/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1cS90WVsL52179VhR8Ci7N8WwELPETDgS",
+    "name": "0K2A4232.MP4",
+    "source_url": "https://drive.google.com/file/d/1cS90WVsL52179VhR8Ci7N8WwELPETDgS/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "121WK-UGAg1soiPJQOfUFyww6i0zSiq-B",
+    "name": "0K2A4233.MP4",
+    "source_url": "https://drive.google.com/file/d/121WK-UGAg1soiPJQOfUFyww6i0zSiq-B/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1Xtf4EkcczZ-T6x4U71p8htMxvpYgboY9",
+    "name": "0K2A4235.MP4",
+    "source_url": "https://drive.google.com/file/d/1Xtf4EkcczZ-T6x4U71p8htMxvpYgboY9/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1BB9xV45kU7aAxhHTkWyDd1MZ29GIw3Ft",
+    "name": "0K2A4236.MP4",
+    "source_url": "https://drive.google.com/file/d/1BB9xV45kU7aAxhHTkWyDd1MZ29GIw3Ft/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1lvOWT7trxj1cHPtL24bTgZEFUOeN-vRt",
+    "name": "0K2A4237.MP4",
+    "source_url": "https://drive.google.com/file/d/1lvOWT7trxj1cHPtL24bTgZEFUOeN-vRt/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1l-c_j8gBkN2lOGC6D5_ctQoaJuCniDq_",
+    "name": "0K2A4238.MP4",
+    "source_url": "https://drive.google.com/file/d/1l-c_j8gBkN2lOGC6D5_ctQoaJuCniDq_/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1UeP9NvolEZmnjXZFnj1FBJKU7bNgMuO1",
+    "name": "0K2A4239.MP4",
+    "source_url": "https://drive.google.com/file/d/1UeP9NvolEZmnjXZFnj1FBJKU7bNgMuO1/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1B8xQf-cBvM9ZZDZUw9WG0jfi8CTbRw-t",
+    "name": "0K2A4241.MP4",
+    "source_url": "https://drive.google.com/file/d/1B8xQf-cBvM9ZZDZUw9WG0jfi8CTbRw-t/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1OCZFg9xc24PKUNnx7Zy4QhM9eavmRSBb",
+    "name": "0K2A4244.MP4",
+    "source_url": "https://drive.google.com/file/d/1OCZFg9xc24PKUNnx7Zy4QhM9eavmRSBb/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1qelZtanjiGZT6VskfLNT2NE2MBqJTFD8",
+    "name": "0K2A4245.MP4",
+    "source_url": "https://drive.google.com/file/d/1qelZtanjiGZT6VskfLNT2NE2MBqJTFD8/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1rkNdkft3VDtnYI1lpD1UcCNYnaYvKOfY",
+    "name": "0K2A4252.MP4",
+    "source_url": "https://drive.google.com/file/d/1rkNdkft3VDtnYI1lpD1UcCNYnaYvKOfY/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1cnoIad3vpQ8xRf6LmtS5EOSvByyMwLBi",
+    "name": "0K2A4254.MP4",
+    "source_url": "https://drive.google.com/file/d/1cnoIad3vpQ8xRf6LmtS5EOSvByyMwLBi/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1D7bX2xTKsQ5emMItzKaO_yvFDlw4cXG5",
+    "name": "0K2A4256.MP4",
+    "source_url": "https://drive.google.com/file/d/1D7bX2xTKsQ5emMItzKaO_yvFDlw4cXG5/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "104Te9tFyrdPOJML0YStQDFpTF4khtaP5",
+    "name": "0K2A4259.MP4",
+    "source_url": "https://drive.google.com/file/d/104Te9tFyrdPOJML0YStQDFpTF4khtaP5/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1ifUUJAt8iDOftF3gUoApW0LJRucA5lGc",
+    "name": "0K2A4262.MP4",
+    "source_url": "https://drive.google.com/file/d/1ifUUJAt8iDOftF3gUoApW0LJRucA5lGc/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1EMBsta3qCoqM6iZ_NkfUwxCnGetxAN_Z",
+    "name": "0K2A4264.MP4",
+    "source_url": "https://drive.google.com/file/d/1EMBsta3qCoqM6iZ_NkfUwxCnGetxAN_Z/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1RmMmdQUmMaFIC9Zd7tBr0cnQZKOY8pW9",
+    "name": "0K2A4266.MP4",
+    "source_url": "https://drive.google.com/file/d/1RmMmdQUmMaFIC9Zd7tBr0cnQZKOY8pW9/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1gHQJrgmXE9nZtKN3VcpHlSyU1hBT_SrU",
+    "name": "0K2A4268.MP4",
+    "source_url": "https://drive.google.com/file/d/1gHQJrgmXE9nZtKN3VcpHlSyU1hBT_SrU/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "18mEygyQQhy2BvggqvLIiuJbcv7VnyGeg",
+    "name": "0K2A4272.MP4",
+    "source_url": "https://drive.google.com/file/d/18mEygyQQhy2BvggqvLIiuJbcv7VnyGeg/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/01. Vídeo Institucional - Sala VIP/MÍDIAS ORIGINAIS",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1tsZo45rkcXVXplhQiMGgVr2ZOD2xqSt2",
+    "name": "d7db2284-b0d8-45e7-a4fe-bf55f7e8d0b6.mp4",
+    "source_url": "https://drive.google.com/file/d/1tsZo45rkcXVXplhQiMGgVr2ZOD2xqSt2/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1yWZJsjXGOB2JVBPedFmbDXAWghGBVWyY",
+    "name": "12343763-bbe0-47aa-b6d3-84d0aa11bebf.mp4",
+    "source_url": "https://drive.google.com/file/d/1yWZJsjXGOB2JVBPedFmbDXAWghGBVWyY/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1YemW0HcauvOwf-7-lW4gMDyatLsXAftF",
+    "name": "9e90f24a-803a-4f7d-a4bc-fcd1489ce017.mp4",
+    "source_url": "https://drive.google.com/file/d/1YemW0HcauvOwf-7-lW4gMDyatLsXAftF/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1ABQzdwHJGo0Xp1V6SMP7qyh1VQEtEOUj",
+    "name": "d46bea87-8c20-41d5-87d1-b3b6eb955164.mp4",
+    "source_url": "https://drive.google.com/file/d/1ABQzdwHJGo0Xp1V6SMP7qyh1VQEtEOUj/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1J9oPBZjaQlgKYNWHG78QlOYyhfQpQ-F_",
+    "name": "57fdd900-2d4d-48c0-b4df-b98c8d3fd037.mp4",
+    "source_url": "https://drive.google.com/file/d/1J9oPBZjaQlgKYNWHG78QlOYyhfQpQ-F_/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "15F_lUdP-wSa6Ar2e27XaUcqX1oM_-gmA",
+    "name": "5ffa2bb1-c3d0-41e3-ae7b-8ed602cb0c24.mp4",
+    "source_url": "https://drive.google.com/file/d/15F_lUdP-wSa6Ar2e27XaUcqX1oM_-gmA/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "11MJMoaLSWrXM9a2Bn-TSUVsjWGbjXbou",
+    "name": "de412329-d2a8-4968-a72e-f7270ebec71d.mp4",
+    "source_url": "https://drive.google.com/file/d/11MJMoaLSWrXM9a2Bn-TSUVsjWGbjXbou/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1kM08raCrnAjRpjQajTOZq08xQLrqkaR-",
+    "name": "3d123dbc-1006-40e6-90de-9cc3f8de2b18.mp4",
+    "source_url": "https://drive.google.com/file/d/1kM08raCrnAjRpjQajTOZq08xQLrqkaR-/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1i65c6a987SxfIuxDh-aNBiHY922IE25_",
+    "name": "ef3f9f0d-b8de-4a7f-8b37-de9faf2e1990.mp4",
+    "source_url": "https://drive.google.com/file/d/1i65c6a987SxfIuxDh-aNBiHY922IE25_/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1Nzxew0dX6bxCBaQ2W4srxJTJezSFRLMq",
+    "name": "06de1d87-9940-4127-ad5d-36cdca80b6a6.mp4",
+    "source_url": "https://drive.google.com/file/d/1Nzxew0dX6bxCBaQ2W4srxJTJezSFRLMq/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1r47Yv1-28qFz1k3u1Zuqhdp3oX4pNj4c",
+    "name": "8feb3703-2065-4794-af8e-94ce975e187f.mp4",
+    "source_url": "https://drive.google.com/file/d/1r47Yv1-28qFz1k3u1Zuqhdp3oX4pNj4c/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1JWUWvEiTRqQ8-itTqtbUGiuYLip7bWqY",
+    "name": "8feb3703-2065-4794-af8e-94ce975e187f.mp4",
+    "source_url": "https://drive.google.com/file/d/1JWUWvEiTRqQ8-itTqtbUGiuYLip7bWqY/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1pcx0SDNqHVAGgpK1cT_HkCFiscEO89hm",
+    "name": "ddb3ecb1-80e5-4c20-a9b3-d1c3026083df.mp4",
+    "source_url": "https://drive.google.com/file/d/1pcx0SDNqHVAGgpK1cT_HkCFiscEO89hm/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1-zctTQX6nfcdUVuEWSgKDBmSFSPJPcEm",
+    "name": "db086528-cdd2-44bd-8bf3-30879e82887f.mp4",
+    "source_url": "https://drive.google.com/file/d/1-zctTQX6nfcdUVuEWSgKDBmSFSPJPcEm/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  },
+  {
+    "id": "1qOaHyJQ5gecJw6syI9jHQndK5_9TbFfu",
+    "name": "5a7476d7-ed2d-49cd-9a02-6655bf34a8c1.mp4",
+    "source_url": "https://drive.google.com/file/d/1qOaHyJQ5gecJw6syI9jHQndK5_9TbFfu/view?usp=drivesdk",
+    "mime": "video/mp4",
+    "collection": "fotografia/SALA VIP/Mídias antigas/Semana do consumidor  Sala Vip",
+    "reason": "video-ou-original-de-producao-externo"
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "brand": "quero-passagem",
+    "id": "1:1759",
+    "name": "Story - Viajar de ônibus é a escolha certa",
+    "width": 1080,
+    "height": 1920,
+    "texts": [
+      {
+        "id": "1:1769",
+        "text": "Viajar de ônibus é a escolha certa!",
+        "x": 149.1259765625,
+        "y": 260.47265625,
+        "width": 704,
+        "height": 75,
+        "segments": [
+          {
+            "characters": "Viajar de ônibus é a escolha certa!",
+            "start": 0,
+            "end": 35,
+            "fontSize": 58,
+            "fontName": {
+              "family": "Instrument Serif",
+              "style": "Italic"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0,
+                  "g": 0.14509804546833038,
+                  "b": 0.7568627595901489
+                },
+                "boundVariables": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1:1777",
+        "text": "Viaje com a Quero Passagem.",
+        "x": 190,
+        "y": 369.345703125,
+        "width": 733,
+        "height": 49,
+        "segments": [
+          {
+            "characters": "Viaje com a Quero Passagem.",
+            "start": 0,
+            "end": 27,
+            "fontSize": 35,
+            "fontName": {
+              "family": "Bacalar",
+              "style": "Expanded"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "colors": {
+      "#ffcc00": 1,
+      "#ffffff": 5,
+      "#ffcf09": 1,
+      "#0025c1": 5
+    }
+  },
+  {
+    "brand": "viajo-mucho",
+    "id": "1:3470",
+    "name": "Story - Destinos sorpresa: ¿A dónde te escapas este fin?",
+    "width": 1080,
+    "height": 1920,
+    "texts": [
+      {
+        "id": "1:3480",
+        "text": "El destino perfecto para ti está más cerca de lo que crees.",
+        "x": 142,
+        "y": 267,
+        "width": 797,
+        "height": 207,
+        "segments": [
+          {
+            "characters": "El destino perfecto para ti está más cerca de lo que crees.",
+            "start": 0,
+            "end": 59,
+            "fontSize": 60,
+            "fontName": {
+              "family": "Mauren Trial Version",
+              "style": "Regular"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1:3481",
+        "text": "Encuéntralo en viajomucho.com.mx",
+        "x": 258,
+        "y": 1603,
+        "width": 564,
+        "height": 92,
+        "segments": [
+          {
+            "characters": "Encuéntralo en ",
+            "start": 0,
+            "end": 15,
+            "fontSize": 40,
+            "fontName": {
+              "family": "Work Sans",
+              "style": "Regular",
+              "variationSettings": {
+                "wght": 400
+              }
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ]
+          },
+          {
+            "characters": "viajomucho.com.mx",
+            "start": 15,
+            "end": 32,
+            "fontSize": 40,
+            "fontName": {
+              "family": "Work Sans",
+              "style": "SemiBold",
+              "variationSettings": {
+                "wght": 600
+              }
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "colors": {
+      "#0187e6": 1,
+      "#ddfa6a": 3,
+      "#ffffff": 2,
+      "#fa4b00": 1
+    }
+  },
+  {
+    "brand": "rodon",
+    "id": "42:42",
+    "name": "Roteiro fim de semana em Campos do Jordão - 0",
+    "width": 1080,
+    "height": 1442,
+    "texts": [
+      {
+        "id": "45:49",
+        "text": "Fim de semana em Campos do Jordão",
+        "x": 125,
+        "y": 1033,
+        "width": 398,
+        "height": 96,
+        "segments": [
+          {
+            "characters": "Fim de semana em Campos do Jordão",
+            "start": 0,
+            "end": 33,
+            "fontSize": 43,
+            "fontName": {
+              "family": "FONTSPRING DEMO - All Round Gothic Bold",
+              "style": "Regular"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "47:51",
+        "text": "Roteiro completo para sua viagem.",
+        "x": 125,
+        "y": 1206,
+        "width": 444,
+        "height": 88,
+        "segments": [
+          {
+            "characters": "Roteiro completo para sua viagem.",
+            "start": 0,
+            "end": 33,
+            "fontSize": 40,
+            "fontName": {
+              "family": "Poppins",
+              "style": "Regular"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "boundVariables": {}
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "colors": {
+      "#ffffff": 4,
+      "#0005c5": 1,
+      "#fb8e00": 1
+    }
+  }
+]

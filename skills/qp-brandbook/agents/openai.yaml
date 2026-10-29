@@ -1,0 +1,6 @@
+interface:
+  display_name: "Brandbook Quero Passagem"
+  short_description: "Artes e apresentações com a identidade oficial QP"
+  default_prompt: "Use $qp-brandbook para criar uma peça com os templates e assets oficiais da marca escolhida."
+policy:
+  allow_implicit_invocation: true

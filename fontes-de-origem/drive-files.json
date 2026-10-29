@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "1r80HtAMd2PTflVlzT-HXWC1xjIuEff-A3lP8uknESHo",
+    "path": "skills/qp-brandbook/assets/templates/apresentacoes/1r80HtAMd2PTflVlzT-HXWC1xjIuEff-A3lP8uknESHo-modelo-de-apresentacao---qp.pptx",
+    "size": 1760834,
+    "exported": true
+  },
+  {
+    "id": "1sskzsF8LXBPe1-NUyNRPqgKnucaQoRF-h89Iqnv8TLE",
+    "path": "skills/qp-brandbook/assets/templates/apresentacoes/1sskzsF8LXBPe1-NUyNRPqgKnucaQoRF-h89Iqnv8TLE-quero-apresentacao-institucional.pptx",
+    "size": 17604296,
+    "exported": true
+  },
+  {
+    "id": "1Hkcuo7mEPjGJgihRBZ9EkwzKU1DsoJNAHy1ddBKHhs4",
+    "path": "skills/qp-brandbook/assets/templates/recursos/1Hkcuo7mEPjGJgihRBZ9EkwzKU1DsoJNAHy1ddBKHhs4-copia-de-assinatura-de-e-mail.docx",
+    "size": 59174,
+    "exported": true
+  },
+  {
+    "id": "1tu0UnXUyCgRZdW4kAA4XTIqJKM7DC3putgWNk1q-LGo",
+    "path": "skills/qp-brandbook/assets/templates/recursos/1tu0UnXUyCgRZdW4kAA4XTIqJKM7DC3putgWNk1q-LGo-assinatura-de-e-mail.docx",
+    "size": 77780,
+    "exported": true
+  },
+  {
+    "id": "19lgUrEMkv7sYomWGXFMwfuqQQKP6mKlI3aBxlS94Fao",
+    "path": "skills/qp-brandbook/assets/templates/recursos/19lgUrEMkv7sYomWGXFMwfuqQQKP6mKlI3aBxlS94Fao-template-comunicados---quero-passagem.pptx",
+    "size": 227210,
+    "exported": true
+  },
+  {
+    "id": "1XdhEMFy69yveSa8_dvOJQLxFT0TO6x1q",
+    "path": "skills/qp-brandbook/assets/fontes/kit-marca-tipografia/1XdhEMFy69yveSa8_dvOJQLxFT0TO6x1q-tipografia.pdf",
+    "size": 3604931,
+    "exported": false
+  },
+  {
+    "id": "12knfIGJlzWvj4dyS9gNsK6eWE-r8vG67",
+    "path": "skills/qp-brandbook/assets/cores/kit-marca-cores/12knfIGJlzWvj4dyS9gNsK6eWE-r8vG67-3.-experiencia-elevada.jpg",
+    "size": 138349,
+    "exported": false
+  },
+  {
+    "id": "1hewyUSAQeBthSu7dstDsujDzb80-AwGC",
+    "path": "skills/qp-brandbook/assets/cores/kit-marca-cores/1hewyUSAQeBthSu7dstDsujDzb80-AwGC-2.-secundarias.jpg",
+    "size": 134238,
+    "exported": false
+  },
+  {
+    "id": "1T3C9YBSGFuJZsR8WSrI37K7TnT2shGWs",
+    "path": "skills/qp-brandbook/assets/cores/kit-marca-cores/1T3C9YBSGFuJZsR8WSrI37K7TnT2shGWs-1.-principais.jpg",
+    "size": 124713,
+    "exported": false
+  },
+  {
+    "id": "1hmM-QXgfs_p8YbOcO2gv-0s3Wna1gH_p",
+    "path": "skills/qp-brandbook/assets/fundos-meet/recursos-fundos-de-meet/1hmM-QXgfs_p8YbOcO2gv-0s3Wna1gH_p-qp-fundo-meet---stickers-100.jpg",
+    "size": 233760,
+    "exported": false
+  },
+  {
+    "id": "1qbCDXIKaOTc_8fHuDjiqK43dMtE78kEE",
+    "path": "skills/qp-brandbook/assets/fundos-meet/recursos-fundos-de-meet/1qbCDXIKaOTc_8fHuDjiqK43dMtE78kEE-qp-fundo-meet---stickers-100.jpg",
+    "size": 226579,
+    "exported": false
+  },
+  {
+    "id": "1hYi9ymrezUSJ74XEu1Tn8dortIIa5y1B",
+    "path": "skills/qp-brandbook/assets/fundos-meet/recursos-fundos-de-meet/1hYi9ymrezUSJ74XEu1Tn8dortIIa5y1B-qp-fundo-meet---linhas-100.jpg",
+    "size": 179675,
+    "exported": false
+  },
+  {
+    "id": "1RYEWGwq7t4RQJBsvMc1bKMTGZkBH62hu",
+    "path": "skills/qp-brandbook/assets/fundos-meet/recursos-fundos-de-meet/1RYEWGwq7t4RQJBsvMc1bKMTGZkBH62hu-qp-fundo-meet---linhas-100.jpg",
+    "size": 158861,
+    "exported": false
+  },
+  {
+    "id": "1lsn12sTHH1n7lwcieAU6EJ4IBwi7IpZ9",
+    "path": "skills/qp-brandbook/assets/fundos-meet/recursos-fundos-de-meet/1lsn12sTHH1n7lwcieAU6EJ4IBwi7IpZ9-qp-fundo-meet---poltrona-x-cadeira-100.jpg",
+    "size": 316015,
+    "exported": false
+  },
+  {
+    "id": "12fChPGkbR5jLplJ5SBivt09-2CpDMhig",
+    "path": "skills/qp-brandbook/assets/fontes/kit-marca-tipografia-4.instrument-serif/12fChPGkbR5jLplJ5SBivt09-2CpDMhig-ofl.txt",
+    "size": 4498,
+    "exported": false
+  },
+  {
+    "id": "1QEl5p8RJ7HQdSmZpBUhku7OZDqDtGoii",
+    "path": "skills/qp-brandbook/assets/fontes/kit-marca-tipografia-4.instrument-serif/1QEl5p8RJ7HQdSmZpBUhku7OZDqDtGoii-instrumentserif-regular.ttf",
+    "size": 69312,
+    "exported": false
+  },
+  {
+    "id": "1UFOTpGXy6c1X7QeO5HKhYEBMK28651u4",
+    "path": "skills/qp-brandbook/assets/fontes/kit-marca-tipografia-4.instrument-serif/1UFOTpGXy6c1X7QeO5HKhYEBMK28651u4-instrumentserif-italic.ttf",
+    "size": 70868,
+    "exported": false
+  },
+  {
+    "id": "1Q8QvTCs6PZj99yD0BmbKo5Ci0LfkWf_b",
+    "path": "skills/qp-brandbook/assets/fontes/kit-marca-tipografia-2.inter/1Q8QvTCs6PZj99yD0BmbKo5Ci0LfkWf_b-readme.txt",
+    "size": 3894,
+    "exported": false
+  },
+  {
+    "id": "1KmBkGpYLzVxSXkPcmAb_O29nlaCX5PnM",
+    "path": "skills/qp-brandbook/assets/fontes/kit-marca-tipografia-2.inter/1KmBkGpYLzVxSXkPcmAb_O29nlaCX5PnM-ofl.txt",
+    "size": 4470,
+    "exported": false
+  },
+  {
+    "id": "11NkbHCO-DrfAV5FdwQBRIUsGJy55MurD",
+    "path": "skills/qp-brandbook/assets/fontes/kit-marca-tipografia-2.inter/11NkbHCO-DrfAV5FdwQBRIUsGJy55MurD-inter-variablefont_opsz-wght.ttf",
+    "size": 874708,
+    "exported": false
+  },
+  {
+    "id": "1KfNOS86-vz1QsnBEn-mLiB4EjuCqtf0H",
+    "path": "skills/qp-brandbook/assets/fontes/kit-marca-tipografia-2.inter/1KfNOS86-vz1QsnBEn-mLiB4EjuCqtf0H-inter-italic-variablefont_opsz-wght.ttf",
+    "size": 904532,
+    "exported": false
+  },
+  {
+    "id": "164dLpreLRfwE_KztBqkT-RphAy1MwK0w",
+    "path": "skills/qp-brandbook/assets/fontes/kit-marca-tipografia-1.sora/164dLpreLRfwE_KztBqkT-RphAy1MwK0w-sora-variablefont_wght.ttf",
+    "size": 110224,
+    "exported": false
+  },
+  {
+    "id": "1nlW8VE3LonCC9mD3goJI_V03uRTwyyEr",
+    "path": "skills/qp-brandbook/assets/fontes/kit-marca-tipografia-1.sora/1nlW8VE3LonCC9mD3goJI_V03uRTwyyEr-readme.txt",
+    "size": 2202,
+    "exported": false
+  },
+  {
+    "id": "1dDwtNzMP-uP28JtnalkuAFSiaVySDVTg",
+    "path": "skills/qp-brandbook/assets/fontes/kit-marca-tipografia-1.sora/1dDwtNzMP-uP28JtnalkuAFSiaVySDVTg-ofl.txt",
+    "size": 4477,
+    "exported": false
+  },
+  {
+    "id": "1Ey_zpcgReX_0FbHdBydWm6gy01TH-T2i",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/1Ey_zpcgReX_0FbHdBydWm6gy01TH-T2i-quero-passagem---jessica1188.jpg",
+    "size": 675514,
+    "exported": false
+  },
+  {
+    "id": "1DbJyK9FN6SidHXg08eDdYiK1R0oLknQ0",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/1DbJyK9FN6SidHXg08eDdYiK1R0oLknQ0-quero-passagem---jessica1189.jpg",
+    "size": 663976,
+    "exported": false
+  },
+  {
+    "id": "1PFgk13ov1pk72TjuVnF4_Menn9WS2-xJ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/1PFgk13ov1pk72TjuVnF4_Menn9WS2-xJ-quero-passagem---jessica1193.jpg",
+    "size": 698639,
+    "exported": false
+  },
+  {
+    "id": "16MvSAuf18lHSZOBcwcI40_giTvS9mQlk",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/16MvSAuf18lHSZOBcwcI40_giTvS9mQlk-quero-passagem---jessica1194.jpg",
+    "size": 376536,
+    "exported": false
+  },
+  {
+    "id": "1kp0uhh0H-PpSMooGTXT-wNjO9MsAsgIm",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/1kp0uhh0H-PpSMooGTXT-wNjO9MsAsgIm-quero-passagem---jessica1200.jpg",
+    "size": 670419,
+    "exported": false
+  },
+  {
+    "id": "1pJIZ_2wfAYij1AGUyJPzPj3J7zfBY9v0",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/1pJIZ_2wfAYij1AGUyJPzPj3J7zfBY9v0-quero-passagem---jessica1214.jpg",
+    "size": 685506,
+    "exported": false
+  },
+  {
+    "id": "1-yv1zsPH1iLcbI2bWQEHyKWiEMMyb5JQ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/1-yv1zsPH1iLcbI2bWQEHyKWiEMMyb5JQ-quero-passagem---jessica1220.jpg",
+    "size": 634989,
+    "exported": false
+  },
+  {
+    "id": "1L_1y-LxTot1lFcS0q_tKuPwktk9Wmt4i",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/1L_1y-LxTot1lFcS0q_tKuPwktk9Wmt4i-quero-passagem---jessica1236.jpg",
+    "size": 531819,
+    "exported": false
+  },
+  {
+    "id": "1wvSlaL9vtkmS1Q1ywND41JqbLYBSxhcH",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/1wvSlaL9vtkmS1Q1ywND41JqbLYBSxhcH-quero-passagem---jessica1239.jpg",
+    "size": 559017,
+    "exported": false
+  },
+  {
+    "id": "1GSYEWIvQnoBF7Z2k8pQzz3T5uXU_Za9o",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/1GSYEWIvQnoBF7Z2k8pQzz3T5uXU_Za9o-quero-passagem---jessica1254.jpg",
+    "size": 565938,
+    "exported": false
+  },
+  {
+    "id": "150_lR5EEj44bsET6OwgghwXHCdE0g3PY",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/150_lR5EEj44bsET6OwgghwXHCdE0g3PY-quero-passagem---jessica1255.jpg",
+    "size": 487404,
+    "exported": false
+  },
+  {
+    "id": "10Cri2xcGwRWYBq7KWbe9bE0kpKyG-e7V",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/10Cri2xcGwRWYBq7KWbe9bE0kpKyG-e7V-quero-passagem---jessica1267.jpg",
+    "size": 285233,
+    "exported": false
+  },
+  {
+    "id": "1U9sL_QxaqZzttTFd0lHWATirZ0VxcRAo",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/1U9sL_QxaqZzttTFd0lHWATirZ0VxcRAo-quero-passagem---jessica1268.jpg",
+    "size": 286557,
+    "exported": false
+  },
+  {
+    "id": "14UtXVegFRWRNN709Xe212U2qc4M4TRMg",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/14UtXVegFRWRNN709Xe212U2qc4M4TRMg-quero-passagem---jessica1278.jpg",
+    "size": 280167,
+    "exported": false
+  },
+  {
+    "id": "10Fj_z8Qpa9ja-FEssZfWrkD3uxwMrkpJ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/10Fj_z8Qpa9ja-FEssZfWrkD3uxwMrkpJ-quero-passagem---jessica1281.jpg",
+    "size": 299471,
+    "exported": false
+  },
+  {
+    "id": "10Ye1V0qfaek6P_bNjvbjXCmeyVbllihF",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy/10Ye1V0qfaek6P_bNjvbjXCmeyVbllihF-quero-passagem---jessica1287.jpg",
+    "size": 290765,
+    "exported": false
+  },
+  {
+    "id": "1bJ41mpP-7ar0JoPIOzwu8HBE1xtD4w6K",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1bJ41mpP-7ar0JoPIOzwu8HBE1xtD4w6K-qp-30.jpg",
+    "size": 21039750,
+    "exported": false
+  },
+  {
+    "id": "1C3cf4gxEcb9wD92LJncyOysbI3XUHljs",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1C3cf4gxEcb9wD92LJncyOysbI3XUHljs-qp-32.jpg",
+    "size": 23665707,
+    "exported": false
+  },
+  {
+    "id": "13yUS1JlJJQtJ4mi_XUKbU0zgdjF4-vIh",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/13yUS1JlJJQtJ4mi_XUKbU0zgdjF4-vIh-qp-4.jpg",
+    "size": 25748058,
+    "exported": false
+  },
+  {
+    "id": "1lkhGcK5MODAI_a6x7l091bZgyl3LseeM",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1lkhGcK5MODAI_a6x7l091bZgyl3LseeM-qp-5.jpg",
+    "size": 26267460,
+    "exported": false
+  },
+  {
+    "id": "1CCgVCrLj9l9poeMzBOhNFw4ldLKASFKV",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1CCgVCrLj9l9poeMzBOhNFw4ldLKASFKV-qp-6.jpg",
+    "size": 23759369,
+    "exported": false
+  },
+  {
+    "id": "15eF5ZsSgOQUjTqjtIhka_WuMp9c-kbon",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/15eF5ZsSgOQUjTqjtIhka_WuMp9c-kbon-qp-8.jpg",
+    "size": 22193190,
+    "exported": false
+  },
+  {
+    "id": "1eaJN4hl1kC00Crna0YAIeCabyeJ96bc1",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1eaJN4hl1kC00Crna0YAIeCabyeJ96bc1-qp-9.jpg",
+    "size": 22785868,
+    "exported": false
+  },
+  {
+    "id": "1tfK0X5q40zncuT7pH69T0XLQeh8Refs7",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1tfK0X5q40zncuT7pH69T0XLQeh8Refs7-qp-14.jpg",
+    "size": 14682933,
+    "exported": false
+  },
+  {
+    "id": "1vmZy27RxobpnIQImZ6Er2SFaBiYx3Nlg",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1vmZy27RxobpnIQImZ6Er2SFaBiYx3Nlg-qp-15.jpg",
+    "size": 17126566,
+    "exported": false
+  },
+  {
+    "id": "1cCYlXU5kcWxoU1Ve3n_nxMmqBkY_164C",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1cCYlXU5kcWxoU1Ve3n_nxMmqBkY_164C-qp-21.jpg",
+    "size": 16143985,
+    "exported": false
+  },
+  {
+    "id": "1Fj0gvcCAleGBpU_Hn4UqQ8He2MDqBhCy",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1Fj0gvcCAleGBpU_Hn4UqQ8He2MDqBhCy-qp-23.jpg",
+    "size": 16195566,
+    "exported": false
+  },
+  {
+    "id": "1zUCr3FfLJgXLD_r5kP4rK0uxff6iS5qZ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1zUCr3FfLJgXLD_r5kP4rK0uxff6iS5qZ-qp-25.jpg",
+    "size": 20552252,
+    "exported": false
+  },
+  {
+    "id": "1Eh4UoocxEqCrtDwDKI5g4tzPY2ZKerAJ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1Eh4UoocxEqCrtDwDKI5g4tzPY2ZKerAJ-qp-33.jpg",
+    "size": 24416235,
+    "exported": false
+  },
+  {
+    "id": "1Z_l0LAoQR_eLBn7mn4cYMdhirnT0NBEE",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1Z_l0LAoQR_eLBn7mn4cYMdhirnT0NBEE-qp-36.jpg",
+    "size": 22189581,
+    "exported": false
+  },
+  {
+    "id": "1geByQtJkAqU4BVF8-PBS9uYFOkxTVPok",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1geByQtJkAqU4BVF8-PBS9uYFOkxTVPok-qp-41.jpg",
+    "size": 18465128,
+    "exported": false
+  },
+  {
+    "id": "1dNpk8ddHtjjrMVCnq6uwe0gr93oJVf2y",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1dNpk8ddHtjjrMVCnq6uwe0gr93oJVf2y-qp-42.jpg",
+    "size": 17897813,
+    "exported": false
+  },
+  {
+    "id": "1bEeWnDyPzK3VXMfWCRB1IrfxcFxL3hdo",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1bEeWnDyPzK3VXMfWCRB1IrfxcFxL3hdo-qp-1.jpg",
+    "size": 14197384,
+    "exported": false
+  },
+  {
+    "id": "1MHegCdZPjUeaQX51tlisbn1dJk3ifJNv",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1MHegCdZPjUeaQX51tlisbn1dJk3ifJNv-qp-3.jpg",
+    "size": 21322864,
+    "exported": false
+  },
+  {
+    "id": "1rRU-tNIU4odnDm8PDend0XnD6wNUPlUK",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1rRU-tNIU4odnDm8PDend0XnD6wNUPlUK-qp-7.jpg",
+    "size": 20235628,
+    "exported": false
+  },
+  {
+    "id": "14QGPXCoip3myXlFFfurwBhhwh6uOZd5b",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/14QGPXCoip3myXlFFfurwBhhwh6uOZd5b-qp-11.jpg",
+    "size": 15283764,
+    "exported": false
+  },
+  {
+    "id": "1Qtw4cHpKXRgAWWOIeP36NX9xFKRNZTcc",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1Qtw4cHpKXRgAWWOIeP36NX9xFKRNZTcc-qp-13.jpg",
+    "size": 16210833,
+    "exported": false
+  },
+  {
+    "id": "14J__oWR3M63WCDn187sBG_XqL4xZHNuA",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/14J__oWR3M63WCDn187sBG_XqL4xZHNuA-qp-16.jpg",
+    "size": 17170083,
+    "exported": false
+  },
+  {
+    "id": "1ptY-Heu6j0NGgpLa2gQgYyV5zQaht2NX",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1ptY-Heu6j0NGgpLa2gQgYyV5zQaht2NX-qp-19.jpg",
+    "size": 13214236,
+    "exported": false
+  },
+  {
+    "id": "1Zfhxja18VIeTzmdTxigqDxlXo5EwWb7q",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1Zfhxja18VIeTzmdTxigqDxlXo5EwWb7q-qp-24.jpg",
+    "size": 18343484,
+    "exported": false
+  },
+  {
+    "id": "1LNIGKUc6ixprlrXKqsmKNFXFj1h1hHZX",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1LNIGKUc6ixprlrXKqsmKNFXFj1h1hHZX-qp-26.jpg",
+    "size": 15296523,
+    "exported": false
+  },
+  {
+    "id": "1EwzjwewtKVbUIkaLTbgKSGjIY6F-k7eP",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1EwzjwewtKVbUIkaLTbgKSGjIY6F-k7eP-qp-27.jpg",
+    "size": 19934598,
+    "exported": false
+  },
+  {
+    "id": "1yLgYL4leNd_uleh3SJLai3H3JqF2wu_9",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1yLgYL4leNd_uleh3SJLai3H3JqF2wu_9-qp-34.jpg",
+    "size": 23831534,
+    "exported": false
+  },
+  {
+    "id": "1CcTrNlzRQi5TBCXY5TjucfY2zbAcVXCb",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1CcTrNlzRQi5TBCXY5TjucfY2zbAcVXCb-qp-35.jpg",
+    "size": 21701428,
+    "exported": false
+  },
+  {
+    "id": "1gosJftsVgo2CUdffv4s_wNbm-CXqTLfx",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1gosJftsVgo2CUdffv4s_wNbm-CXqTLfx-qp-38.jpg",
+    "size": 17858816,
+    "exported": false
+  },
+  {
+    "id": "1j-BTzA00BUk9CaBxuQIpePyJ2V0Yu4hN",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1j-BTzA00BUk9CaBxuQIpePyJ2V0Yu4hN-qp-39.jpg",
+    "size": 16532484,
+    "exported": false
+  },
+  {
+    "id": "1Y6MZnwipWjTcKbsAQwEgN4qYkR_3OIBT",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1Y6MZnwipWjTcKbsAQwEgN4qYkR_3OIBT-qp-40.jpg",
+    "size": 17815960,
+    "exported": false
+  },
+  {
+    "id": "1zaQCmFkLkSDDzyZgXoModqumLOY_vbfB",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1zaQCmFkLkSDDzyZgXoModqumLOY_vbfB-qp-43.jpg",
+    "size": 18570988,
+    "exported": false
+  },
+  {
+    "id": "16RkOSHc1NpY-7KXtthF62W6EU0VDzLiY",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/16RkOSHc1NpY-7KXtthF62W6EU0VDzLiY-qp-44.jpg",
+    "size": 11115418,
+    "exported": false
+  },
+  {
+    "id": "11VfE35p6Wfk-1Skua9FpKhmI5vymEtVa",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/11VfE35p6Wfk-1Skua9FpKhmI5vymEtVa-qp-2.jpg",
+    "size": 12577099,
+    "exported": false
+  },
+  {
+    "id": "1DaV2nzhs9Z1_cN3kJVW5sc8IPcW9Ah4l",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1DaV2nzhs9Z1_cN3kJVW5sc8IPcW9Ah4l-qp-10.jpg",
+    "size": 15077654,
+    "exported": false
+  },
+  {
+    "id": "1ktdDJswi8FS8h0hbUmJKfXGdxMWp8b_c",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1ktdDJswi8FS8h0hbUmJKfXGdxMWp8b_c-qp-12.jpg",
+    "size": 13854881,
+    "exported": false
+  },
+  {
+    "id": "10w7gPImVTQ_gRyPnEkAjJqtD-I9oLQzE",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/10w7gPImVTQ_gRyPnEkAjJqtD-I9oLQzE-qp-17.jpg",
+    "size": 13972768,
+    "exported": false
+  },
+  {
+    "id": "1yyLtt3D0AwYCkOuKPek1dJAQTnGp_fvH",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1yyLtt3D0AwYCkOuKPek1dJAQTnGp_fvH-qp-18.jpg",
+    "size": 13608058,
+    "exported": false
+  },
+  {
+    "id": "19ixp1pQnh4mASlMfxYXgkj1TGz1rjFDy",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/19ixp1pQnh4mASlMfxYXgkj1TGz1rjFDy-qp-20.jpg",
+    "size": 12048675,
+    "exported": false
+  },
+  {
+    "id": "1VEujCHEGWlTz9Rm9OBoaQBQlRAvakrQA",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1VEujCHEGWlTz9Rm9OBoaQBQlRAvakrQA-qp-22.jpg",
+    "size": 16849067,
+    "exported": false
+  },
+  {
+    "id": "1Tx0iruMY4p2FvfDhdZzvGGF8vB12AvhG",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1Tx0iruMY4p2FvfDhdZzvGGF8vB12AvhG-qp-28.jpg",
+    "size": 13559465,
+    "exported": false
+  },
+  {
+    "id": "1Pq8LjkS330kQX1d1kx_WovN_Lt06RlVB",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1Pq8LjkS330kQX1d1kx_WovN_Lt06RlVB-qp-29.jpg",
+    "size": 8998474,
+    "exported": false
+  },
+  {
+    "id": "1cZjoBnFVp7tFGUsm9XXGGnxf8euMueFT",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1cZjoBnFVp7tFGUsm9XXGGnxf8euMueFT-qp-31.jpg",
+    "size": 19910452,
+    "exported": false
+  },
+  {
+    "id": "1wXOktnyFBePu6JgFRobKcEjHtKtAdM6v",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1wXOktnyFBePu6JgFRobKcEjHtKtAdM6v-qp-37.jpg",
+    "size": 11967087,
+    "exported": false
+  },
+  {
+    "id": "1tYgfsy4inMBUUc3VRUHELV3Ardj4Bjw8",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-irineu-dez-2025/1tYgfsy4inMBUUc3VRUHELV3Ardj4Bjw8-qp-45.jpg",
+    "size": 9692754,
+    "exported": false
+  },
+  {
+    "id": "138DVeqWAdwFbVo6KPM6O6XiAwcRTQJ4i",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-documentos/138DVeqWAdwFbVo6KPM6O6XiAwcRTQJ4i-terminais-socicam.png",
+    "size": 18904,
+    "exported": false
+  },
+  {
+    "id": "1k8r52GlcOCkycbF1mspbVAu5ZaYoaLd9",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-6.-sala-vip-svg/1k8r52GlcOCkycbF1mspbVAu5ZaYoaLd9-salavip.svg",
+    "size": 4362,
+    "exported": false
+  },
+  {
+    "id": "1801bECBhmSRbAEU4xOMD9T9VAvf_QwMn",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-6.-sala-vip-svg/1801bECBhmSRbAEU4xOMD9T9VAvf_QwMn-salavip-white.svg",
+    "size": 4359,
+    "exported": false
+  },
+  {
+    "id": "1k5oB0oopuNncet82-7sAo6_o-rRkaBBM",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-6.-sala-vip-svg/1k5oB0oopuNncet82-7sAo6_o-rRkaBBM-salavip-qp.svg",
+    "size": 9060,
+    "exported": false
+  },
+  {
+    "id": "1pMSK0DYOd_zZYGIJ-IiDz3sws1XyK1pl",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-6.-sala-vip-svg/1pMSK0DYOd_zZYGIJ-IiDz3sws1XyK1pl-salavip-white-qp.svg",
+    "size": 9057,
+    "exported": false
+  },
+  {
+    "id": "18FC7GDWF0JDIDIj4yXJC8DQHyR99cxR1",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-6.-sala-vip-png/18FC7GDWF0JDIDIj4yXJC8DQHyR99cxR1-salavip-2x.png",
+    "size": 11369,
+    "exported": false
+  },
+  {
+    "id": "1Iv3h8_FiqSd22Mcvvjosclnh3CNAsRV7",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-6.-sala-vip-png/1Iv3h8_FiqSd22Mcvvjosclnh3CNAsRV7-salavip-white-2x.png",
+    "size": 10624,
+    "exported": false
+  },
+  {
+    "id": "1emyXO7tAUyf94FuSfB5oEbxwaAjH4KEF",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-6.-sala-vip-png/1emyXO7tAUyf94FuSfB5oEbxwaAjH4KEF-salavip-white-qp-2x.png",
+    "size": 21890,
+    "exported": false
+  },
+  {
+    "id": "1drXKQqUia1VrE29Ripj8ACREutDET1_k",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-6.-sala-vip-png/1drXKQqUia1VrE29Ripj8ACREutDET1_k-salavip-qp-2x.png",
+    "size": 23291,
+    "exported": false
+  },
+  {
+    "id": "16JwrYo_v_PcBTNr9kK_3V4DBdzxfUKxa",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-00.-grupo-quero-passagem-svg/16JwrYo_v_PcBTNr9kK_3V4DBdzxfUKxa-grupo-qp.svg",
+    "size": 7234,
+    "exported": false
+  },
+  {
+    "id": "1RAd-LiOfj-nyaPsCBB8xkqj8_Tq009Y6",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-00.-grupo-quero-passagem-png/1RAd-LiOfj-nyaPsCBB8xkqj8_Tq009Y6-grupo-qp-cor.png",
+    "size": 3872,
+    "exported": false
+  },
+  {
+    "id": "1SNoaaYjuPGJF-YHvQ5GWjac6RxTiNYT3",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-00.-grupo-quero-passagem-png/1SNoaaYjuPGJF-YHvQ5GWjac6RxTiNYT3-grupo-qp-negativo.png",
+    "size": 3543,
+    "exported": false
+  },
+  {
+    "id": "1lAQQZFjp6ytRR2ssFe21zfOYcJ0qhAff",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-5.-rodon-svg/1lAQQZFjp6ytRR2ssFe21zfOYcJ0qhAff-rodon-logo.svg",
+    "size": 1679,
+    "exported": false
+  },
+  {
+    "id": "1p3irn9nbnOBLRpHvYAhdbda95HFC1Cht",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-5.-rodon-png/1p3irn9nbnOBLRpHvYAhdbda95HFC1Cht-rodon-logo-branco-8.png",
+    "size": 9252,
+    "exported": false
+  },
+  {
+    "id": "1KIxASwlVaTROmDA9XgmWw-Du22cbNmsG",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-5.-rodon-png/1KIxASwlVaTROmDA9XgmWw-Du22cbNmsG-rodon-logo-cores-8.png",
+    "size": 9923,
+    "exported": false
+  },
+  {
+    "id": "1-8nY7LyyArQTfRtPhUIyT8GIEj29GWCL",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-4.-teletiquete-svg/1-8nY7LyyArQTfRtPhUIyT8GIEj29GWCL-teletiquete-logo.svg",
+    "size": 5483,
+    "exported": false
+  },
+  {
+    "id": "1iCkmrJbDbweNU9ryt14WAfybORj_cCQ8",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-4.-teletiquete-png/1iCkmrJbDbweNU9ryt14WAfybORj_cCQ8-teletiquete-logo---azul.png",
+    "size": 52152,
+    "exported": false
+  },
+  {
+    "id": "14cFwZ1KtSMsnEXTP2op2N14ZSm9HI7bS",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-4.-teletiquete-png/14cFwZ1KtSMsnEXTP2op2N14ZSm9HI7bS-teletiquete-logo-branco.png",
+    "size": 57114,
+    "exported": false
+  },
+  {
+    "id": "1V8LmM9xFzZa4V8aDpOdtVbF8UuAdXdAv",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-3.-la-terminal-svg/1V8LmM9xFzZa4V8aDpOdtVbF8UuAdXdAv-la-terminal-logo---branco.svg",
+    "size": 10872,
+    "exported": false
+  },
+  {
+    "id": "1UKKSEX7yTHjYz0DmlCTMBw3O2yEEIqMZ",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-3.-la-terminal-svg/1UKKSEX7yTHjYz0DmlCTMBw3O2yEEIqMZ-la-terminal-logo---preto.svg",
+    "size": 10694,
+    "exported": false
+  },
+  {
+    "id": "1GRBJavs0aJQQujplg6wmqBJBzO2lF59d",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-3.-la-terminal-png/1GRBJavs0aJQQujplg6wmqBJBzO2lF59d-laterminal-branco-8.png",
+    "size": 3483,
+    "exported": false
+  },
+  {
+    "id": "1F64QnvDqXeviMPlmvqwZc7aG4Bh9FdaG",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-3.-la-terminal-png/1F64QnvDqXeviMPlmvqwZc7aG4Bh9FdaG-logo---la-terminal.png",
+    "size": 30027,
+    "exported": false
+  },
+  {
+    "id": "109J-imz9votUuSXnnAnU9PWTfLv2UTRH",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-2.-viajo-mucho-svg/109J-imz9votUuSXnnAnU9PWTfLv2UTRH-viajomucho.svg",
+    "size": 4842,
+    "exported": false
+  },
+  {
+    "id": "1MRsdvZvUoRAoA1A0K-eq_GFT1ESc57d5",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-2.-viajo-mucho-png/1MRsdvZvUoRAoA1A0K-eq_GFT1ESc57d5-viajomucho-azul.png",
+    "size": 2272,
+    "exported": false
+  },
+  {
+    "id": "1V7BkzpIDwGqWyIpy21zAThUmr-mEb6Us",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-2.-viajo-mucho-png/1V7BkzpIDwGqWyIpy21zAThUmr-mEb6Us-viajomucho-branca-8.png",
+    "size": 1972,
+    "exported": false
+  },
+  {
+    "id": "1x4s1NKW4GCkAJFChK3n_MLBR6U7edj72",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-svg/1x4s1NKW4GCkAJFChK3n_MLBR6U7edj72-vertical-principal.svg",
+    "size": 4606,
+    "exported": false
+  },
+  {
+    "id": "1s3daeOZ5dJsn9XoODbVyoYQuCNvf5fUz",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-svg/1s3daeOZ5dJsn9XoODbVyoYQuCNvf5fUz-vertical-negativo.svg",
+    "size": 4556,
+    "exported": false
+  },
+  {
+    "id": "19vPCaZ9xa5HVDfygGVOgY18TT2hpv2_n",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-svg/19vPCaZ9xa5HVDfygGVOgY18TT2hpv2_n-vertical-fundoescuro.svg",
+    "size": 4603,
+    "exported": false
+  },
+  {
+    "id": "1vmOJQMpDrbd5aha3bdNWMJ2GVQloF4DR",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-svg/1vmOJQMpDrbd5aha3bdNWMJ2GVQloF4DR-simbolo-principal.svg",
+    "size": 860,
+    "exported": false
+  },
+  {
+    "id": "1hSm5L6-nRxfNIa2weH-ZLgqcVopf8S7n",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-svg/1hSm5L6-nRxfNIa2weH-ZLgqcVopf8S7n-simbolo-negativo.svg",
+    "size": 806,
+    "exported": false
+  },
+  {
+    "id": "10mfYaheu-sfHAutl8hiipXanI7N7kt76",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-svg/10mfYaheu-sfHAutl8hiipXanI7N7kt76-simbolo-fundoescuro.svg",
+    "size": 853,
+    "exported": false
+  },
+  {
+    "id": "1IhpRkD_Ed1PCL1wU2-AKiGBGUrmf4R4O",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-svg/1IhpRkD_Ed1PCL1wU2-AKiGBGUrmf4R4O-horizontal-principal.svg",
+    "size": 4530,
+    "exported": false
+  },
+  {
+    "id": "1rE_Vy13LgjmkpdgfTBOT7MDynv3S14_W",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-svg/1rE_Vy13LgjmkpdgfTBOT7MDynv3S14_W-horizontal-negativo.svg",
+    "size": 4480,
+    "exported": false
+  },
+  {
+    "id": "1ioC3eCEFvU6nNfHxE4Ypz-qNkp-mewXz",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-svg/1ioC3eCEFvU6nNfHxE4Ypz-qNkp-mewXz-horizontal-fundoescuro.svg",
+    "size": 4527,
+    "exported": false
+  },
+  {
+    "id": "1pB4bvVT_CLjyJSfdn9sJLFOqn2idQq61",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-png/1pB4bvVT_CLjyJSfdn9sJLFOqn2idQq61-vertical-principal.png",
+    "size": 10932,
+    "exported": false
+  },
+  {
+    "id": "1_MvJ1Gq-VDpHfjw-hMEWuKcYbsiqDUPe",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-png/1_MvJ1Gq-VDpHfjw-hMEWuKcYbsiqDUPe-vertical-negativo.png",
+    "size": 9725,
+    "exported": false
+  },
+  {
+    "id": "1VRrwhRTreMsv6IXaO3tX2LxpjQSErYjM",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-png/1VRrwhRTreMsv6IXaO3tX2LxpjQSErYjM-vertical-fundoescuro.png",
+    "size": 10055,
+    "exported": false
+  },
+  {
+    "id": "1bX_rfby8LzSbT3ubWVouqK15MFBY0HiU",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-png/1bX_rfby8LzSbT3ubWVouqK15MFBY0HiU-simbolo-principal.png",
+    "size": 5210,
+    "exported": false
+  },
+  {
+    "id": "1Q5bNXv6Fq0j97zb_i1Qrxo8oSzXdx95M",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-png/1Q5bNXv6Fq0j97zb_i1Qrxo8oSzXdx95M-simbolo-negativo.png",
+    "size": 3241,
+    "exported": false
+  },
+  {
+    "id": "1Pm8e9RxUlmliwvQVa-c38oJ-zhjYklZn",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-png/1Pm8e9RxUlmliwvQVa-c38oJ-zhjYklZn-simbolo-fundoescuro.png",
+    "size": 3652,
+    "exported": false
+  },
+  {
+    "id": "1dRFDnJQ7oNtFDXba77Bs7KuEYM-YTjw8",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-png/1dRFDnJQ7oNtFDXba77Bs7KuEYM-YTjw8-horizontal-principal.png",
+    "size": 10532,
+    "exported": false
+  },
+  {
+    "id": "1W2AiaH4bPZTXbDCEgm5nDMk6wobUawUZ",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-png/1W2AiaH4bPZTXbDCEgm5nDMk6wobUawUZ-horizontal-negativo.png",
+    "size": 9376,
+    "exported": false
+  },
+  {
+    "id": "1gwnw-nfkVQHMGE0Y84bCiUEgupBUKpbo",
+    "path": "skills/qp-brandbook/assets/logos/kit-marca-logos-1.-quero-passagem-png/1gwnw-nfkVQHMGE0Y84bCiUEgupBUKpbo-horizontal-fundoescuro.png",
+    "size": 9984,
+    "exported": false
+  },
+  {
+    "id": "1BWZ0EmKDe_nbD9CJgh5m_597VEZIvuqh",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy-pngs/1BWZ0EmKDe_nbD9CJgh5m_597VEZIvuqh-quero-passagem---jessica1287.png",
+    "size": 1197319,
+    "exported": false
+  },
+  {
+    "id": "10KWicbHgsOXnF2y4xHn6N9UQTlGuzW9Y",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy-pngs/10KWicbHgsOXnF2y4xHn6N9UQTlGuzW9Y-quero-passagem---jessica1281.png",
+    "size": 1309758,
+    "exported": false
+  },
+  {
+    "id": "1Uyn0IoXqchdO4ef5YOGorjaxNX3z_sao",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy-pngs/1Uyn0IoXqchdO4ef5YOGorjaxNX3z_sao-quero-passagem---jessica1278.png",
+    "size": 1125803,
+    "exported": false
+  },
+  {
+    "id": "1mIyr8AGODDcgLUqO0ecUTDMqQCurbvyo",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy-pngs/1mIyr8AGODDcgLUqO0ecUTDMqQCurbvyo-quero-passagem---jessica1268.png",
+    "size": 1179787,
+    "exported": false
+  },
+  {
+    "id": "1CqaXOlTyAHJWva_BQakYsbg_TYTfgVsY",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy-pngs/1CqaXOlTyAHJWva_BQakYsbg_TYTfgVsY-quero-passagem---jessica1267.png",
+    "size": 1167019,
+    "exported": false
+  },
+  {
+    "id": "19BWfgOT0jlFtEujj3wwRYaWP6Lgpvvk8",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy-pngs/19BWfgOT0jlFtEujj3wwRYaWP6Lgpvvk8-quero-passagem---jessica1200.png",
+    "size": 3277795,
+    "exported": false
+  },
+  {
+    "id": "1Ul3dJuKneiPjVwsiGYw2DyoQ8XLC3XuH",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy-pngs/1Ul3dJuKneiPjVwsiGYw2DyoQ8XLC3XuH-quero-passagem---jessica1194.png",
+    "size": 1540064,
+    "exported": false
+  },
+  {
+    "id": "1HbZhRJLhIMqyVk-KQgxP1K06r6RhdCk0",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy-pngs/1HbZhRJLhIMqyVk-KQgxP1K06r6RhdCk0-quero-passagem---jessica1188.png",
+    "size": 3162441,
+    "exported": false
+  },
+  {
+    "id": "1bQZC1zzlue7H8wwGtN_AHHaJ4QfzB698",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy-pngs/1bQZC1zzlue7H8wwGtN_AHHaJ4QfzB698-quero-passagem---jessica1193.png",
+    "size": 3183249,
+    "exported": false
+  },
+  {
+    "id": "1i4-NtOT2fCJZOnVD1zAy5qEl_FDDHz-l",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-influencers-ensaio-jessy-pngs/1i4-NtOT2fCJZOnVD1zAy5qEl_FDDHz-l-quero-passagem---jessica1189.png",
+    "size": 3142945,
+    "exported": false
+  },
+  {
+    "id": "1n2sgFBc2KP3_VnCwlO113amjLC7zzhB1",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1n2sgFBc2KP3_VnCwlO113amjLC7zzhB1-dsc02831.jpg",
+    "size": 23706361,
+    "exported": false
+  },
+  {
+    "id": "1MD_LzGA4A-Rw-ij8oywvaP4LoVBaWZ_P",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1MD_LzGA4A-Rw-ij8oywvaP4LoVBaWZ_P-dsc02615.jpg",
+    "size": 22570183,
+    "exported": false
+  },
+  {
+    "id": "1drb6xA3CxQ8qKWuNqeqWObUUkio60ByU",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1drb6xA3CxQ8qKWuNqeqWObUUkio60ByU-dsc02620.jpg",
+    "size": 16300509,
+    "exported": false
+  },
+  {
+    "id": "1o-yP6Jv4PTZ1FhRsNbPsBRZBwSHIPYCA",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1o-yP6Jv4PTZ1FhRsNbPsBRZBwSHIPYCA-dsc02690.jpg",
+    "size": 19364068,
+    "exported": false
+  },
+  {
+    "id": "1iV5e9Qx4gNR_0mZDSkOymi1_-Gqf8qfY",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1iV5e9Qx4gNR_0mZDSkOymi1_-Gqf8qfY-dsc02692.jpg",
+    "size": 23511422,
+    "exported": false
+  },
+  {
+    "id": "1VBfXNKuHD5MtvldxMYbUJupyBt66czpz",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1VBfXNKuHD5MtvldxMYbUJupyBt66czpz-dsc02728.jpg",
+    "size": 26607810,
+    "exported": false
+  },
+  {
+    "id": "1Fxcm2rgzMkrO_Z432g3wAX9fGiFXINcI",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1Fxcm2rgzMkrO_Z432g3wAX9fGiFXINcI-dsc02755.jpg",
+    "size": 21299363,
+    "exported": false
+  },
+  {
+    "id": "1dlE4DWvzdoNfGdh0Oq9jyGHihbt8aof4",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1dlE4DWvzdoNfGdh0Oq9jyGHihbt8aof4-dsc02790.jpg",
+    "size": 23181975,
+    "exported": false
+  },
+  {
+    "id": "1dR_pqUSurwepiUy_5wHjB472y2ts4P4D",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1dR_pqUSurwepiUy_5wHjB472y2ts4P4D-dsc02995.jpg",
+    "size": 12709646,
+    "exported": false
+  },
+  {
+    "id": "1_tQZTEjIjroXs4RpEWNVZO6ginU2UaGZ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1_tQZTEjIjroXs4RpEWNVZO6ginU2UaGZ-dsc02985.jpg",
+    "size": 11210416,
+    "exported": false
+  },
+  {
+    "id": "1UUQiLWZPSUvorvRkq09jfq7StHxXyPvQ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1UUQiLWZPSUvorvRkq09jfq7StHxXyPvQ-dsc02963.jpg",
+    "size": 14906275,
+    "exported": false
+  },
+  {
+    "id": "1yFsQXuU6qIq5SK13ME3H1hitddOHMyns",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1yFsQXuU6qIq5SK13ME3H1hitddOHMyns-dsc02930.jpg",
+    "size": 14128810,
+    "exported": false
+  },
+  {
+    "id": "1WFnl8LPq_SCtwa-ZurGX1EvV2Yxkssi2",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1WFnl8LPq_SCtwa-ZurGX1EvV2Yxkssi2-dsc02925.jpg",
+    "size": 14977451,
+    "exported": false
+  },
+  {
+    "id": "18Uu__HEpR3ZT6zPFWCUzOWtvwwnkTo2d",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/18Uu__HEpR3ZT6zPFWCUzOWtvwwnkTo2d-dsc02921.jpg",
+    "size": 16114353,
+    "exported": false
+  },
+  {
+    "id": "1S098rGsERkpIEFwbq1VD6o4FgJDN3WP9",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1S098rGsERkpIEFwbq1VD6o4FgJDN3WP9-dsc02911.jpg",
+    "size": 12510669,
+    "exported": false
+  },
+  {
+    "id": "1cTd1pn2H85sw_ikSMvpvWpvsmrVf-I7M",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1cTd1pn2H85sw_ikSMvpvWpvsmrVf-I7M-dsc02900.jpg",
+    "size": 19723417,
+    "exported": false
+  },
+  {
+    "id": "14TlQ_j4ZDirao7eOGG3kqohA7TR5uJmb",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/14TlQ_j4ZDirao7eOGG3kqohA7TR5uJmb-dsc02897.jpg",
+    "size": 14699384,
+    "exported": false
+  },
+  {
+    "id": "1WQ3v_0vxqkebH8ftsH9G-a3xafcNKLp0",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1WQ3v_0vxqkebH8ftsH9G-a3xafcNKLp0-dsc02836.jpg",
+    "size": 23759622,
+    "exported": false
+  },
+  {
+    "id": "1gQiETexuclddV5Qtk3M6Dqne0c-sXUYb",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1gQiETexuclddV5Qtk3M6Dqne0c-sXUYb-dsc02876.jpg",
+    "size": 14327150,
+    "exported": false
+  },
+  {
+    "id": "1v7UhPDf293z4VFGJw-NuHCBc0uABFkST",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1v7UhPDf293z4VFGJw-NuHCBc0uABFkST-dsc02886.jpg",
+    "size": 12394803,
+    "exported": false
+  },
+  {
+    "id": "1drbLx3D8Dj0pImK2r6qmfwwB7LsLMUes",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2026.1/1drbLx3D8Dj0pImK2r6qmfwwB7LsLMUes-dsc02892.jpg",
+    "size": 14433684,
+    "exported": false
+  },
+  {
+    "id": "14mUfCIfQQkOzVGRqBWfo922D8QQ0OzI3",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14mUfCIfQQkOzVGRqBWfo922D8QQ0OzI3-whatsapp-image-2025-04-02-at-19.36.49.jpeg",
+    "size": 1395966,
+    "exported": false
+  },
+  {
+    "id": "14CaXKjYZkZEt41wfDusKP6vcLVl417c2",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14CaXKjYZkZEt41wfDusKP6vcLVl417c2-whatsapp-image-2025-04-02-at-19.36.48-4-.jpeg",
+    "size": 1359026,
+    "exported": false
+  },
+  {
+    "id": "14ZuRCrqiVye8jezTSCMzuOeTG0Qb9xbU",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14ZuRCrqiVye8jezTSCMzuOeTG0Qb9xbU-whatsapp-image-2025-04-02-at-19.36.48-3-.jpeg",
+    "size": 1011714,
+    "exported": false
+  },
+  {
+    "id": "14M7cWMt28J8dYawbY9NM4PWEeqCnEXd-",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14M7cWMt28J8dYawbY9NM4PWEeqCnEXd--whatsapp-image-2025-04-02-at-19.36.48-2-.jpeg",
+    "size": 1085393,
+    "exported": false
+  },
+  {
+    "id": "1584ohjWEBjLPI7878pPePsBJFe1OJWSP",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/1584ohjWEBjLPI7878pPePsBJFe1OJWSP-whatsapp-image-2025-04-02-at-19.36.48-1-.jpeg",
+    "size": 1105953,
+    "exported": false
+  },
+  {
+    "id": "14JvzvKxm463sh9PrYm-8sei7xLZxPHow",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14JvzvKxm463sh9PrYm-8sei7xLZxPHow-whatsapp-image-2025-04-02-at-19.36.48.jpeg",
+    "size": 1241426,
+    "exported": false
+  },
+  {
+    "id": "14Vxno8fe78CPXn9cmQoEq0x0Ib2gqPjJ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14Vxno8fe78CPXn9cmQoEq0x0Ib2gqPjJ-whatsapp-image-2025-04-02-at-19.36.47-4-.jpeg",
+    "size": 1375124,
+    "exported": false
+  },
+  {
+    "id": "143W1SmJ5i-IvD9R4OOPvGX21PDL0d-cp",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/143W1SmJ5i-IvD9R4OOPvGX21PDL0d-cp-whatsapp-image-2025-04-02-at-19.36.47-3-.jpeg",
+    "size": 1495844,
+    "exported": false
+  },
+  {
+    "id": "14J7nGGD_QF8RG9YAasWE551F-2BtB0yo",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14J7nGGD_QF8RG9YAasWE551F-2BtB0yo-whatsapp-image-2025-04-02-at-19.36.47-2-.jpeg",
+    "size": 1333685,
+    "exported": false
+  },
+  {
+    "id": "14YpGVnY54QN0z8bh_Mbyh5OKR1EJ73CC",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14YpGVnY54QN0z8bh_Mbyh5OKR1EJ73CC-whatsapp-image-2025-04-02-at-19.36.47-1-.jpeg",
+    "size": 629007,
+    "exported": false
+  },
+  {
+    "id": "14icpUlsSETKsJkE04P3z5a_XhOQSSoII",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14icpUlsSETKsJkE04P3z5a_XhOQSSoII-whatsapp-image-2025-04-02-at-19.36.47.jpeg",
+    "size": 405744,
+    "exported": false
+  },
+  {
+    "id": "13wzyczHIyq4w5udExOkK8zy5aP6kHsfg",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/13wzyczHIyq4w5udExOkK8zy5aP6kHsfg-whatsapp-image-2025-04-02-at-19.36.46-4-.jpeg",
+    "size": 712132,
+    "exported": false
+  },
+  {
+    "id": "140f5nk0ywwkq4hW5hHPRUXsWCRzzvu8P",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/140f5nk0ywwkq4hW5hHPRUXsWCRzzvu8P-whatsapp-image-2025-04-02-at-19.36.46-3-.jpeg",
+    "size": 1884981,
+    "exported": false
+  },
+  {
+    "id": "14wI0BUaWiifEmSzylAEO9BCaUdtmxK9n",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14wI0BUaWiifEmSzylAEO9BCaUdtmxK9n-whatsapp-image-2025-04-02-at-19.36.46-2-.jpeg",
+    "size": 936934,
+    "exported": false
+  },
+  {
+    "id": "14RqxkFKLKlha6-WI3it6z3rfcl4C9_aH",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14RqxkFKLKlha6-WI3it6z3rfcl4C9_aH-whatsapp-image-2025-04-02-at-19.36.46-1-.jpeg",
+    "size": 1788205,
+    "exported": false
+  },
+  {
+    "id": "13yS7Br6oOCE5W1R3_jK60f47x3GNo93f",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/13yS7Br6oOCE5W1R3_jK60f47x3GNo93f-whatsapp-image-2025-04-02-at-19.36.46.jpeg",
+    "size": 722581,
+    "exported": false
+  },
+  {
+    "id": "13hdwD9-HV2FNL-5wcAl52NlNlHcIV_1r",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/13hdwD9-HV2FNL-5wcAl52NlNlHcIV_1r-whatsapp-image-2025-04-02-at-19.36.45-5-.jpeg",
+    "size": 1545891,
+    "exported": false
+  },
+  {
+    "id": "14Ps48y4Oof7eAhLzbz_lCDYWxpQQ3ym8",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14Ps48y4Oof7eAhLzbz_lCDYWxpQQ3ym8-whatsapp-image-2025-04-02-at-19.36.45-4-.jpeg",
+    "size": 1272290,
+    "exported": false
+  },
+  {
+    "id": "14i8iqKZn3R0nTLyJaaPAX29du0oedSFr",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14i8iqKZn3R0nTLyJaaPAX29du0oedSFr-whatsapp-image-2025-04-02-at-19.36.45-3-.jpeg",
+    "size": 1483733,
+    "exported": false
+  },
+  {
+    "id": "14Vpht9SCKAn1Bvxs-qC4MH6OBhmlcl0F",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14Vpht9SCKAn1Bvxs-qC4MH6OBhmlcl0F-whatsapp-image-2025-04-02-at-19.36.45-2-.jpeg",
+    "size": 1651538,
+    "exported": false
+  },
+  {
+    "id": "14r4ISyQHXm_XxfQJxWKiZ9i5lfyk2heS",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14r4ISyQHXm_XxfQJxWKiZ9i5lfyk2heS-whatsapp-image-2025-04-02-at-19.36.45-1-.jpeg",
+    "size": 1576034,
+    "exported": false
+  },
+  {
+    "id": "14GnYrAw9zYDFWH2EpLf-7hn9EPLRMKk3",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14GnYrAw9zYDFWH2EpLf-7hn9EPLRMKk3-whatsapp-image-2025-04-02-at-19.36.45.jpeg",
+    "size": 1051116,
+    "exported": false
+  },
+  {
+    "id": "13hjI5PkCWVnP4JsiQ3sgUGKGhFQBWSBy",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/13hjI5PkCWVnP4JsiQ3sgUGKGhFQBWSBy-whatsapp-image-2025-04-02-at-19.36.44-5-.jpeg",
+    "size": 902844,
+    "exported": false
+  },
+  {
+    "id": "150qXPrb8wXcQLdqpTnPPQMgLi-_Lbsyk",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/150qXPrb8wXcQLdqpTnPPQMgLi-_Lbsyk-whatsapp-image-2025-04-02-at-19.36.44-4-.jpeg",
+    "size": 793721,
+    "exported": false
+  },
+  {
+    "id": "13c_iEXKeiQOXSQ9X2aG9WnMAJZ2puK-m",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/13c_iEXKeiQOXSQ9X2aG9WnMAJZ2puK-m-whatsapp-image-2025-04-02-at-19.36.44-3-.jpeg",
+    "size": 708621,
+    "exported": false
+  },
+  {
+    "id": "156Na4TAxCIrm4cUc0Wo5BITwXo6RlaED",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/156Na4TAxCIrm4cUc0Wo5BITwXo6RlaED-whatsapp-image-2025-04-02-at-19.36.44-2-.jpeg",
+    "size": 1493809,
+    "exported": false
+  },
+  {
+    "id": "14kTv0vBqTkYal5_DT9oTv5O30cJ3zKxL",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14kTv0vBqTkYal5_DT9oTv5O30cJ3zKxL-whatsapp-image-2025-04-02-at-19.36.44-1-.jpeg",
+    "size": 1604415,
+    "exported": false
+  },
+  {
+    "id": "151U1dfZWI5wXtNND3LFaRRfZejgvfEo6",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/151U1dfZWI5wXtNND3LFaRRfZejgvfEo6-whatsapp-image-2025-04-02-at-19.36.44.jpeg",
+    "size": 1420759,
+    "exported": false
+  },
+  {
+    "id": "14yzuc5G1hKyg5mwU_mbhnbDwArgVi-vS",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.1/14yzuc5G1hKyg5mwU_mbhnbDwArgVi-vS-whatsapp-image-2025-04-02-at-19.36.43.jpeg",
+    "size": 1713642,
+    "exported": false
+  },
+  {
+    "id": "1lPJ77hnV8sNNSBTlXWlGCRk33JzCp58I",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1lPJ77hnV8sNNSBTlXWlGCRk33JzCp58I-0k2a3851.jpg",
+    "size": 25983606,
+    "exported": false
+  },
+  {
+    "id": "1aY2-yosfYkn5j_U7WkFPi7mnMdB1mQbm",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1aY2-yosfYkn5j_U7WkFPi7mnMdB1mQbm-0k2a3854.jpg",
+    "size": 14159570,
+    "exported": false
+  },
+  {
+    "id": "1D8inIdDTXBRfKrEPYtenJ020XfmOWvEs",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1D8inIdDTXBRfKrEPYtenJ020XfmOWvEs-0k2a3844-edit.jpg",
+    "size": 32044950,
+    "exported": false
+  },
+  {
+    "id": "1TIcRZ2RuLZqnQwHY8M599nMV7SYtihhN",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1TIcRZ2RuLZqnQwHY8M599nMV7SYtihhN-0k2a3848-edit.jpg",
+    "size": 30098196,
+    "exported": false
+  },
+  {
+    "id": "180rKLIsYKR9PV9UwPSwFejPmngh7Qsz9",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/180rKLIsYKR9PV9UwPSwFejPmngh7Qsz9-0k2a3895.jpg",
+    "size": 30052352,
+    "exported": false
+  },
+  {
+    "id": "1DQBvPOQfk3ewKlj8vpayjDMUpzF1CBdA",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1DQBvPOQfk3ewKlj8vpayjDMUpzF1CBdA-0k2a3900.jpg",
+    "size": 30066097,
+    "exported": false
+  },
+  {
+    "id": "15KpZ4WQbQ4V7qsOXvQVIHDIwznwiaMa4",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/15KpZ4WQbQ4V7qsOXvQVIHDIwznwiaMa4-0k2a3903.jpg",
+    "size": 28251746,
+    "exported": false
+  },
+  {
+    "id": "1ii2_FMfZfPP70jjXyi-3QYbKyTSXIl4o",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1ii2_FMfZfPP70jjXyi-3QYbKyTSXIl4o-0k2a3911.jpg",
+    "size": 31874227,
+    "exported": false
+  },
+  {
+    "id": "19pSn63cWCgISBMuK7ui1AyQ8e394NqEy",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/19pSn63cWCgISBMuK7ui1AyQ8e394NqEy-0k2a3939.jpg",
+    "size": 26057029,
+    "exported": false
+  },
+  {
+    "id": "1d6Jd8yqY1iQJcaq_17dyjJ4fXfBG2w1m",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1d6Jd8yqY1iQJcaq_17dyjJ4fXfBG2w1m-0k2a3949.jpg",
+    "size": 28518021,
+    "exported": false
+  },
+  {
+    "id": "11_qv702bc8ytZ8LSb4b3wnDBq3HU6fOQ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/11_qv702bc8ytZ8LSb4b3wnDBq3HU6fOQ-0k2a3914-edit.jpg",
+    "size": 34082294,
+    "exported": false
+  },
+  {
+    "id": "1tHmADftIMYeHsyL6MJJancq_KBsB7vql",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1tHmADftIMYeHsyL6MJJancq_KBsB7vql-0k2a3937-edit.jpg",
+    "size": 30381303,
+    "exported": false
+  },
+  {
+    "id": "15slWnywCpv_Qh93P6WlHP-OAprRD3b9A",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/15slWnywCpv_Qh93P6WlHP-OAprRD3b9A-0k2a3961.jpg",
+    "size": 33570548,
+    "exported": false
+  },
+  {
+    "id": "1cpQdm9AtOZn9Y7gFyAB85qfdbGpaTEHc",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1cpQdm9AtOZn9Y7gFyAB85qfdbGpaTEHc-0k2a3968.jpg",
+    "size": 31208083,
+    "exported": false
+  },
+  {
+    "id": "1u2tHD4pS4TzICSt-P2nBune3_hC71cqB",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1u2tHD4pS4TzICSt-P2nBune3_hC71cqB-0k2a3990.jpg",
+    "size": 30687667,
+    "exported": false
+  },
+  {
+    "id": "1JiMUlgj92D-C3tlsnBDZkBNaPVB_7B_y",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1JiMUlgj92D-C3tlsnBDZkBNaPVB_7B_y-0k2a3995.jpg",
+    "size": 23596301,
+    "exported": false
+  },
+  {
+    "id": "19j8IYv-zbtS7NSHiOAqt4mlCO7oYTbHq",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/19j8IYv-zbtS7NSHiOAqt4mlCO7oYTbHq-0k2a3983-edit.jpg",
+    "size": 27535837,
+    "exported": false
+  },
+  {
+    "id": "15_CEMKvKIlpYPkNAnpDIi_N11bBNkXrY",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/15_CEMKvKIlpYPkNAnpDIi_N11bBNkXrY-0k2a3985-edit.jpg",
+    "size": 25787386,
+    "exported": false
+  },
+  {
+    "id": "1goDc8kHLWt2ERTYxq6npRNduv31K_IYZ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1goDc8kHLWt2ERTYxq6npRNduv31K_IYZ-0k2a3992-edit.jpg",
+    "size": 20411318,
+    "exported": false
+  },
+  {
+    "id": "1qLk0evDfx7LMiLP69bBl34yFExyeXt5H",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1qLk0evDfx7LMiLP69bBl34yFExyeXt5H-0k2a3999-edit.jpg",
+    "size": 22529014,
+    "exported": false
+  },
+  {
+    "id": "1cRp0wtlVRIeMspRxVby16EazRxms8Ym8",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1cRp0wtlVRIeMspRxVby16EazRxms8Ym8-0k2a4001.jpg",
+    "size": 26145332,
+    "exported": false
+  },
+  {
+    "id": "1s6j3GKVZoji_SJS2s1yLvKgjk7n72A1i",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1s6j3GKVZoji_SJS2s1yLvKgjk7n72A1i-0k2a4018.jpg",
+    "size": 25567339,
+    "exported": false
+  },
+  {
+    "id": "1NeNavqYgahLUlrNZvtJb2zrIGTXu7BCC",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1NeNavqYgahLUlrNZvtJb2zrIGTXu7BCC-0k2a4022.jpg",
+    "size": 26506734,
+    "exported": false
+  },
+  {
+    "id": "1uuhC6ELb3ffbt1Rtot1kwcvgiMl4m4QK",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1uuhC6ELb3ffbt1Rtot1kwcvgiMl4m4QK-0k2a4025.jpg",
+    "size": 30587643,
+    "exported": false
+  },
+  {
+    "id": "1zoaoBwRzNwJtQiCgf-PTJXBPpeaDMuO7",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1zoaoBwRzNwJtQiCgf-PTJXBPpeaDMuO7-0k2a4026.jpg",
+    "size": 27181859,
+    "exported": false
+  },
+  {
+    "id": "1nW28h6AeSAU1Ii3Jp-rjxJ3MDUYIyG8B",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1nW28h6AeSAU1Ii3Jp-rjxJ3MDUYIyG8B-0k2a4028.jpg",
+    "size": 25894657,
+    "exported": false
+  },
+  {
+    "id": "1QZDDNyLh-TUsqmVgZkBnXR2dalUsJjZT",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1QZDDNyLh-TUsqmVgZkBnXR2dalUsJjZT-0k2a4030.jpg",
+    "size": 29647419,
+    "exported": false
+  },
+  {
+    "id": "1Ujf5fCARw2PveETsVvETvQkn5-ks0bHn",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1Ujf5fCARw2PveETsVvETvQkn5-ks0bHn-0k2a4033.jpg",
+    "size": 31106171,
+    "exported": false
+  },
+  {
+    "id": "1IQkmNP6oi-McmAQK6CjuF-M3E4FPqVIS",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1IQkmNP6oi-McmAQK6CjuF-M3E4FPqVIS-0k2a4036.jpg",
+    "size": 31360770,
+    "exported": false
+  },
+  {
+    "id": "1uvVRoZEMHR3xzO-Q4sxMK8GZDweDne1d",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1uvVRoZEMHR3xzO-Q4sxMK8GZDweDne1d-0k2a4045.jpg",
+    "size": 15031354,
+    "exported": false
+  },
+  {
+    "id": "1vT9N6OpMu7mQ_HPmumNkx_YrC_VovveY",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1vT9N6OpMu7mQ_HPmumNkx_YrC_VovveY-0k2a4048.jpg",
+    "size": 18938513,
+    "exported": false
+  },
+  {
+    "id": "1mU9DPkldp3ITuDb5ta0W4gOy8_3v71H3",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1mU9DPkldp3ITuDb5ta0W4gOy8_3v71H3-0k2a4056.jpg",
+    "size": 19745931,
+    "exported": false
+  },
+  {
+    "id": "1jX2RWNlBWue4fBEZ_eBfATGuGRYoWjnJ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1jX2RWNlBWue4fBEZ_eBfATGuGRYoWjnJ-0k2a4057.jpg",
+    "size": 17171388,
+    "exported": false
+  },
+  {
+    "id": "1CtqmFPXd6UD67SlLJmgoPk9zgaP-4uaY",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1CtqmFPXd6UD67SlLJmgoPk9zgaP-4uaY-0k2a4058.jpg",
+    "size": 16231866,
+    "exported": false
+  },
+  {
+    "id": "19ibERvXJ_7b4pLZvP5Jw_joJFgEyPf7s",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/19ibERvXJ_7b4pLZvP5Jw_joJFgEyPf7s-0k2a4061.jpg",
+    "size": 18966926,
+    "exported": false
+  },
+  {
+    "id": "1Zfrcg20fmxkwZza1LoQ2tKzoDGYhKqYq",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1Zfrcg20fmxkwZza1LoQ2tKzoDGYhKqYq-0k2a4064.jpg",
+    "size": 13914360,
+    "exported": false
+  },
+  {
+    "id": "1K-FGCaPSBqRKo7kbyXEGnI5VJmyDvf0R",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1K-FGCaPSBqRKo7kbyXEGnI5VJmyDvf0R-0k2a4072.jpg",
+    "size": 24844048,
+    "exported": false
+  },
+  {
+    "id": "1tfJHi5gR8GhRb1oNSlTCyH2RyRMB0-X7",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1tfJHi5gR8GhRb1oNSlTCyH2RyRMB0-X7-0k2a4078.jpg",
+    "size": 16139490,
+    "exported": false
+  },
+  {
+    "id": "15hMsGjiPK7Q33mYND4sYMBy2WDeDi6dA",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/15hMsGjiPK7Q33mYND4sYMBy2WDeDi6dA-0k2a4087.jpg",
+    "size": 24295118,
+    "exported": false
+  },
+  {
+    "id": "1ogS1mFs8CZZyi5K1fltRkdgBfbQK6rz7",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1ogS1mFs8CZZyi5K1fltRkdgBfbQK6rz7-0k2a4092.jpg",
+    "size": 25808281,
+    "exported": false
+  },
+  {
+    "id": "1k8l71C9m3Xz-NJsJuYM8oBj3HG1OOGxu",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1k8l71C9m3Xz-NJsJuYM8oBj3HG1OOGxu-0k2a4096.jpg",
+    "size": 12378523,
+    "exported": false
+  },
+  {
+    "id": "15D4GUrshm8L8dvL7bu2o4ZMrifcDewih",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/15D4GUrshm8L8dvL7bu2o4ZMrifcDewih-0k2a4099.jpg",
+    "size": 19731839,
+    "exported": false
+  },
+  {
+    "id": "1bCAtubCAIWeSFoqnanhhFgs2yK-5V3hB",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1bCAtubCAIWeSFoqnanhhFgs2yK-5V3hB-0k2a4100.jpg",
+    "size": 9166867,
+    "exported": false
+  },
+  {
+    "id": "1qQRxESwqh6Nvi1dljFtdX0F6dI76oIJo",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1qQRxESwqh6Nvi1dljFtdX0F6dI76oIJo-0k2a4104.jpg",
+    "size": 10741930,
+    "exported": false
+  },
+  {
+    "id": "1OrYVTUBBasZWX9HOlbyty_X12yFqdKlW",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1OrYVTUBBasZWX9HOlbyty_X12yFqdKlW-0k2a4109.jpg",
+    "size": 17967877,
+    "exported": false
+  },
+  {
+    "id": "1vI1uOQmddWmTMAxU_xXRJEWQ3BCgA5ZL",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1vI1uOQmddWmTMAxU_xXRJEWQ3BCgA5ZL-0k2a4111.jpg",
+    "size": 19189897,
+    "exported": false
+  },
+  {
+    "id": "1vIHI30psEWfUryIOEEkBwYnjrn-bH2PX",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1vIHI30psEWfUryIOEEkBwYnjrn-bH2PX-0k2a4115.jpg",
+    "size": 36669990,
+    "exported": false
+  },
+  {
+    "id": "1vfQNpzEU60GdBJff3B0pcOJb6kodDjwv",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1vfQNpzEU60GdBJff3B0pcOJb6kodDjwv-0k2a4117.jpg",
+    "size": 29299612,
+    "exported": false
+  },
+  {
+    "id": "1LlhfZSmX8BVhK3r-APOtv77lyUTOfGOu",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1LlhfZSmX8BVhK3r-APOtv77lyUTOfGOu-0k2a4134.jpg",
+    "size": 20235906,
+    "exported": false
+  },
+  {
+    "id": "1R-q7LVXIYj7N5VsHyZjrzblQocir5WTm",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1R-q7LVXIYj7N5VsHyZjrzblQocir5WTm-0k2a4138.jpg",
+    "size": 25169517,
+    "exported": false
+  },
+  {
+    "id": "1-uV2X0XrpnFLCt49d3LTpB5SHi8Hww65",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1-uV2X0XrpnFLCt49d3LTpB5SHi8Hww65-0k2a4132-edit.jpg",
+    "size": 23205812,
+    "exported": false
+  },
+  {
+    "id": "1fbPfHpbXhm8rEpVKRh5L8KTZEbrIvDcn",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1fbPfHpbXhm8rEpVKRh5L8KTZEbrIvDcn-0k2a4143.jpg",
+    "size": 16446459,
+    "exported": false
+  },
+  {
+    "id": "12HNIZcAx2I0ZjMqRio2OS1d1qyRERhKl",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/12HNIZcAx2I0ZjMqRio2OS1d1qyRERhKl-0k2a4145.jpg",
+    "size": 20166352,
+    "exported": false
+  },
+  {
+    "id": "1f8LKHNwnTbpP7vsZnYw5FXZmkUbYYqU4",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1f8LKHNwnTbpP7vsZnYw5FXZmkUbYYqU4-0k2a4147.jpg",
+    "size": 20756499,
+    "exported": false
+  },
+  {
+    "id": "1oIrb14rT2lXhfFMdUIvFzzyLkYxPvZP_",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2025.2/1oIrb14rT2lXhfFMdUIvFzzyLkYxPvZP_-0k2a4142.jpg",
+    "size": 16002963,
+    "exported": false
+  },
+  {
+    "id": "1ye8t8JJZ7wMKvU7XRapmZrbtjRRvhfSe",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1ye8t8JJZ7wMKvU7XRapmZrbtjRRvhfSe-quero-passagem-2.jpg",
+    "size": 952699,
+    "exported": false
+  },
+  {
+    "id": "1zZu24rtuHTfabhZ7XTsU2EeXmcXD0IHi",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1zZu24rtuHTfabhZ7XTsU2EeXmcXD0IHi-quero-passagem-3.jpg",
+    "size": 866830,
+    "exported": false
+  },
+  {
+    "id": "1y5WoXqTY60pZtyF1TLxUQTnMshvihqRx",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1y5WoXqTY60pZtyF1TLxUQTnMshvihqRx-quero-passagem-4.jpg",
+    "size": 785086,
+    "exported": false
+  },
+  {
+    "id": "1ziT5mil2cNrpNSXhsYy5Lcs6wZGldG-R",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1ziT5mil2cNrpNSXhsYy5Lcs6wZGldG-R-quero-passagem-5.jpg",
+    "size": 825502,
+    "exported": false
+  },
+  {
+    "id": "1zJNtOlAvvctMD88YCb5kf_vTinyqkoK9",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1zJNtOlAvvctMD88YCb5kf_vTinyqkoK9-quero-passagem-7.jpg",
+    "size": 680261,
+    "exported": false
+  },
+  {
+    "id": "1yb627TO5Qz8a_lpytuJXx9HjhNrjDI8X",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1yb627TO5Qz8a_lpytuJXx9HjhNrjDI8X-quero-passagem-9.jpg",
+    "size": 673620,
+    "exported": false
+  },
+  {
+    "id": "1zPoFuIfovDThs_80JEf0zh6zQ--iR9rs",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1zPoFuIfovDThs_80JEf0zh6zQ--iR9rs-quero-passagem-11.jpg",
+    "size": 773675,
+    "exported": false
+  },
+  {
+    "id": "1yjWNSFhxJF1BS2BkveKIsND9PdBsAOT6",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1yjWNSFhxJF1BS2BkveKIsND9PdBsAOT6-quero-passagem-12.jpg",
+    "size": 823336,
+    "exported": false
+  },
+  {
+    "id": "1ztK_XUZggEgQd_dyJNdyOADM64vmFqAT",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1ztK_XUZggEgQd_dyJNdyOADM64vmFqAT-quero-passagem-13.jpg",
+    "size": 743619,
+    "exported": false
+  },
+  {
+    "id": "1z0E-4j68o1rVEu6aH-55R5q_wsNRs_oI",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1z0E-4j68o1rVEu6aH-55R5q_wsNRs_oI-quero-passagem-15.jpg",
+    "size": 846716,
+    "exported": false
+  },
+  {
+    "id": "1MiKw6ZsGpKIJ_I6HTklK2TkYrtQiamcT",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1MiKw6ZsGpKIJ_I6HTklK2TkYrtQiamcT-quero-passagem-16.jpg",
+    "size": 770157,
+    "exported": false
+  },
+  {
+    "id": "1zMud3t9jT4MOpXQltJ2RiLlHpTgYYtlZ",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1zMud3t9jT4MOpXQltJ2RiLlHpTgYYtlZ-quero-passagem-17.jpg",
+    "size": 725081,
+    "exported": false
+  },
+  {
+    "id": "1xwt5l7XTdoXtyEto7RWIRf-ih69gW7XS",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1xwt5l7XTdoXtyEto7RWIRf-ih69gW7XS-quero-passagem-18.jpg",
+    "size": 633367,
+    "exported": false
+  },
+  {
+    "id": "1zyQ-YSsEJ1qbYvqTKjwlUg-UZqAd1VZi",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1zyQ-YSsEJ1qbYvqTKjwlUg-UZqAd1VZi-quero-passagem-19.jpg",
+    "size": 928528,
+    "exported": false
+  },
+  {
+    "id": "1y9gJH8ZP_QOT-uEiNihFWDDFSTJE54SB",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1y9gJH8ZP_QOT-uEiNihFWDDFSTJE54SB-quero-passagem-21.jpg",
+    "size": 761642,
+    "exported": false
+  },
+  {
+    "id": "1yhaZhZ50LoBPnxH3W3_eZHCPqfqhyBYW",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1yhaZhZ50LoBPnxH3W3_eZHCPqfqhyBYW-quero-passagem-22.jpg",
+    "size": 820393,
+    "exported": false
+  },
+  {
+    "id": "1yrKDBSZoWyM6G1o8JD9eWMhXzwtywKxq",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1yrKDBSZoWyM6G1o8JD9eWMhXzwtywKxq-quero-passagem-23.jpg",
+    "size": 788786,
+    "exported": false
+  },
+  {
+    "id": "1xjFhDMdcPymSCsQirch1WkDO0mG1eInN",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1xjFhDMdcPymSCsQirch1WkDO0mG1eInN-quero-passagem-25.jpg",
+    "size": 706114,
+    "exported": false
+  },
+  {
+    "id": "1xtvkT7hnwdHLNvfuqP7858kuYpVSA282",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1xtvkT7hnwdHLNvfuqP7858kuYpVSA282-quero-passagem-26.jpg",
+    "size": 645743,
+    "exported": false
+  },
+  {
+    "id": "1yrE9mAMlnTUbvlzwXC7zaTElDfTEsziD",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1yrE9mAMlnTUbvlzwXC7zaTElDfTEsziD-quero-passagem-27.jpg",
+    "size": 716228,
+    "exported": false
+  },
+  {
+    "id": "1xyAftot_8GWJ5SaOuvc_qtJFxwMF0W5g",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1xyAftot_8GWJ5SaOuvc_qtJFxwMF0W5g-quero-passagem-34.jpg",
+    "size": 853110,
+    "exported": false
+  },
+  {
+    "id": "1zn4c4LYoXDqlqde3xCC4SzIa69CtGRNN",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1zn4c4LYoXDqlqde3xCC4SzIa69CtGRNN-quero-passagem-35.jpg",
+    "size": 694362,
+    "exported": false
+  },
+  {
+    "id": "1ynPIcfTkgbh0BBC5KosWIFP2MCJ8Mk2V",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1ynPIcfTkgbh0BBC5KosWIFP2MCJ8Mk2V-quero-passagem-37.jpg",
+    "size": 802783,
+    "exported": false
+  },
+  {
+    "id": "1xujxp_aRHTcbKWA93aCH2MvK_jaDCiO0",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1xujxp_aRHTcbKWA93aCH2MvK_jaDCiO0-quero-passagem-40.jpg",
+    "size": 771110,
+    "exported": false
+  },
+  {
+    "id": "1yZxqisTnNGn5pPTdy10KvtlqfnZfM1OY",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1yZxqisTnNGn5pPTdy10KvtlqfnZfM1OY-quero-passagem-41.jpg",
+    "size": 772809,
+    "exported": false
+  },
+  {
+    "id": "1zjByHjKopUwJqeLeNxt9JnsiXM7VdOoP",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1zjByHjKopUwJqeLeNxt9JnsiXM7VdOoP-quero-passagem-48.jpg",
+    "size": 763891,
+    "exported": false
+  },
+  {
+    "id": "1yz-y18bzdIZoJawLOt0SjpG5355-E9yi",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1yz-y18bzdIZoJawLOt0SjpG5355-E9yi-quero-passagem-51.jpg",
+    "size": 603400,
+    "exported": false
+  },
+  {
+    "id": "1zhZ5fLL8OWHbuyr9sK3z1yzrTnNtDMnD",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-fotos-2024/1zhZ5fLL8OWHbuyr9sK3z1yzrTnNtDMnD-quero-passagem.jpg",
+    "size": 680353,
+    "exported": false
+  },
+  {
+    "id": "1lSdEmJJL2qZWg4oZcW7Qxac7kxuTSXwr",
+    "path": "skills/qp-brandbook/assets/fotografia/fotografia-sala-vip-midias-antigas-semana-do-consumidor-sala-vip/1lSdEmJJL2qZWg4oZcW7Qxac7kxuTSXwr-51c1ca9f-c937-49d3-a514-2ddfe7a93b9e.jpg",
+    "size": 758884,
+    "exported": false
+  }
+]

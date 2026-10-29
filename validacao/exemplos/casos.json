@@ -1,0 +1,54 @@
+[
+  {
+    "file": "apresentacao-qp.html",
+    "source": "drive:1r80HtAMd2PTflVlzT-HXWC1xjIuEff-A3lP8uknESHo",
+    "source_slides": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "status": "render-required"
+  },
+  {
+    "file": "comunicado-qp.html",
+    "source": "drive:19lgUrEMkv7sYomWGXFMwfuqQQKP6mKlI3aBxlS94Fao",
+    "source_slides": [
+      1
+    ],
+    "status": "render-required"
+  },
+  {
+    "file": "post-qp.html",
+    "source": "paginas/fundamentos/tipografia.md",
+    "assets": [
+      "figma:8hsYVcxSZ1qK14VctpJTZn:53:292",
+      "drive:1BWZ0EmKDe_nbD9CJgh5m_597VEZIvuqh"
+    ],
+    "status": "render-required"
+  },
+  {
+    "file": "viajo-mucho.html",
+    "source": "figma:EyJUWysTaFKnJewVXFz0u0:1:3470",
+    "status": "blocked-font",
+    "missing_font": "Mauren",
+    "brief": {
+      "objective": "inspirar uma viagem de fim de semana",
+      "language": "es-MX",
+      "headline": "Tu próximo viaje empieza contigo.",
+      "commercial_claims": []
+    }
+  },
+  {
+    "file": "rodon.html",
+    "source": "figma:EyJUWysTaFKnJewVXFz0u0:42:42",
+    "status": "blocked-font",
+    "missing_font": "All Round Gothic",
+    "brief": {
+      "objective": "inspirar uma viagem de fim de semana",
+      "language": "pt-BR",
+      "headline": "Seu próximo destino começa com você.",
+      "commercial_claims": []
+    }
+  }
+]

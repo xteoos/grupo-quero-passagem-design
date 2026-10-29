@@ -1,0 +1,16 @@
+{
+  "name": "quero-passagem-brandbook-ai",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Ferramentas locais de validação do catálogo, sem aplicativo de produção.",
+  "scripts": {
+    "check:browser": "node scripts/check_browser.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xteoos/grupo-quero-passagem-design.git"
+  }
+}
