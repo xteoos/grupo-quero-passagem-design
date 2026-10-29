@@ -31,7 +31,7 @@ Repositório público: [xteoos/grupo-quero-passagem-design](https://github.com/x
 Para obter o projeto completo, incluindo os originais armazenados com Git LFS:
 
 ```sh
-git clone git@github.com:xteoos/grupo-quero-passagem-design.git
+git clone https://github.com/xteoos/grupo-quero-passagem-design.git
 cd grupo-quero-passagem-design
 git lfs install --local
 git lfs pull
