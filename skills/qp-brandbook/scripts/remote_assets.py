@@ -60,14 +60,14 @@ def rows(root=SK):return json.loads((root/'references/assets-index.json').read_t
 def main():
     p=argparse.ArgumentParser(description=__doc__);sub=p.add_subparsers(dest='command',required=True)
     sub.add_parser('sync');find=sub.add_parser('find')
-    for flag in ['brand','category','query']:find.add_argument('--'+flag,default='')
+    for flag in ['brand','category','family','query']:find.add_argument('--'+flag,default='')
     find.add_argument('--limit',type=int,default=20)
     get=sub.add_parser('get');group=get.add_mutually_exclusive_group(required=True);group.add_argument('--id',action='append');group.add_argument('--path');group.add_argument('--preview')
     a=p.parse_args()
     try:
         if a.command=='sync':result=sync()
         elif a.command=='find':
-            state(SK);r=[x for x in rows()if(not a.brand or x['brand']==a.brand)and(not a.category or x['category']==a.category)and a.query.lower()in json.dumps(x,ensure_ascii=False).lower()]
+            state(SK);r=[x for x in rows()if(not a.brand or x['brand']==a.brand)and(not a.category or x['category']==a.category)and(not a.family or x.get('family')==a.family)and a.query.lower()in json.dumps(x,ensure_ascii=False).lower()]
             result={'total':len(r),'assets':[dict(x,cached=local(SK,x['path']).exists())for x in r[:a.limit]]}
         else:
             state(SK);index={x['id']:x for x in rows()}

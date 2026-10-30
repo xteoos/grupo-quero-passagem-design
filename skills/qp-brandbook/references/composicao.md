@@ -5,6 +5,6 @@ O repertório cadastrado inclui destinos, ilustração na fotografia, selos de v
 
 Use os arquivos exportados como elementos originais. Preserve proporções, contornos e relações de cor. Se o arquivo estiver vetorizado em curvas, isso preserva a aparência, mas não equivale a uma fonte instalada.
 
-Ilustrações e stickers apoiam o que se quer comunicar. Evite decorar cada espaço ou sobrepor elementos à informação principal. Mantenha hierarquia e respiro conforme o template. Não crie novos stickers no mesmo estilo e os apresente como oficiais.
+Ilustrações e stickers apoiam o que se quer comunicar. Evite decorar cada espaço ou sobrepor elementos à informação principal. Mantenha hierarquia e respiro conforme o template. O responsável autorizou variações de stickers quando fizer sentido: preserve o caráter visual da marca e identifique a criação como derivada. Não a apresente como arquivo oficial nem crie selos de certificação fictícios. Leia [o guia social](social/COMECAR.md) para construir peças com o repertório real, incluindo linhas de percurso, letterings e combinações tipográficas.
 
 Ícones priorizam simplicidade, clareza, objetividade e função. Os números de grid, raios e espaçamento do design system são referências de interfaces digitais: não impor breakpoints de site a uma apresentação ou peça de mídia fixa.

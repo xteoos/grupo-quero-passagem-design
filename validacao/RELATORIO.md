@@ -34,10 +34,23 @@ As fontes dos exemplos estão incluídas e a integridade passa sem pendências d
 
 ## Distribuição sob demanda para IAs · 30/10/2026
 
-O ZIP distribution/qp-brandbook.zip contém apenas a skill, referências, metadados de interface e scripts: cerca de 140 KB, sem os binários do acervo. O bundle remoto reúne 44 referências e os hashes de 1.244 arquivos (incluindo previews e dependências), sem duplicar as imagens. Esses números são diferentes dos 659 itens lógicos do catálogo.
+O ZIP distribution/qp-brandbook.zip contém apenas a skill, referências, metadados de interface e scripts: cerca de 160 KB após a curadoria social, sem os binários do acervo. O bundle remoto reúne 49 referências e os hashes de 1.244 arquivos (incluindo previews e dependências), sem duplicar as imagens. Esses números são diferentes dos 659 itens lógicos do catálogo.
 
 Cinco testes do helper verificam download LFS pelo endpoint de mídia, reaproveitamento de arquivo íntegro, recuperação de arquivo de cache corrompido, rejeição de ponteiros/conteúdo incorreto, contenção de caminhos e obtenção de dependências CSS. Resultados dos downloads reais: [remote-downloads.json](remote-downloads.json). A ferramenta não usa o executável Git nem Git LFS para essa consulta.
 
 O README orienta instalação do ZIP leve e busca sob demanda; o download completo não é apresentado como alternativa de uso. O helper atualiza as referências no início de cada pedido e fixa uma revisão para seus downloads. Acesso à internet, Python 3 e permissão de gravação continuam necessários para o helper.
 
-Teste de instalação pelo ZIP público em pasta vazia: sincronização das 44 referências, busca e download de um logo e obtenção de um HTML adaptado com suas dependências aprovados. Foram materializados 14 arquivos (cerca de 3,3 MB), sem clone e sem Git/LFS. Evidência: [remote-package.json](remote-package.json).
+Teste da versão inicial pelo ZIP público em pasta vazia: sincronização das 44 referências, busca e download de um logo e obtenção de um HTML adaptado com suas dependências aprovados. Foram materializados 14 arquivos (cerca de 3,3 MB), sem clone e sem Git/LFS. Evidência: [remote-package.json](remote-package.json).
+
+
+## Curadoria social e linguagem das marcas · 30/10/2026
+
+Revisados visualmente 280 exports, com 202 peças completas e 78 itens de apoio. Os guias QP image 57/58/59, o percurso Frame 4, o lettering Group 12 e o selo postal Ativo 12-8 1 agora têm tipos e nomes próprios. Viajo Mucho e Rodon receberam a mesma distinção. Nove pranchas de contato e quatro testes de regressão de classificação/famílias estão em [revisao-social](revisao-social/). A triagem é visual, sem prometer inspeção minuciosa de todos os textos ou acesso editável offline ao Figma.
+
+Quatro [estudos de composição](social/casos.json), com HTML e PNG, testam foto/percurso/faixas QP, lettering misto QP, colagem Viajo Mucho e foto/balões Rodon. Foram usados elementos e logos reais, texto controlável e fontes locais. Não são novos templates oficiais nem simulações de uma campanha vigente. Os estudos QP, VM e Rodon que usam fotos de preview Figma têm resolução e edição fotográfica limitadas; a peça QP de lettering usa o original fotográfico do ensaio Irineu.
+
+O [teste de navegador](social/browser-checks.json) verifica filtros semânticos, busca pelo nome original, categorias, famílias, carregamento das imagens, fontes efetivamente renderizadas e ausência de corte nos textos novos. Houve conferência visual dos estudos com as referências escolhidas; isso mostra uma aplicação possível das novas instruções, não garante o resultado de toda IA ou dispensa revisão de novas peças.
+
+A skill manda abrir referências antes de compor e comparar o resultado renderizado com elas. A autorização do responsável permite stickers derivados quando úteis e identificados, preservando logos, identidade e veracidade das mensagens.
+
+Também foram inspecionados e renomeados os percursos vetoriais 100:21/100:22, a trama de laços 108:34 e a prancha Component 4 (31:29208) da biblioteca de assets. A prancha foi retirada da categoria de ilustração individual; os dois percursos ganharam categoria e instruções próprias.

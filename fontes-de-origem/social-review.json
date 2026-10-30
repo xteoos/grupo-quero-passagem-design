@@ -1,0 +1,54 @@
+{
+  "review_date": "2026-10-30",
+  "source": "Exports locais das páginas Quero Passagem, Viajo Mucho e Rodon em Social - Ads, com IDs preservados.",
+  "coverage": 280,
+  "method": "Triagem visual de todas as nove pranchas de contato; inspeção ampliada de peças/elementos exemplares; direção expressa do responsável. Não é inspeção detalhada de todo texto, aprovação comercial nem exportação de novos vetores do Figma.",
+  "full_pieces": 202,
+  "support_items": 78,
+  "categories_by_brand": {
+    "quero-passagem": {
+      "pecas-sociais": 94,
+      "letterings": 6,
+      "fundos": 6,
+      "linhas-e-percursos": 5,
+      "fotografia": 3,
+      "referencias-de-grade": 2,
+      "suportes-de-layout": 8,
+      "stickers": 16,
+      "guias-de-cores": 3,
+      "logos": 1,
+      "formas": 2,
+      "pranchas-de-elementos": 1
+    },
+    "viajo-mucho": {
+      "pecas-sociais": 83,
+      "letterings": 4,
+      "fotografia": 1,
+      "ilustracoes": 1,
+      "fundos": 3,
+      "guias-de-cores": 1,
+      "pranchas-de-elementos": 2,
+      "referencias-tipograficas": 2,
+      "logos": 1
+    },
+    "rodon": {
+      "pecas-sociais": 25,
+      "referencias-de-marca": 1,
+      "guias-de-cores": 3,
+      "letterings": 6
+    }
+  },
+  "contact_sheets": [
+    "quero-passagem-0.jpg",
+    "quero-passagem-1.jpg",
+    "quero-passagem-2.jpg",
+    "quero-passagem-3.jpg",
+    "quero-passagem-4.jpg",
+    "rodon-0.jpg",
+    "viajo-mucho-0.jpg",
+    "viajo-mucho-1.jpg",
+    "viajo-mucho-2.jpg"
+  ],
+  "originals_changed": false,
+  "authority_for_sticker_variants": "Pedido do responsável nesta conversa: usar stickers quando fizer sentido e criar variação no mesmo estilo quando necessário. Não altera logos ou alegações comerciais."
+}

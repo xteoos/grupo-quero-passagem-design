@@ -48,7 +48,7 @@ Informe a marca, para quem é o material, o objetivo, onde será usado e como qu
 
 > Use a skill qp-brandbook para criar um post da Viajo Mucho, em espanhol para o México, sobre [tema]. Use os modelos dessa marca e a adaptação tipográfica em Lilita One prevista nesta base.
 
-Para Rodon, informe a marca no pedido; os títulos adaptados usam Nunito ExtraBold. A IA deve selecionar os modelos e os elementos próprios de cada marca.
+Para Rodon, informe a marca no pedido; os títulos adaptados usam Nunito ExtraBold. A IA deve selecionar os modelos e os elementos próprios de cada marca. Para posts e outras peças gráficas, a skill agora consulta [famílias visuais específicas](skills/qp-brandbook/references/social/COMECAR.md), incluindo percursos, lettering e stickers com contexto. Se já instalou uma versão anterior, substitua-a pelo pacote mais recente para receber também os novos recursos de busca.
 
 ### 3. Confira antes de compartilhar
 

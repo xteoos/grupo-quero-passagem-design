@@ -1,0 +1,162 @@
+{
+  "review_date": "2026-10-30",
+  "basis": "Revisão visual dos 280 exports; padrões observados e direção expressa do responsável. Não altera originais.",
+  "families": [
+    {
+      "brand": "quero-passagem",
+      "id": "qp-foto-percurso",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:1759",
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:2515",
+        "figma:EyJUWysTaFKnJewVXFz0u0:164:2",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2078:77"
+      ],
+      "elements": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:176:6",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2627:1516",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2150:238",
+        "figma:EyJUWysTaFKnJewVXFz0u0:66:27"
+      ],
+      "composition": "Foto dominante, percurso contínuo e lettering em faixas; Bacalar + Instrument Serif, com apoio Sora quando necessário."
+    },
+    {
+      "brand": "quero-passagem",
+      "id": "qp-foto-lettering",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2266:5239",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2187:63",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2261:393",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2715:5084"
+      ],
+      "elements": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2150:243",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2150:239",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2150:242",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2150:236"
+      ],
+      "composition": "Foto contextual e adesivo tipográfico, contraste de Bacalar com Serif ou Sora; sticker ligado ao tema."
+    },
+    {
+      "brand": "quero-passagem",
+      "id": "qp-hotel-vitrine",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2187:64",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2187:65",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2298:2900",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2504:1975"
+      ],
+      "elements": [],
+      "composition": "Faixa vertical de informação confirmada e foto do hotel; sem inventar valores ou benefícios."
+    },
+    {
+      "brand": "quero-passagem",
+      "id": "qp-fitas-campanha",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2463:7857",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2463:7858",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2463:7860"
+      ],
+      "elements": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2464:7861",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2464:7976",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2464:8318"
+      ],
+      "composition": "Fita contínua com lettering de campanha; não transplantar texto sazonal fora do contexto."
+    },
+    {
+      "brand": "quero-passagem",
+      "id": "qp-interativo",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2469:2004",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2659:1546",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2765:1915"
+      ],
+      "elements": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:176:6"
+      ],
+      "composition": "Adesivo de chamada, participação e percurso com respiro; recompor o texto real."
+    },
+    {
+      "brand": "quero-passagem",
+      "id": "qp-institucional",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2176:108",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2176:112",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2461:1454"
+      ],
+      "elements": [],
+      "composition": "Aplicações institucionais, escolher conforme canal; não usar como padrão de post de destino."
+    },
+    {
+      "brand": "viajo-mucho",
+      "id": "vm-colagem-destinos",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:3470",
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:4029",
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:3932",
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:3955"
+      ],
+      "elements": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:4176",
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:4346"
+      ],
+      "composition": "Fotos escalonadas, molduras contrastantes, estrela/sol e grafismos mexicanos contextuais; Lilita One + Work Sans."
+    },
+    {
+      "brand": "viajo-mucho",
+      "id": "vm-foto-chamadas",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:143:21",
+        "figma:EyJUWysTaFKnJewVXFz0u0:143:39",
+        "figma:EyJUWysTaFKnJewVXFz0u0:147:317",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2390:1454"
+      ],
+      "elements": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:4176",
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:4346"
+      ],
+      "composition": "Foto dominante, faixas de chamada, alto contraste e acento gráfico da marca; espanhol mexicano."
+    },
+    {
+      "brand": "viajo-mucho",
+      "id": "vm-carrossel-informativo",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2049:268",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2108:2",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2746:1619",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2746:2058"
+      ],
+      "elements": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:96:2119"
+      ],
+      "composition": "Sequência de quadros com ritmo entre foto, texto e ilustração; não usar a faixa inteira como post."
+    },
+    {
+      "brand": "rodon",
+      "id": "rodon-foto-baloes",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:42:42",
+        "figma:EyJUWysTaFKnJewVXFz0u0:50:71",
+        "figma:EyJUWysTaFKnJewVXFz0u0:55:201",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2049:290"
+      ],
+      "elements": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2202:114",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2202:115",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2202:119"
+      ],
+      "composition": "Fotografia grande, balões azul/laranja/claro com contorno e sombra curta; Nunito 800 + Poppins."
+    },
+    {
+      "brand": "rodon",
+      "id": "rodon-lettering-estrada",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2017:395",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2021:2",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2041:2"
+      ],
+      "elements": [],
+      "composition": "Foto de estrada em perspectiva e título expressivo; não simular fonte de lettering desenhado."
+    }
+  ]
+}

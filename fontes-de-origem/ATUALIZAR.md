@@ -36,3 +36,10 @@ Mudanças de fonte devem atualizar também references/typography-policy.json, ti
 Depois de mudar referências, scripts ou acervo, execute `python3 scripts/build_distribution.py`. Versione distribution/brandbook-bundle.json e distribution/qp-brandbook.zip junto com a mudança. O bundle contém as referências e um manifesto dos arquivos; o ZIP leva somente SKILL.md, references, scripts e agents. Nunca incluir assets ou arquivos temporários no ZIP de instalação.
 
 O helper remoto fixa o SHA de main no início do pedido, obtém esse bundle e verifica os arquivos necessários por tamanho e SHA-256. LFS é responsabilidade da manutenção do acervo; não é requisito para quem instala a skill. Teste o pacote extraído numa pasta vazia, incluindo fonte comum e pelo menos um original LFS, antes de declarar o fluxo validado.
+
+
+## Curadoria e validação social
+
+Atualize os papéis/nome curado/família em asset-reviews.json preservando source_name, ID, caminho e bytes. Reclassifique pelo conteúdo visual, nunca só pelo nome da página. Atualize references/social/familias.json e os guias quando uma evidência ou direção do responsável mudar.
+
+Reconstrua o catálogo, execute `python3 scripts/test_social_catalog.py`, `python3 scripts/test_remote_assets.py` e `python3 scripts/validate.py --strict`. Para rever os estudos, execute `python3 scripts/build_social_examples.py` e, com servidor local ativo, `node scripts/check_social.cjs` (Playwright necessário). Os estudos são exemplos de validação, não novas normas. Ao final, regenere o bundle e o ZIP com build_distribution.py.

@@ -80,5 +80,5023 @@
   },
   "drive:19lgUrEMkv7sYomWGXFMwfuqQQKP6mKlI3aBxlS94Fao": {
     "preview_path": "assets/previews/19lgUrEMkv7sYomWGXFMwfuqQQKP6mKlI3aBxlS94Fao-pdf.jpg"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:1759": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-percurso",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "visual-detalhada",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "quero-passagem",
+      "rodoviario",
+      "percurso",
+      "linha",
+      "faixa",
+      "bacalar",
+      "instrument-serif",
+      "qp-foto-percurso"
+    ],
+    "name": "QP · embarque com percurso e faixas"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:1778": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-percurso",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "visual-detalhada",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "quero-passagem",
+      "rodoviario",
+      "percurso",
+      "linha",
+      "faixa",
+      "bacalar",
+      "instrument-serif",
+      "qp-foto-percurso"
+    ],
+    "name": "QP · embarque com percurso · variação 2"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:1799": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-percurso",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "visual-detalhada",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "quero-passagem",
+      "rodoviario",
+      "percurso",
+      "linha",
+      "faixa",
+      "bacalar",
+      "instrument-serif",
+      "qp-foto-percurso"
+    ],
+    "name": "QP · embarque com percurso · variação 3"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:63:12": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] inspiração de viagem - 2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:66:34": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] inspiração de viagem - 2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:66:92": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] inspiração de viagem - 2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:63:21": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Adesivo tipográfico / faixa de chamada. Texto incorporado no raster; obter fonte editável ou recompor com fontes reais para outra mensagem. Não é logo nem peça inteira.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group 11",
+    "tags": [
+      "quero-passagem",
+      "letterings",
+      "lettering",
+      "faixa",
+      "titulo",
+      "bacalar",
+      "instrument-serif",
+      "tipografia"
+    ],
+    "name": "QP · Escolha viajar · faixa branca e azul"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:63:56": {
+    "category": "fundos",
+    "usage": "referencia-visual",
+    "asset_kind": "fundos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Fundo de composição; não é uma peça pronta. Não contém hierarquia completa de texto.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] inspiração de viagem - 3",
+    "tags": [
+      "quero-passagem",
+      "fundos",
+      "fundo",
+      "fotografia",
+      "percurso"
+    ],
+    "name": "QP · fundo fotográfico de viagem"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:66:40": {
+    "category": "fundos",
+    "usage": "referencia-visual",
+    "asset_kind": "fundos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Fundo de composição; não é uma peça pronta. Não contém hierarquia completa de texto.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] inspiração de viagem - 3",
+    "tags": [
+      "quero-passagem",
+      "fundos",
+      "fundo",
+      "fotografia",
+      "percurso"
+    ],
+    "name": "QP · fundo fotográfico de viagem"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:66:101": {
+    "category": "fundos",
+    "usage": "referencia-visual",
+    "asset_kind": "fundos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Fundo de composição; não é uma peça pronta. Não contém hierarquia completa de texto.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] inspiração de viagem - 3",
+    "tags": [
+      "quero-passagem",
+      "fundos",
+      "fundo",
+      "fotografia",
+      "percurso"
+    ],
+    "name": "QP · fundo fotográfico de viagem com percurso"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2176:108": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Atualização QP na Mídia - 1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2176:111": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Atualização QP na Mídia - 2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2176:112": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Atualização QP na Mídia - 3",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2176:113": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Atualização QP na Mídia - 4",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2176:114": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Atualização QP na Mídia - 5",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2078:77": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-percurso",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Nacional Inn Angra",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa",
+      "qp-foto-percurso"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2171:62": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-percurso",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] trend de viagem",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2261:2630": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2361:1420": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:63:34": {
+    "category": "fundos",
+    "usage": "referencia-visual",
+    "asset_kind": "fundos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Fundo de composição; não é uma peça pronta. Não contém hierarquia completa de texto.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] inspiração de viagem - 1",
+    "tags": [
+      "quero-passagem",
+      "fundos",
+      "fundo",
+      "fotografia",
+      "percurso"
+    ],
+    "name": "QP · fundo fotográfico de viagem"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:66:42": {
+    "category": "fundos",
+    "usage": "referencia-visual",
+    "asset_kind": "fundos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Fundo de composição; não é uma peça pronta. Não contém hierarquia completa de texto.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] inspiração de viagem - 1",
+    "tags": [
+      "quero-passagem",
+      "fundos",
+      "fundo",
+      "fotografia",
+      "percurso"
+    ],
+    "name": "QP · fundo fotográfico de viagem"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:66:104": {
+    "category": "fundos",
+    "usage": "referencia-visual",
+    "asset_kind": "fundos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Fundo de composição; não é uma peça pronta. Não contém hierarquia completa de texto.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] inspiração de viagem - 1",
+    "tags": [
+      "quero-passagem",
+      "fundos",
+      "fundo",
+      "fotografia",
+      "percurso"
+    ],
+    "name": "QP · fundo fotográfico de viagem com percurso"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:176:6": {
+    "category": "linhas-e-percursos",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "linhas-e-percursos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Elemento que conduz o olhar ao longo da peça. Pode atravessar a foto, contornar áreas e sair da borda; proteger rostos e leitura. Fitas com texto de campanha só na campanha correspondente.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Frame 4",
+    "tags": [
+      "quero-passagem",
+      "linhas-e-percursos",
+      "rota",
+      "linha",
+      "percurso",
+      "fita",
+      "conexao",
+      "movimento"
+    ],
+    "name": "QP · Percurso branco com ponto azul e amarelo"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2627:1516": {
+    "category": "linhas-e-percursos",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "linhas-e-percursos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Elemento que conduz o olhar ao longo da peça. Pode atravessar a foto, contornar áreas e sair da borda; proteger rostos e leitura. Fitas com texto de campanha só na campanha correspondente.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group 52",
+    "tags": [
+      "quero-passagem",
+      "linhas-e-percursos",
+      "rota",
+      "linha",
+      "percurso",
+      "fita",
+      "conexao",
+      "movimento"
+    ],
+    "name": "QP · Percurso azul com ponto amarelo"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:66:14": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Adesivo tipográfico / faixa de chamada. Texto incorporado no raster; obter fonte editável ou recompor com fontes reais para outra mensagem. Não é logo nem peça inteira.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Escolha viajar",
+    "tags": [
+      "quero-passagem",
+      "letterings",
+      "lettering",
+      "faixa",
+      "titulo",
+      "bacalar",
+      "instrument-serif",
+      "tipografia"
+    ],
+    "name": "QP · Escolha viajar · Bacalar branca"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:66:15": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Adesivo tipográfico / faixa de chamada. Texto incorporado no raster; obter fonte editável ou recompor com fontes reais para outra mensagem. Não é logo nem peça inteira.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Quero Passagem",
+    "tags": [
+      "quero-passagem",
+      "letterings",
+      "lettering",
+      "faixa",
+      "titulo",
+      "bacalar",
+      "instrument-serif",
+      "tipografia"
+    ],
+    "name": "QP · Quero Passagem · lettering serifado"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:66:16": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Adesivo tipográfico / faixa de chamada. Texto incorporado no raster; obter fonte editável ou recompor com fontes reais para outra mensagem. Não é logo nem peça inteira.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Frame 1",
+    "tags": [
+      "quero-passagem",
+      "letterings",
+      "lettering",
+      "faixa",
+      "titulo",
+      "bacalar",
+      "instrument-serif",
+      "tipografia"
+    ],
+    "name": "QP · Escolha · faixa azul inclinada"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:66:27": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Adesivo tipográfico / faixa de chamada. Texto incorporado no raster; obter fonte editável ou recompor com fontes reais para outra mensagem. Não é logo nem peça inteira.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group 12",
+    "tags": [
+      "quero-passagem",
+      "letterings",
+      "lettering",
+      "faixa",
+      "titulo",
+      "bacalar",
+      "instrument-serif",
+      "tipografia"
+    ],
+    "name": "QP · Escolha viajar · combinação Bacalar, Sora e Serif"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:2513": {
+    "category": "fotografia",
+    "usage": "referencia-visual",
+    "asset_kind": "fotografia",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Fotografia de referência extraída do Figma. Conferir resolução e direitos/contexto antes de ampliar; preferir original do ensaio quando disponível.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "side-view-woman-girl-traveling-by-train",
+    "tags": [
+      "quero-passagem",
+      "fotografia",
+      "pessoas",
+      "rodoviario",
+      "foto"
+    ],
+    "name": "QP · Viajantes desembarcando com malas"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:2514": {
+    "category": "fotografia",
+    "usage": "referencia-visual",
+    "asset_kind": "fotografia",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Fotografia de referência extraída do Figma. Conferir resolução e direitos/contexto antes de ampliar; preferir original do ensaio quando disponível.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "side-view-woman-girl-traveling-by-train",
+    "tags": [
+      "quero-passagem",
+      "fotografia",
+      "pessoas",
+      "rodoviario",
+      "foto"
+    ],
+    "name": "QP · Viajantes desembarcando · variação"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:2515": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-percurso",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "visual-detalhada",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "quero-passagem",
+      "rodoviario",
+      "percurso",
+      "linha",
+      "faixa",
+      "bacalar",
+      "instrument-serif",
+      "qp-foto-percurso"
+    ],
+    "name": "QP · viajante e malas com percurso"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:2540": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Adesivo tipográfico / faixa de chamada. Texto incorporado no raster; obter fonte editável ou recompor com fontes reais para outra mensagem. Não é logo nem peça inteira.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Asset 1 1",
+    "tags": [
+      "quero-passagem",
+      "letterings",
+      "lettering",
+      "faixa",
+      "titulo",
+      "bacalar",
+      "instrument-serif",
+      "tipografia"
+    ],
+    "name": "QP · Faixas branca e azul com símbolo de busca"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:61:3": {
+    "category": "referencias-de-grade",
+    "usage": "referencia-visual",
+    "asset_kind": "referencia-de-grade",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Visualização de três quadros lado a lado da grade QP. Referência de ritmo entre posts e tipografia; não é template único nem peça de terceiro. Conferir os quadros separadamente antes de adaptar.",
+    "review_level": "visual-detalhada",
+    "review_date": "2026-10-30",
+    "source_name": "{40D8660C-44EF-4850-A0A0-A7699E9ECC54} 1",
+    "tags": [
+      "quero-passagem",
+      "grade",
+      "feed",
+      "mosaico",
+      "tipografia"
+    ],
+    "name": "QP · Grade de feed · Tem viagem, tem Quero Passagem"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:61:6": {
+    "category": "referencias-de-grade",
+    "usage": "referencia-visual",
+    "asset_kind": "referencia-de-grade",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Visualização de três quadros lado a lado da grade QP. Referência de ritmo entre posts e tipografia; não é template único nem peça de terceiro. Conferir os quadros separadamente antes de adaptar.",
+    "review_level": "visual-detalhada",
+    "review_date": "2026-10-30",
+    "source_name": "image 1",
+    "tags": [
+      "quero-passagem",
+      "grade",
+      "feed",
+      "mosaico",
+      "tipografia"
+    ],
+    "name": "QP · Grade de feed · Destinos saindo de São Paulo"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:63:89": {
+    "category": "suportes-de-layout",
+    "usage": "referencia-visual",
+    "asset_kind": "suportes-de-layout",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Suporte vazio, não serve como referência de linguagem visual final.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Instagram post - 1",
+    "tags": [
+      "quero-passagem",
+      "suportes-de-layout",
+      "vazio",
+      "suporte"
+    ],
+    "name": "QP · superfície vazia / layout sem conteúdo"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:65:150": {
+    "category": "fotografia",
+    "usage": "referencia-visual",
+    "asset_kind": "fotografia",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Fotografia de referência extraída do Figma. Conferir resolução e direitos/contexto antes de ampliar; preferir original do ensaio quando disponível.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "IMG_3539",
+    "tags": [
+      "quero-passagem",
+      "fotografia",
+      "pessoas",
+      "rodoviario",
+      "foto"
+    ],
+    "name": "QP · Viajante com almofada de pescoço"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:164:2": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-percurso",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - CTA hotéis",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa",
+      "qp-foto-percurso"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2031:54": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "DIA DOS PAIS",
+    "tags": [
+      "quero-passagem",
+      "SECTION",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2049:292": {
+    "category": "suportes-de-layout",
+    "usage": "referencia-visual",
+    "asset_kind": "suportes-de-layout",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Suporte vazio, não serve como referência de linguagem visual final.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Nacional Inn Angra",
+    "tags": [
+      "quero-passagem",
+      "suportes-de-layout",
+      "vazio",
+      "suporte"
+    ],
+    "name": "QP · superfície vazia / layout sem conteúdo"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:233": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 2-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "selo"
+    ],
+    "name": "QP · Empresa indicada · selo de campanha"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:234": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 3-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "selo"
+    ],
+    "name": "QP · Partiu R.A. 2026 · faixa de campanha"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:235": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 4-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "selo"
+    ],
+    "name": "QP · Próximo destino desbloqueado · etiqueta"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:236": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 5-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "selo"
+    ],
+    "name": "QP · Campainha de hotel"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:237": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 6-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "praia",
+      "ferias"
+    ],
+    "name": "QP · Foto de piscina com guarda-sol"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:238": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 7-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "onibus",
+      "rodoviario"
+    ],
+    "name": "QP · Ônibus azul com contorno branco"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:239": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 8-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "praia",
+      "ferias"
+    ],
+    "name": "QP · Coco com canudo e guarda-sol"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:240": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 9-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "selo"
+    ],
+    "name": "QP · Bora mais longe · selo circular com seta"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:241": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 10-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "selo"
+    ],
+    "name": "QP · Quero voto · chamada de campanha"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:242": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 11-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "selo"
+    ],
+    "name": "QP · Só vai · placa amarela"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:243": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 12-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "praia",
+      "ferias"
+    ],
+    "name": "QP · Selo postal de praia com cadeira e palmeira"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:244": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 13-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "selo"
+    ],
+    "name": "QP · RA1000 na bagagem · etiqueta de campanha"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:308": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 2@4x-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "selo"
+    ],
+    "name": "QP · Bora mais longe · fita azul ondulada"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2150:309": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 3@4x-8 1",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "selo"
+    ],
+    "name": "QP · Check-in no voto · botão de campanha"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2176:116": {
+    "category": "guias-de-cores",
+    "usage": "referencia-de-guia",
+    "asset_kind": "guias-de-cores",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Guia de combinação de cores; não é layout de post. Conferir valores na norma publicada.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "image 57",
+    "tags": [
+      "quero-passagem",
+      "guias-de-cores",
+      "cor",
+      "paleta",
+      "guia"
+    ],
+    "name": "QP · Paleta primária"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2176:119": {
+    "category": "guias-de-cores",
+    "usage": "referencia-de-guia",
+    "asset_kind": "guias-de-cores",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Guia de combinação de cores; não é layout de post. Conferir valores na norma publicada.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "image 58",
+    "tags": [
+      "quero-passagem",
+      "guias-de-cores",
+      "cor",
+      "paleta",
+      "guia"
+    ],
+    "name": "QP · Paleta secundária"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2176:122": {
+    "category": "guias-de-cores",
+    "usage": "referencia-de-guia",
+    "asset_kind": "guias-de-cores",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Guia de combinação de cores; não é layout de post. Conferir valores na norma publicada.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "image 59",
+    "tags": [
+      "quero-passagem",
+      "guias-de-cores",
+      "cor",
+      "paleta",
+      "guia"
+    ],
+    "name": "QP · Paleta experiência elevada"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2187:63": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Curadoria de hotéis",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa",
+      "qp-foto-lettering"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2261:393": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis no Rio de Janeiro - um hotel pra cada experiência",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa",
+      "qp-foto-lettering"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2264:2667": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_3",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2266:5239": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2266:5765": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2327:1491": {
+    "category": "suportes-de-layout",
+    "usage": "referencia-visual",
+    "asset_kind": "suportes-de-layout",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Forma para encaixar título ou foto; precisa ser combinada com fotografia e tipografia. Não é peça pronta.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_1",
+    "tags": [
+      "quero-passagem",
+      "suportes-de-layout",
+      "balao",
+      "moldura",
+      "suporte"
+    ],
+    "name": "QP · balão / suporte de título 2327:1491"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2266:6289": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2266:6813": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2327:1534": {
+    "category": "suportes-de-layout",
+    "usage": "referencia-visual",
+    "asset_kind": "suportes-de-layout",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Forma para encaixar título ou foto; precisa ser combinada com fotografia e tipografia. Não é peça pronta.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_1",
+    "tags": [
+      "quero-passagem",
+      "suportes-de-layout",
+      "balao",
+      "moldura",
+      "suporte"
+    ],
+    "name": "QP · balão / suporte de título 2327:1534"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2329:4543": {
+    "category": "suportes-de-layout",
+    "usage": "referencia-visual",
+    "asset_kind": "suportes-de-layout",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Forma para encaixar título ou foto; precisa ser combinada com fotografia e tipografia. Não é peça pronta.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_1",
+    "tags": [
+      "quero-passagem",
+      "suportes-de-layout",
+      "balao",
+      "moldura",
+      "suporte"
+    ],
+    "name": "QP · balão / suporte de título 2329:4543"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2330:5108": {
+    "category": "suportes-de-layout",
+    "usage": "referencia-visual",
+    "asset_kind": "suportes-de-layout",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Forma para encaixar título ou foto; precisa ser combinada com fotografia e tipografia. Não é peça pronta.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 1 4",
+    "tags": [
+      "quero-passagem",
+      "suportes-de-layout",
+      "balao",
+      "moldura",
+      "suporte"
+    ],
+    "name": "QP · balão / suporte de título 2330:5108"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2266:7337": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2266:7861": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2187:64": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Curadoria de hotéis",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2261:62": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis no Rio de Janeiro - um hotel pra cada experiência",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2298:2785": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_3",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2187:65": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Curadoria de hotéis",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2261:120": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis no Rio de Janeiro - um hotel pra cada experiência",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2298:2843": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_3",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2187:66": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Curadoria de hotéis",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2261:177": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis no Rio de Janeiro - um hotel pra cada experiência",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2298:2900": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_3",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa",
+      "qp-hotel-vitrine"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2187:71": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Curadoria de hotéis",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2261:234": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis no Rio de Janeiro - um hotel pra cada experiência",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2298:2959": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_3",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2187:72": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Curadoria de hotéis",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2261:292": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis no Rio de Janeiro - um hotel pra cada experiência",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2298:3011": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_3",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2187:73": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Curadoria de hotéis",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2261:345": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis no Rio de Janeiro - um hotel pra cada experiência",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2298:3064": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_3",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2187:74": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Curadoria de hotéis",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2261:916": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis no Rio de Janeiro - um hotel pra cada experiência",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2276:8883": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Rio de Janeiro_3",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2324:1489": {
+    "category": "suportes-de-layout",
+    "usage": "referencia-visual",
+    "asset_kind": "suportes-de-layout",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Suporte vazio, não serve como referência de linguagem visual final.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "A4 - 1",
+    "tags": [
+      "quero-passagem",
+      "suportes-de-layout",
+      "vazio",
+      "suporte"
+    ],
+    "name": "QP · superfície vazia / layout sem conteúdo"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2335:5113": {
+    "category": "suportes-de-layout",
+    "usage": "referencia-visual",
+    "asset_kind": "suportes-de-layout",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Forma para encaixar título ou foto; precisa ser combinada com fotografia e tipografia. Não é peça pronta.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Rectangle 34",
+    "tags": [
+      "quero-passagem",
+      "suportes-de-layout",
+      "balao",
+      "moldura",
+      "suporte"
+    ],
+    "name": "QP · balão / suporte de título 2335:5113"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2340:1469": {
+    "category": "linhas-e-percursos",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "linhas-e-percursos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Traço contínuo como assinatura de movimento, não post nem template.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Ativo 1 5",
+    "tags": [
+      "quero-passagem",
+      "linhas-e-percursos",
+      "linha",
+      "laco",
+      "percurso"
+    ],
+    "name": "QP · linha contínua azul com laço"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2340:12723": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "STORY 1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2426:1454": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "STORY 5",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2340:12724": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "STORY 2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2341:13023": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "STORY 3",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2341:13181": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "STORY 4",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2426:1609": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "STORY 6",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2361:1767": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2504:1465": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis em Fortaleza 1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2361:1435": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2504:1975": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis em Fortaleza 2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2361:1493": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2504:2033": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis em Fortaleza 3",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2361:1550": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2504:2090": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis em Fortaleza 4",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2361:1607": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2504:2148": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis em Fortaleza 5",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2361:1665": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2504:2206": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis em Fortaleza 6",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2361:1718": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2504:2262": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis em Fortaleza 7",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2361:1825": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2715:4208": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2715:4740": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2715:4807": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2715:4857": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2715:4917": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2715:4977": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2715:5034": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-hotel-vitrine",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2715:5084": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Bloco Fortaleza_2",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa",
+      "qp-foto-lettering"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2504:2310": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Hotéis em Fortaleza 8",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-hotel-vitrine",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2443:1497": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-interativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Add yours - Metas de viagem",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-interativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2646:1546": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-interativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Add yours - No google x na minha galeria",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-interativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2469:2004": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-interativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Add yours - Metas de viagem",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-interativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2659:1546": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-interativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Add yours - foto viajando pra atrair mais viagens",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-interativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2765:1915": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-interativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Add yours - O destino mais bonito que você já viu",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-interativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2448:1662": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-fitas-campanha",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Dia do Cliente - CTA hotéis",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-fitas-campanha",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2461:1454": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-institucional",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [INTERNO] Feedz: Arte Destaque",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-institucional",
+      "social",
+      "referencia-completa"
+    ],
+    "format_hint": "Conferir se é carrossel em faixa ou elemento; não publicar toda a faixa como um post."
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2462:7829": {
+    "category": "logos",
+    "usage": "referencia-visual",
+    "asset_kind": "logos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Logo/assinatura de referência; preferir o SVG oficial da biblioteca de logos. Não editar letras.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group",
+    "tags": [
+      "quero-passagem",
+      "logos",
+      "logo",
+      "assinatura"
+    ],
+    "name": "QP · assinatura branca horizontal do arquivo social"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2462:6897": {
+    "category": "formas",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "formas",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Grafismo modular de símbolos de busca, não uma peça completa.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group 1",
+    "tags": [
+      "quero-passagem",
+      "formas",
+      "grafismo",
+      "simbolo",
+      "busca"
+    ],
+    "name": "QP · forma orgânica feita de símbolos de busca"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2463:7857": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-fitas-campanha",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Dia do Cliente - institucional_01",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-fitas-campanha",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2463:7858": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-fitas-campanha",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Dia do Cliente - institucional_02",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-fitas-campanha",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2463:7859": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-fitas-campanha",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Dia do Cliente - institucional_03",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-fitas-campanha",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2463:7860": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-fitas-campanha",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Dia do Cliente - institucional_04",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-fitas-campanha",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2464:7861": {
+    "category": "linhas-e-percursos",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "linhas-e-percursos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Elemento que conduz o olhar ao longo da peça. Pode atravessar a foto, contornar áreas e sair da borda; proteger rostos e leitura. Fitas com texto de campanha só na campanha correspondente.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group 25",
+    "tags": [
+      "quero-passagem",
+      "linhas-e-percursos",
+      "rota",
+      "linha",
+      "percurso",
+      "fita",
+      "conexao",
+      "movimento"
+    ],
+    "name": "QP · Fita amarela de campanha com texto em percurso"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2464:7976": {
+    "category": "linhas-e-percursos",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "linhas-e-percursos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Elemento que conduz o olhar ao longo da peça. Pode atravessar a foto, contornar áreas e sair da borda; proteger rostos e leitura. Fitas com texto de campanha só na campanha correspondente.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group 37",
+    "tags": [
+      "quero-passagem",
+      "linhas-e-percursos",
+      "rota",
+      "linha",
+      "percurso",
+      "fita",
+      "conexao",
+      "movimento"
+    ],
+    "name": "QP · Fita azul de campanha com texto em percurso"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2464:8078": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-fitas-campanha",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "1",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2464:8318": {
+    "category": "pranchas-de-elementos",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "pranchas-de-elementos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Prancha contém vários stickers. Selecionar/exportar um elemento; não colar a prancha inteira nem usar campanha sem contexto.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Stickers",
+    "tags": [
+      "quero-passagem",
+      "pranchas-de-elementos",
+      "stickers",
+      "prancha",
+      "campanha"
+    ],
+    "name": "QP · prancha de stickers Dia do Cliente"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2469:2003": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-interativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "story_meu_estilo_de_viagem_1 1",
+    "tags": [
+      "quero-passagem",
+      "RECTANGLE",
+      "qp-interativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2488:1465": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-fitas-campanha",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Dia do cliente - prorrogado",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-fitas-campanha",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2614:1517": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [STORY] Semana de hotéis - geral",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2628:1554": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP / STICKER / 17",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "selo"
+    ],
+    "name": "QP · Novos caminhos, novos destinos · selo postal"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2629:1592": {
+    "category": "formas",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "formas",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Amostra de preenchimento, não modelo nem diretriz isolada.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Rectangle 37",
+    "tags": [
+      "quero-passagem",
+      "formas",
+      "cor",
+      "amostra"
+    ],
+    "name": "QP · amostra sólida azul"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2661:2149": {
+    "category": "stickers",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "stickers",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Acento gráfico relacionado à mensagem. Preservar contorno, textura e proporção; não usar texto de campanha em peça genérica.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "DRINK",
+    "tags": [
+      "quero-passagem",
+      "stickers",
+      "sticker",
+      "adesivo",
+      "viagem",
+      "praia",
+      "ferias"
+    ],
+    "name": "QP · Drink azul com guarda-sol"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2708:1566": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "qp-foto-lettering",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "QP [FEED] Feriados prolongados",
+    "tags": [
+      "quero-passagem",
+      "FRAME",
+      "qp-foto-lettering",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:3470": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Destinos sorpresa: ¿A dónde te escapas este fin?",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa",
+      "vm-colagem-destinos"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:3483": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:3539": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:3606": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:3669": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:3791": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa - 01",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:172:58": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "[ STORY] — \"Encuesta: 4 playas más visitadas\"_TELA 1 — Enquete visual",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2113:564": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] Preguntas sobre viajes a EE. UU",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2222:251": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Bloco tipográfico de apoio, não peça completa. Recompor texto com fontes reais se a mensagem mudar.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group 16",
+    "tags": [
+      "viajo-mucho",
+      "letterings",
+      "titulo",
+      "texto",
+      "bloco",
+      "checklist"
+    ],
+    "name": "Viajo Mucho · Checklist de planejamento da viagem"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2222:269": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Bloco tipográfico de apoio, não peça completa. Recompor texto com fontes reais se a mensagem mudar.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group 17",
+    "tags": [
+      "viajo-mucho",
+      "letterings",
+      "titulo",
+      "texto",
+      "bloco",
+      "checklist"
+    ],
+    "name": "Viajo Mucho · Jogo de palavras de saudações"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:188:45": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "[ STORY] — \"Encuesta: 4 playas más visitadas\"_TELA 2 — CTA",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2138:378": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] Link Sticker directo a la App / Reserva.",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2222:247": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Bloco tipográfico de apoio, não peça completa. Recompor texto com fontes reais se a mensagem mudar.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Frame 1048",
+    "tags": [
+      "viajo-mucho",
+      "letterings",
+      "titulo",
+      "texto",
+      "bloco",
+      "checklist"
+    ],
+    "name": "Viajo Mucho · Título dos bons da viagem em família"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:81:200": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "[STORY] Caja de preguntas: ¿Tienes dudas del sitio?, escríbenos",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:81:207": {
+    "category": "fotografia",
+    "usage": "referencia-visual",
+    "asset_kind": "fotografia",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Recorte fotográfico de apoio; conferir origem e resolução.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "shutterstock_2399736213",
+    "tags": [
+      "viajo-mucho",
+      "fotografia",
+      "pessoa",
+      "recorte",
+      "onibus"
+    ],
+    "name": "Viajo Mucho · passageira recortada no assento"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:3913": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Imagen - Rutas de verano: Compara y reserva tu asiento ahora",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:153:717": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [IMAGEN] Collage cielos de México",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2049:267": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [IMAGEN LINKEDIN] Plataforma tecnológica de escala",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2049:268": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [CARRUSEL] \"Checklist rutas express\"",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2108:2": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [CARRUSEL] Los 5 hacks para el regreso a clases",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ],
+    "format_hint": "Conferir se é carrossel em faixa ou elemento; não publicar toda a faixa como um post."
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2350:67": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [Carrusel]  ¿Qué tipo de viajero eres?",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ],
+    "format_hint": "Conferir se é carrossel em faixa ou elemento; não publicar toda a faixa como um post."
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2637:1767": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [CARRUSEL] El checklist definitivo para el fin de semana: ¿Pachuca o Monterrey?🚌",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ],
+    "format_hint": "Conferir se é carrossel em faixa ou elemento; não publicar toda a faixa como um post."
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2676:30": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [CARRUSEL] 5 datos de lo fácil que es irte en autobús",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ],
+    "format_hint": "Conferir se é carrossel em faixa ou elemento; não publicar toda a faixa como um post."
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:88:2": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Imagen - Rutas de verano: Compara y reserva tu asiento ahora",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:91:614": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Imagen - Rutas de verano: Compara y reserva tu asiento ahora",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:96:858": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": " [CARRUSEL LINKEDIN] El transporte terrestre en México",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:97:2": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": " [CARRUSEL LINKEDIN] El transporte terrestre en México",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2746:1619": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [PDF] Más allá del clic 2",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2768:30": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [PDF] Más allá del clic 5",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2768:1146": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [PDF] Más allá del clic 10",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:96:2119": {
+    "category": "ilustracoes",
+    "usage": "referencia-visual",
+    "asset_kind": "ilustracoes",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Ilustração isolada, usar quando o tema justificar a comparação.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Asset 1 4",
+    "tags": [
+      "viajo-mucho",
+      "ilustracoes",
+      "mexico",
+      "balanca",
+      "ilustracao"
+    ],
+    "name": "Viajo Mucho · balança ilustrada com referências mexicanas"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:94:670": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": " [CARRUSEL LINKEDIN] El transporte terrestre en México",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:96:1509": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": " [CARRUSEL LINKEDIN] El transporte terrestre en México",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:97:262": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": " [CARRUSEL LINKEDIN] El transporte terrestre en México",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2746:1813": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [PDF] Más allá del clic 4",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2768:222": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [PDF] Más allá del clic 6",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2746:2058": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [PDF] Más allá del clic 3",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2768:256": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [PDF] Más allá del clic 7",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2768:1136": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [PDF] Más allá del clic 9",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:147:211": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [CARRUSEL] Hack para viajar económicamente - 5",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:143:21": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [CARRUSEL] Hack para viajar económicamente - 0",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa",
+      "vm-foto-chamadas"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:143:39": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [CARRUSEL] Hack para viajar económicamente - 1",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa",
+      "vm-foto-chamadas"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:145:69": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [CARRUSEL] Hack para viajar económicamente - 2",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:147:395": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [CARRUSEL] Hack para viajar económicamente - 3",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:147:317": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [CARRUSEL] Hack para viajar económicamente - 4",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa",
+      "vm-foto-chamadas"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:3932": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "{A2489101-9145-4504-B510-58CCB3BB73F8} 1",
+    "tags": [
+      "viajo-mucho",
+      "RECTANGLE",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa",
+      "vm-colagem-destinos"
+    ],
+    "name": "Viajo Mucho · mosaico de ruas e destinos"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:3955": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa",
+      "vm-colagem-destinos"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:4029": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Destinos sorpresa: ¿A dónde te escapas este fin?",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa",
+      "vm-colagem-destinos"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:30:2": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "[STORY] Sticker de \"Cuenta Regresiva\" para el fin de semana link de reservar",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:152:487": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "[STORY] Sticker de \"Cuenta Regresiva\" para el fin de semana link de reservar",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:35:2": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "[STORY] Sticker de \"Cuenta Regresiva\" para el fin de semana link de reservar",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:32:59": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "[STORY] Sticker de \"Cuenta Regresiva\" para el fin de semana link de reservar",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:35:19": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "[STORY] Sticker de \"Cuenta Regresiva\" para el fin de semana link de reservar",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:4046": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Destinos sorpresa: ¿A dónde te escapas este fin? - 02",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:4065": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Destinos sorpresa: ¿A dónde te escapas este fin?",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:4085": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-colagem-destinos",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:110:3": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Bloco tipográfico de apoio, não peça completa. Recompor texto com fontes reais se a mensagem mudar.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Frame 1046",
+    "tags": [
+      "viajo-mucho",
+      "letterings",
+      "titulo",
+      "texto",
+      "bloco",
+      "checklist"
+    ],
+    "name": "Viajo Mucho · Chamada para viajar em casal"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:4152": {
+    "category": "fundos",
+    "usage": "referencia-visual",
+    "asset_kind": "fundos",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Fundo fotográfico ou composição parcial; conferir se o título já está incorporado antes de usar.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "viajo-mucho",
+      "fundos",
+      "fundo",
+      "estrada",
+      "parcial"
+    ],
+    "name": "Viajo Mucho · fundo com estrada 1:4152"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:4154": {
+    "category": "fundos",
+    "usage": "referencia-visual",
+    "asset_kind": "fundos",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Fundo fotográfico ou composição parcial; conferir se o título já está incorporado antes de usar.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Viajar de ônibus é a escolha certa",
+    "tags": [
+      "viajo-mucho",
+      "fundos",
+      "fundo",
+      "estrada",
+      "parcial"
+    ],
+    "name": "Viajo Mucho · fundo com estrada 1:4154"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:4164": {
+    "category": "fundos",
+    "usage": "referencia-visual",
+    "asset_kind": "fundos",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Fundo fotográfico ou composição parcial; conferir se o título já está incorporado antes de usar.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Story - Destinos sorpresa: ¿A dónde te escapas este fin?",
+    "tags": [
+      "viajo-mucho",
+      "fundos",
+      "fundo",
+      "estrada",
+      "parcial"
+    ],
+    "name": "Viajo Mucho · fundo com estrada 1:4164"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:4175": {
+    "category": "guias-de-cores",
+    "usage": "referencia-de-guia",
+    "asset_kind": "guias-de-cores",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Referência cromática de aplicação, não template; cores observadas não se tornam automaticamente norma global.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "image 37",
+    "tags": [
+      "viajo-mucho",
+      "guias-de-cores",
+      "paleta",
+      "cores",
+      "mexico"
+    ],
+    "name": "Viajo Mucho · prancha de cores"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:4176": {
+    "category": "pranchas-de-elementos",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "pranchas-de-elementos",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Repertório com cactus, sol, grafismos, molduras, linhas e elementos culturais. Selecionar um elemento contextual; não usar a prancha inteira como arte final.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Prancheta 5 1",
+    "tags": [
+      "viajo-mucho",
+      "pranchas-de-elementos",
+      "cactus",
+      "mexico",
+      "sol",
+      "estrela",
+      "moldura",
+      "grafismo",
+      "linha"
+    ],
+    "name": "Viajo Mucho · prancha de elementos mexicanos 1:4176"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:4346": {
+    "category": "pranchas-de-elementos",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "pranchas-de-elementos",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Repertório com cactus, sol, grafismos, molduras, linhas e elementos culturais. Selecionar um elemento contextual; não usar a prancha inteira como arte final.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Prancheta 6 1",
+    "tags": [
+      "viajo-mucho",
+      "pranchas-de-elementos",
+      "cactus",
+      "mexico",
+      "sol",
+      "estrela",
+      "moldura",
+      "grafismo",
+      "linha"
+    ],
+    "name": "Viajo Mucho · prancha de elementos mexicanos 1:4346"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:5085": {
+    "category": "referencias-tipograficas",
+    "usage": "referencia-de-guia",
+    "asset_kind": "referencias-tipograficas",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Amostra tipográfica original; nas novas peças usar Lilita One no lugar de Mauren, mantendo Work Sans no apoio.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Mauren",
+    "tags": [
+      "viajo-mucho",
+      "referencias-tipograficas",
+      "tipografia",
+      "amostra"
+    ],
+    "name": "Viajo Mucho · Mauren · fonte observada na origem"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:5086": {
+    "category": "referencias-tipograficas",
+    "usage": "referencia-de-guia",
+    "asset_kind": "referencias-tipograficas",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Amostra tipográfica original; nas novas peças usar Lilita One no lugar de Mauren, mantendo Work Sans no apoio.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Work Sans",
+    "tags": [
+      "viajo-mucho",
+      "referencias-tipograficas",
+      "tipografia",
+      "amostra"
+    ],
+    "name": "Viajo Mucho · Work Sans · fonte de apoio observada"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:5087": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "{4E13CCEF-AB1C-4F43-99C9-7B06E9605A74} 1",
+    "tags": [
+      "viajo-mucho",
+      "RECTANGLE",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ],
+    "name": "Viajo Mucho · pergunta com foto da janela"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:5088": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "{32FC5267-94F3-4106-8F36-F4D3ADDE461E} 1",
+    "tags": [
+      "viajo-mucho",
+      "RECTANGLE",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ],
+    "name": "Viajo Mucho · futebol e viagem · variação 1"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:1:5089": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "{32FC5267-94F3-4106-8F36-F4D3ADDE461E} 2",
+    "tags": [
+      "viajo-mucho",
+      "RECTANGLE",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ],
+    "name": "Viajo Mucho · futebol e viagem · variação 2"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:89:422": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": " [CARRUSEL LINKEDIN] El transporte terrestre en México",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:97:296": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": " [CARRUSEL LINKEDIN] El transporte terrestre en México",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2746:1845": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [PDF] Más allá del clic 1",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2768:557": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [PDF] Más allá del clic 8",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:96:2102": {
+    "category": "logos",
+    "usage": "referencia-visual",
+    "asset_kind": "logos",
+    "family": "repertorio-viajo-mucho",
+    "composition_role": "Logo de referência; preferir arquivo vetorial da biblioteca oficial.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Asset 1 5",
+    "tags": [
+      "viajo-mucho",
+      "logos",
+      "logo",
+      "assinatura"
+    ],
+    "name": "Viajo Mucho · assinatura branca"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:97:605": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": " [CARRUSEL LINKEDIN] El transporte terrestre en México",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2209:62": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] Link Sticker directo a la App / Reserva.",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2622:1538": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] ¿A qué artista vas a ver a las Fiestas de Octubre? 2",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2377:4075": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] Encuesta actividades que hacer de viajes",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2390:1454": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] Tour popular en la playa",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2763:1899": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "[REEL] El contraste de la CDMX en octubre: Motores de F1 y olor a copal",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2390:1466": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] Tour popular en la playa",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2390:1478": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] Tour popular en la playa",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2073:3": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "image 38",
+    "tags": [
+      "viajo-mucho",
+      "RECTANGLE",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ],
+    "name": "Viajo Mucho · humor com mala"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2359:1409": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [IMAGEN] Meme listo para la escapada",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2435:1454": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [IMAGEN] Tu flota está capturando este crecimiento",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2581:1510": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [IMAGEN] Autobus 3 pros para viajar🚌",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2585:1510": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [IMAGEN] Autobus 3 pros para viajar🚌",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2585:1523": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [IMAGEN] Autobus 3 pros para viajar🚌",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2474:1465": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-carrossel-informativo",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [CARRUSEL] Datos sobre los destinos patrios",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-carrossel-informativo",
+      "social",
+      "referencia-completa"
+    ],
+    "format_hint": "Conferir se é carrossel em faixa ou elemento; não publicar toda a faixa como um post."
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2621:1510": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] ¿A qué artista vas a ver a las Fiestas de Octubre? 1",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2655:1656": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] ¿A qué artista vas a ver a las Fiestas de Octubre? 3",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2656:1671": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] Mañana nos vemos en Morelia",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2691:1559": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [REEL] Arranca el FICM: Donde el cine y Michoacán se ven así de mágicos - CAPA",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2784:1591": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] ¿Ya tienes lista tu catrina para el Gran Desfile?",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2784:1659": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] ¿Ya tienes lista tu catrina para el Gran Desfile? 2",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2696:1559": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [REEL] Arranca el FICM: Donde el cine y Michoacán se ven así de mágicos - CAPA",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2698:20": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [IMAGEN] Preparación día de muertos",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2656:1688": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] Mañana nos vemos en Morelia",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2663:2164": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "vm-foto-chamadas",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "VM [STORY] Mañana nos vemos en Morelia",
+    "tags": [
+      "viajo-mucho",
+      "FRAME",
+      "vm-foto-chamadas",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:42:42": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Roteiro fim de semana em Campos do Jordão - 0",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:67:2": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Roteiro fim de semana em Campos do Jordão - 9",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:67:47": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Roteiro fim de semana em Campos do Jordão - 00",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:67:19": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Roteiro fim de semana em Campos do Jordão - 10",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:50:71": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Roteiro fim de semana em Campos do Jordão - 1",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:55:167": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Roteiro fim de semana em Campos do Jordão - 4",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2017:395": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-lettering-estrada",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO [FEED] 2027 está a 5 meses de distância. Faça aquela viagem!",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa",
+      "rodon-lettering-estrada"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2021:2": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-lettering-estrada",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO [FEED] 2027 está a 5 meses de distância. Faça aquela viagem!",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa",
+      "rodon-lettering-estrada"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2041:2": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-lettering-estrada",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO [FEED] 2027 está a 5 meses de distância. Faça aquela viagem!",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa",
+      "rodon-lettering-estrada"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2049:274": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO [FEED] Tipos de pai em viagens",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ],
+    "format_hint": "Conferir se é carrossel em faixa ou elemento; não publicar toda a faixa como um post."
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2342:13407": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Reclame Aqui - início da votação \"motivos para votar na rodon”",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ],
+    "format_hint": "Conferir se é carrossel em faixa ou elemento; não publicar toda a faixa como um post."
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2527:1510": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO [REELS] Destinos para aproveitar a primavera",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ],
+    "format_hint": "Conferir se é carrossel em faixa ou elemento; não publicar toda a faixa como um post."
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:55:204": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Roteiro fim de semana em Campos do Jordão - 5",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:52:144": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Roteiro fim de semana em Campos do Jordão - 3",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:56:305": {
+    "category": "referencias-de-marca",
+    "usage": "referencia-de-guia",
+    "asset_kind": "referencias-de-marca",
+    "family": "repertorio-rodon",
+    "composition_role": "Aplicação de marca de referência; não montar um novo logo com texto e círculos. Preferir logos oficiais.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "image 2",
+    "tags": [
+      "rodon",
+      "referencias-de-marca",
+      "logo",
+      "onibus",
+      "assinatura"
+    ],
+    "name": "Rodon · referência de assinatura e ônibus minimalista"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:55:228": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Roteiro fim de semana em Campos do Jordão - 6",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:56:273": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Roteiro fim de semana em Campos do Jordão - 7",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:56:296": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Roteiro fim de semana em Campos do Jordão - 8",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:43:43": {
+    "category": "guias-de-cores",
+    "usage": "referencia-de-guia",
+    "asset_kind": "guias-de-cores",
+    "family": "repertorio-rodon",
+    "composition_role": "Referência cromática observada no arquivo social, não template. Conferir conjunto e contexto antes de aplicar.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Rectangle 1",
+    "tags": [
+      "rodon",
+      "guias-de-cores",
+      "cores",
+      "paleta"
+    ],
+    "name": "Rodon · Azul da aplicação"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:43:44": {
+    "category": "guias-de-cores",
+    "usage": "referencia-de-guia",
+    "asset_kind": "guias-de-cores",
+    "family": "repertorio-rodon",
+    "composition_role": "Referência cromática observada no arquivo social, não template. Conferir conjunto e contexto antes de aplicar.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Rectangle 2",
+    "tags": [
+      "rodon",
+      "guias-de-cores",
+      "cores",
+      "paleta"
+    ],
+    "name": "Rodon · Laranja da aplicação"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:55:201": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "image 1",
+    "tags": [
+      "rodon",
+      "RECTANGLE",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ],
+    "name": "Rodon · destinos de inverno por tipo de viajante"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2049:290": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO [STORY] \"Destino do dia\" (Poços de Caldas) + CTA_01",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2049:291": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO [STORY] \"Destino do dia\" (Poços de Caldas) + CTA_02",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2200:90": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO [STORY] \"Viaje com a Rodon e descubra o Brasil do seu jeito.\"",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2342:13472": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO [STORY] \"Viaje com a Rodon e descubra o Brasil do seu jeito.\"",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2342:13492": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-rodon",
+    "composition_role": "Lettering de campanha; não usar sem contexto nem tratar como template genérico.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group",
+    "tags": [
+      "rodon",
+      "letterings",
+      "campanha",
+      "lettering"
+    ],
+    "name": "Rodon · Prêmio RA 2026"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2202:106": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-rodon",
+    "composition_role": "Adesivo de frase / balão tipográfico de apoio; manter contraste, contorno e sombra curta. Texto novo deve ser editável em Nunito/Poppins.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "e descubra o Brasil",
+    "tags": [
+      "rodon",
+      "letterings",
+      "balao",
+      "lettering",
+      "titulo",
+      "contorno"
+    ],
+    "name": "Rodon · e descubra o Brasil"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2202:107": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-rodon",
+    "composition_role": "Adesivo de frase / balão tipográfico de apoio; manter contraste, contorno e sombra curta. Texto novo deve ser editável em Nunito/Poppins.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "do seu jeito",
+    "tags": [
+      "rodon",
+      "letterings",
+      "balao",
+      "lettering",
+      "titulo",
+      "contorno"
+    ],
+    "name": "Rodon · do seu jeito"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2202:114": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-rodon",
+    "composition_role": "Adesivo de frase / balão tipográfico de apoio; manter contraste, contorno e sombra curta. Texto novo deve ser editável em Nunito/Poppins.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group 2",
+    "tags": [
+      "rodon",
+      "letterings",
+      "balao",
+      "lettering",
+      "titulo",
+      "contorno"
+    ],
+    "name": "Rodon · Viaje com a Rodon e · balão azul"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2202:115": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-rodon",
+    "composition_role": "Adesivo de frase / balão tipográfico de apoio; manter contraste, contorno e sombra curta. Texto novo deve ser editável em Nunito/Poppins.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group 3",
+    "tags": [
+      "rodon",
+      "letterings",
+      "balao",
+      "lettering",
+      "titulo",
+      "contorno"
+    ],
+    "name": "Rodon · descubra o Brasil · balão claro"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2202:119": {
+    "category": "letterings",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "letterings",
+    "family": "repertorio-rodon",
+    "composition_role": "Adesivo de frase / balão tipográfico de apoio; manter contraste, contorno e sombra curta. Texto novo deve ser editável em Nunito/Poppins.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "Group 4",
+    "tags": [
+      "rodon",
+      "letterings",
+      "balao",
+      "lettering",
+      "titulo",
+      "contorno"
+    ],
+    "name": "Rodon · descubra o Brasil · balão claro alternativo"
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2200:96": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO [STORY] \"Viaje com a Rodon e descubra o Brasil do seu jeito.\"",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2251:62": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO [STORY] Lembrete: garanta sua passagem para o Rock in Rio",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2590:1510": {
+    "category": "pecas-sociais",
+    "usage": "referencia-de-peca",
+    "asset_kind": "peca-social",
+    "family": "rodon-foto-baloes",
+    "composition_role": "Referência de composição completa; adaptar conteúdo e manter linguagem visual da família.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "RO  [STORY] \"Viaje de ônibus. Viaje com a Rodon\"",
+    "tags": [
+      "rodon",
+      "FRAME",
+      "rodon-foto-baloes",
+      "social",
+      "referencia-completa"
+    ]
+  },
+  "figma:EyJUWysTaFKnJewVXFz0u0:2202:110": {
+    "category": "guias-de-cores",
+    "usage": "referencia-de-guia",
+    "asset_kind": "guias-de-cores",
+    "family": "repertorio-rodon",
+    "composition_role": "Referência cromática observada no arquivo social, não template. Conferir conjunto e contexto antes de aplicar.",
+    "review_level": "triagem-visual",
+    "review_date": "2026-10-30",
+    "source_name": "image 6",
+    "tags": [
+      "rodon",
+      "guias-de-cores",
+      "cores",
+      "paleta"
+    ],
+    "name": "Rodon · Prancha de cores Rodon"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:31:29208": {
+    "name": "QP · prancha de ilustrações de viagem",
+    "source_name": "Component 4",
+    "category": "pranchas-de-elementos",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "pranchas-de-elementos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Conjunto de bilhete, ônibus, coco, cabana, bolsa, cadeira, palmeira, capivara e bananas. Não usar a prancha inteira; preferir elementos individuais SVG da biblioteca.",
+    "tags": [
+      "quero-passagem",
+      "pranchas-de-elementos",
+      "onibus",
+      "ticket",
+      "viagem",
+      "praia",
+      "prancha"
+    ],
+    "review_date": "2026-10-30",
+    "review_level": "visual-detalhada"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:100:22": {
+    "name": "QP · percurso vetorial branco com ponto amarelo",
+    "source_name": "02",
+    "category": "linhas-e-percursos",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "linhas-e-percursos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Percurso original SVG com marcador amarelo; preservar espessura, proporção e contraste.",
+    "tags": [
+      "quero-passagem",
+      "linhas-e-percursos",
+      "linha",
+      "percurso",
+      "vetor",
+      "rota"
+    ],
+    "review_date": "2026-10-30",
+    "review_level": "visual-detalhada"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:100:21": {
+    "name": "QP · percurso vetorial branco contínuo",
+    "source_name": "01",
+    "category": "linhas-e-percursos",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "linhas-e-percursos",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Percurso original SVG sem marcador, para conexão e movimento na foto.",
+    "tags": [
+      "quero-passagem",
+      "linhas-e-percursos",
+      "linha",
+      "percurso",
+      "vetor",
+      "rota"
+    ],
+    "review_date": "2026-10-30",
+    "review_level": "visual-detalhada"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:108:34": {
+    "name": "QP · trama de laços brancos",
+    "source_name": "3",
+    "category": "formas",
+    "usage": "elemento-de-composicao",
+    "asset_kind": "formas",
+    "family": "repertorio-quero-passagem",
+    "composition_role": "Grafismo de laços contínuos, observado em cantos de peças de hotel; elemento de fundo, não título nem template.",
+    "tags": [
+      "quero-passagem",
+      "formas",
+      "trama",
+      "lacos",
+      "grafismo",
+      "hotel"
+    ],
+    "review_date": "2026-10-30",
+    "review_level": "visual-detalhada"
   }
 }

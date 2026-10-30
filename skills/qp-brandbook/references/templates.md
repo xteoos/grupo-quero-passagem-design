@@ -17,7 +17,7 @@ Troque textos e imagens nos elementos existentes. Se o conteúdo não couber, re
 Use o arquivo oficial de comunicados. Preserve assinatura e hierarquia entre título, informação principal e orientação prática. Não preencher datas, contatos ou políticas por suposição.
 
 ## Social e anúncios
-Parta da peça ou família mais próxima do pedido no Figma. Preserve a identidade da marca correspondente, o tratamento do título, o papel da fotografia, a assinatura e o caráter dos elementos gráficos.
+Leia primeiro [o guia social e as famílias por marca](social/COMECAR.md). Parta da peça ou família mais próxima do pedido no Figma. Preserve a identidade da marca correspondente, o tratamento do título, o papel da fotografia, a assinatura e o caráter dos elementos gráficos.
 
 Pode variar: texto, foto adequada ao contexto, recorte, ordem de quadros e proporção quando a adaptação mantiver legibilidade e hierarquia. Mudanças que descaracterizem o modelo deixam de ser uma variação controlada e precisam ser apresentadas como exploração.
 

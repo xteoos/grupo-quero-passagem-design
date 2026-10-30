@@ -21,8 +21,12 @@ Leia [marcas](references/marcas.md), [produção](references/producao.md) e [dep
 - Dúvida sobre a norma: [páginas oficiais](references/paginas/INDEX.md).
 - Encontrar arquivos: [índice do acervo](references/assets-index.json). Use `python3 scripts/remote_assets.py find --brand quero-passagem --category logos` e baixe os itens selecionados com `get --id`. O índice registra caminhos relativos à raiz desta skill.
 
+## Posts, anúncios e outras peças gráficas
+
+Antes de desenhar, leia [o guia social](references/social/COMECAR.md) e o guia da marca nele indicado. Escolha uma família de composição e ABRA as referências visuais; não basta ler nomes, cores ou fontes. Use a tipografia em papéis contrastantes, a fotografia e os elementos contextualizados como descritos nas famílias. Não transpor o layout de apresentação para um post. Classifique a busca pelo papel real do arquivo: peças completas, stickers, letterings, percursos, guias e fundos são recursos distintos. Variações de stickers são permitidas pelo responsável quando fizerem sentido, preservando o caráter da marca e sendo identificadas como derivadas.
+
 ## Criar com o acervo
-1. Selecione um template da marca e do formato. Abra o preview e consulte o original editável quando necessário; registre seu ID. Não use uma campanha isolada como regra geral.
+1. Para apresentações e comunicados, selecione o modelo editável da marca e do formato. Para posts e peças gráficas, escolha a família e as referências em `pecas-sociais`; elas orientam uma composição original, sem exigir copiar um layout inteiro. Abra os previews e consulte os originais editáveis quando necessário; registre os IDs. Não use uma campanha isolada como regra geral.
 2. Escolha os arquivos reais pelo catálogo. Confira marca, finalidade, dimensões, marca d’água e situação. Não usar prévias com marca d’água em artes finais nem remover a marca para reaproveitar a prévia. Um item histórico ou pendente de revisão não é automaticamente adequado para uma peça atual.
 3. Importe fontes, logos e elementos oficiais. Nunca redesenhe um logo nem peça a um gerador de imagens para simulá-lo. Use texto real com a fonte carregada; o raster da peça pronta não substitui o editável quando ele foi pedido.
 4. Faça variações controladas: altere conteúdo, fotos, proporção e organização conforme a família do template; preserve hierarquia, caráter, proporções e aplicações da marca.

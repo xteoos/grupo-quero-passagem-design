@@ -1,0 +1,142 @@
+{
+  "catalog": {
+    "colorGuide": true,
+    "stickers": true,
+    "familyFilter": true
+  },
+  "examples": [
+    {
+      "file": "qp-percurso.html",
+      "brand": "quero-passagem",
+      "family": "qp-foto-percurso",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:1759",
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:2515"
+      ],
+      "assets": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:2513",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2150:238",
+        "figma:8hsYVcxSZ1qK14VctpJTZn:53:292"
+      ],
+      "derived": "Novo trajeto vetorial e faixas com texto real; fotografia e sticker originais.",
+      "width": 720,
+      "height": 1080,
+      "rendered": true,
+      "overflow": [],
+      "fonts": [
+        {
+          "familyName": "",
+          "postScriptName": "-",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "file": "qp-lettering.html",
+      "brand": "quero-passagem",
+      "family": "qp-foto-lettering",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2266:5239",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2187:63"
+      ],
+      "assets": [
+        "drive:1zUCr3FfLJgXLD_r5kP4rK0uxff6iS5qZ",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2150:243",
+        "figma:8hsYVcxSZ1qK14VctpJTZn:53:292"
+      ],
+      "derived": "Adesivo tipográfico redesenhado; três papéis tipográficos e selo postal de viagem. Foto de viajante usada em estudo de inspiração; não é anúncio de hotel.",
+      "width": 720,
+      "height": 900,
+      "rendered": true,
+      "overflow": [],
+      "fonts": [
+        {
+          "familyName": "Sora",
+          "postScriptName": "Sora-Regular_Light",
+          "isCustomFont": true,
+          "glyphCount": 21
+        },
+        {
+          "familyName": "",
+          "postScriptName": "-",
+          "isCustomFont": true,
+          "glyphCount": 14
+        },
+        {
+          "familyName": "Instrument Serif",
+          "postScriptName": "InstrumentSerif-Italic",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "file": "viajo-mucho.html",
+      "brand": "viajo-mucho",
+      "family": "vm-colagem-destinos",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:3470",
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:4029"
+      ],
+      "assets": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:1:3470",
+        "drive:1V7BkzpIDwGqWyIpy21zAThUmr-mEb6Us"
+      ],
+      "derived": "Mosaico/fotos/grafismo preservados como recorte de preview; chamada nova em Lilita One + Work Sans. As fotos do mosaico não são independentes neste estudo.",
+      "width": 720,
+      "height": 1280,
+      "background": "#0187e6",
+      "lang": "es-MX",
+      "rendered": true,
+      "overflow": [],
+      "fonts": [
+        {
+          "familyName": "Lilita One",
+          "postScriptName": "LilitaOne",
+          "isCustomFont": true,
+          "glyphCount": 23
+        },
+        {
+          "familyName": "Work Sans",
+          "postScriptName": "WorkSans-Regular",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    },
+    {
+      "file": "rodon.html",
+      "brand": "rodon",
+      "family": "rodon-foto-baloes",
+      "references": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:42:42",
+        "figma:EyJUWysTaFKnJewVXFz0u0:55:201"
+      ],
+      "assets": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:42:42",
+        "drive:1p3irn9nbnOBLRpHvYAhdbda95HFC1Cht"
+      ],
+      "derived": "Novos balões sobre região fotográfica do preview original, recortada para excluir a chamada antiga. Nunito 800 + Poppins; contorno e sombra gráfica curta. Não é original de fotografia para ampliar.",
+      "width": 720,
+      "height": 960,
+      "rendered": true,
+      "overflow": [],
+      "fonts": [
+        {
+          "familyName": "Nunito ExtraLight",
+          "postScriptName": "Nunito-ExtraBold",
+          "isCustomFont": true,
+          "glyphCount": 28
+        },
+        {
+          "familyName": "Poppins",
+          "postScriptName": "Poppins-Regular",
+          "isCustomFont": true,
+          "glyphCount": 45
+        }
+      ]
+    }
+  ],
+  "errors": []
+}
