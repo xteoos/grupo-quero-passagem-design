@@ -30,3 +30,12 @@ Os arquivos PPTX/DOCX oficiais foram preservados e inspecionados estruturalmente
 As versões PDF dos modelos são exportações da fonte, usadas para suas miniaturas. O catálogo não altera os originais. Previews Figma não substituem um arquivo .fig editável.
 
 As fontes dos exemplos estão incluídas e a integridade passa sem pendências de fonte. Mauren e All Round Gothic foram substituídas nas adaptações a pedido do responsável; os originais continuam preservados. O arquivo Bacalar é de entrega web, com tabela de nomes reduzida: a instalação em Figma/Office não foi validada e pode exigir arquivo desktop próprio. O uso local em HTML é a evidência disponível. Git LFS foi instalado para a publicação. Os três atalhos não resolvidos estão documentados na cobertura.
+
+
+## Distribuição sob demanda para IAs · 30/10/2026
+
+O ZIP distribution/qp-brandbook.zip contém apenas a skill, referências, metadados de interface e scripts: cerca de 140 KB, sem os binários do acervo. O bundle remoto reúne 44 referências e os hashes de 1.244 arquivos (incluindo previews e dependências), sem duplicar as imagens. Esses números são diferentes dos 659 itens lógicos do catálogo.
+
+Cinco testes do helper verificam download LFS pelo endpoint de mídia, reaproveitamento de arquivo íntegro, recuperação de arquivo de cache corrompido, rejeição de ponteiros/conteúdo incorreto, contenção de caminhos e obtenção de dependências CSS. Resultados dos downloads reais: [remote-downloads.json](remote-downloads.json). A ferramenta não usa o executável Git nem Git LFS para essa consulta.
+
+O README orienta instalação do ZIP leve e busca sob demanda; o download completo não é apresentado como alternativa de uso. O helper atualiza as referências no início de cada pedido e fixa uma revisão para seus downloads. Acesso à internet, Python 3 e permissão de gravação continuam necessários para o helper.

@@ -29,3 +29,10 @@ python3 -m venv .venv
 Para ver o catálogo, execute `python3 scripts/serve.py` e abra http://127.0.0.1:8769/catalogo/. Para repetir a conferência de navegador, mantenha o servidor ativo, execute `npm ci`, `npx playwright install chromium` e `npm run check:browser`.
 
 Mudanças de fonte devem atualizar também references/typography-policy.json, tipografia.md, dependencias.md e os exemplos. Preserve os registros das fontes originais. Depois de regenerar modelos HTML, reconstrua catálogo e hashes. Fontes de teste sem autorização ficam fora do pacote. A versão Bacalar ativa vem do kit usado no Brand Navigator e está registrada em typography-policy.json por ID, peso e hash. Não reintroduzir o ZIP sem acentos como se fosse a versão corrigida. Guarde diagnóstico e hashes dos arquivos excluídos.
+
+
+## Distribuição leve para IAs
+
+Depois de mudar referências, scripts ou acervo, execute `python3 scripts/build_distribution.py`. Versione distribution/brandbook-bundle.json e distribution/qp-brandbook.zip junto com a mudança. O bundle contém as referências e um manifesto dos arquivos; o ZIP leva somente SKILL.md, references, scripts e agents. Nunca incluir assets ou arquivos temporários no ZIP de instalação.
+
+O helper remoto fixa o SHA de main no início do pedido, obtém esse bundle e verifica os arquivos necessários por tamanho e SHA-256. LFS é responsabilidade da manutenção do acervo; não é requisito para quem instala a skill. Teste o pacote extraído numa pasta vazia, incluindo fonte comum e pelo menos um original LFS, antes de declarar o fluxo validado.

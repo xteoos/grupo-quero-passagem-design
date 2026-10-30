@@ -1,0 +1,20 @@
+[
+  {
+    "id": "drive:138DVeqWAdwFbVo6KPM6O6XiAwcRTQJ4i",
+    "bytes": 18904,
+    "lfs": true,
+    "verified": true
+  },
+  {
+    "id": "drive:19lgUrEMkv7sYomWGXFMwfuqQQKP6mKlI3aBxlS94Fao",
+    "bytes": 227210,
+    "lfs": true,
+    "verified": true
+  },
+  {
+    "id": "google-fonts:LilitaOne-Regular.ttf",
+    "bytes": 28092,
+    "lfs": false,
+    "verified": true
+  }
+]

@@ -8,23 +8,25 @@ Aqui você encontra orientações de cores, fontes, fotografias e escrita, além
 
 Pense em uma skill como um **guia de trabalho que a IA consulta antes de criar**. A nossa se chama `qp-brandbook`: ela explica como usar os materiais da marca, quais arquivos escolher e o que conferir antes de entregar.
 
-Ela vem acompanhada das fontes, imagens, modelos e referências. Por isso, é preciso usar **a pasta completa**, e não apenas o arquivo de instruções `SKILL.md`.
+A instalação é pequena: leva as instruções e as ferramentas de consulta. Quando você faz um pedido, a IA consulta este GitHub e baixa somente as fontes, imagens e modelos necessários. Você não precisa baixar o projeto inteiro nem instalar Git ou Git LFS.
 
 ## Quero começar: o que faço?
 
-### 1. Dê acesso aos materiais
+### 1. Instale a skill uma vez
 
-Se você usa **Codex ou Claude Code no computador**, peça à ferramenta para preparar a base. Pode copiar esta mensagem:
+[**Baixar a skill qp-brandbook**](https://raw.githubusercontent.com/xteoos/grupo-quero-passagem-design/main/distribution/qp-brandbook.zip)
 
-> Baixe o repositório https://github.com/xteoos/grupo-quero-passagem-design. Baixe também os arquivos grandes com Git LFS. Prepare a skill qp-brandbook para uso neste projeto, usando a pasta completa skills/qp-brandbook. Confira se consegue abrir as fontes, fotos e modelos antes de começarmos.
+Se você usa **Codex ou Claude Code**, pode copiar esta mensagem para a ferramenta:
 
-Essa preparação precisa ser feita uma vez por computador ou projeto. Se a ferramenta pedir uma ação que você não conhece, peça ajuda a alguém da equipe técnica. As instruções manuais estão [mais abaixo](#instalação-manual-para-quem-vai-configurar).
+> Instale a skill qp-brandbook usando o pacote https://raw.githubusercontent.com/xteoos/grupo-quero-passagem-design/main/distribution/qp-brandbook.zip. Extraia a pasta qp-brandbook no diretório de skills deste projeto. Não clone o repositório. Leia SKILL.md e use a consulta ao GitHub para obter só os materiais necessários para meus pedidos.
 
-Se você usa **ChatGPT, Claude no navegador ou outra IA**, envie este pedido:
+Depois de instalar, abra uma nova conversa para a ferramenta reconhecer a skill. As instruções manuais estão [mais abaixo](#instalação-manual-para-quem-vai-configurar).
 
-> Use o guia https://github.com/xteoos/grupo-quero-passagem-design. Comece pelo arquivo skills/qp-brandbook/SKILL.md e consulte as referências da marca. Antes de criar, confirme quais fontes, imagens e modelos você consegue realmente acessar. Se faltar algo, diga quais arquivos preciso fornecer.
+Se você usa **ChatGPT, Claude no navegador ou outra IA**, verifique se a ferramenta permite adicionar skills. Quando permitir, use o mesmo pacote. Se ela não tiver esse recurso, envie:
 
-O link ajuda a encontrar as instruções, mas **não garante acesso a todos os arquivos nem capacidade de editar uma apresentação**. Quando necessário, anexe à conversa as referências e os arquivos escolhidos. A instalação local descrita aqui é para Codex e Claude Code; as versões no navegador têm seus próprios recursos e limites.
+> Consulte https://github.com/xteoos/grupo-quero-passagem-design, começando por skills/qp-brandbook/SKILL.md. Siga o acesso remoto descrito na skill e obtenha apenas os materiais necessários. Antes de criar, confirme quais arquivos você consegue baixar e usar de verdade.
+
+A ferramenta precisa acessar a internet e conseguir baixar e trabalhar com arquivos. Um link, sozinho, não dá essas capacidades à IA. Se ela não puder realizar alguma etapa, deve explicar o que falta e pedir apenas os arquivos necessários.
 
 ### 2. Diga o que você precisa
 
@@ -56,9 +58,7 @@ Se quiser ajustar, peça em linguagem comum: “diminua o texto”, “troque a 
 
 ## Quero ver os materiais disponíveis
 
-Depois de baixar a base, abra [o catálogo visual](catalogo/index.html) no navegador. Ele permite buscar materiais, filtrar por marca e ver a origem de cada arquivo. A prévia ajuda a escolher; use o arquivo original na produção.
-
-Se as fontes não carregarem ao abrir o arquivo diretamente, peça à IA: “Inicie o catálogo local deste projeto”. O endereço padrão é [abrir catálogo local](http://127.0.0.1:8769/catalogo/), disponível apenas enquanto o servidor estiver ativo no seu computador.
+Peça à IA: “Mostre algumas opções de templates e fotografias adequadas para este pedido antes de criar”. Ela consulta o catálogo no GitHub e baixa as prévias necessárias para você escolher. Os originais são obtidos quando usados na peça.
 
 | O que você procura | Onde encontrar |
 |---|---|
@@ -78,22 +78,15 @@ As substituições foram solicitadas pelo responsável para facilitar o uso da b
 
 ## Instalação manual para quem vai configurar
 
-Você precisa de Git e Git LFS, que baixam o projeto e seus arquivos grandes. O acervo ocupa aproximadamente 3 GB. Com essas ferramentas instaladas, execute no Terminal:
+Baixe [o pacote leve da skill](https://raw.githubusercontent.com/xteoos/grupo-quero-passagem-design/main/distribution/qp-brandbook.zip) e extraia o ZIP. Dentro dele há uma pasta chamada `qp-brandbook`.
 
-```sh
-git clone https://github.com/xteoos/grupo-quero-passagem-design.git
-cd grupo-quero-passagem-design
-git lfs install --local
-git lfs pull
-```
+**Codex:** coloque essa pasta em `.agents/skills/qp-brandbook` no projeto em que vai trabalhar. Para usar em vários projetos, use `~/.agents/skills/qp-brandbook`. Abra uma nova conversa e peça “Use $qp-brandbook…”.
 
-Evite depender apenas do botão “Download ZIP” do GitHub: alguns arquivos podem vir como pequenos arquivos de referência, em vez de fotos ou apresentações reais. `git lfs pull` baixa os originais.
+**Claude Code:** coloque a pasta em `.claude/skills/qp-brandbook` no projeto, ou `~/.claude/skills/qp-brandbook` para uso pessoal. Abra uma nova sessão e use `/qp-brandbook` seguido do pedido.
 
-**Codex:** copie a pasta inteira `skills/qp-brandbook` para `.agents/skills/qp-brandbook` dentro do projeto em que vai trabalhar. Para usar em vários projetos, a localização pessoal é `~/.agents/skills/qp-brandbook`. Abra uma nova conversa e peça “Use $qp-brandbook…”. Consulte a [documentação do Codex](https://developers.openai.com/codex/skills).
+Mantenha a pasta inteira do pacote, incluindo `SKILL.md`, `references`, `scripts` e `agents`. Não é preciso baixar a pasta de imagens deste repositório. A IA usa Python 3, internet e permissão para salvar arquivos para buscar os materiais conforme a necessidade. Não é necessário instalar bibliotecas Python adicionais.
 
-**Claude Code:** copie a mesma pasta inteira para `.claude/skills/qp-brandbook` no projeto, ou `~/.claude/skills/qp-brandbook` para uso pessoal. Abra uma nova sessão e use `/qp-brandbook` seguido do pedido. Consulte a [documentação do Claude Code](https://code.claude.com/docs/en/skills).
-
-Dentro da pasta instalada devem existir `SKILL.md`, `references`, `assets`, `scripts` e `agents`. Copiar só o texto de `SKILL.md` não leva as fontes e os materiais junto. Ao atualizar esta base, atualize também a cópia instalada.
+A skill consulta as regras e o catálogo atuais no início de cada pedido. Os materiais baixados são reaproveitados após uma conferência de integridade. Para atualizar as ferramentas da própria skill, substitua a instalação pelo pacote mais recente.
 
 ## Para quem mantém esta base
 
