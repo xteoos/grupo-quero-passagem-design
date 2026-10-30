@@ -59,7 +59,8 @@
       "elements": [
         "figma:EyJUWysTaFKnJewVXFz0u0:2464:7861",
         "figma:EyJUWysTaFKnJewVXFz0u0:2464:7976",
-        "figma:EyJUWysTaFKnJewVXFz0u0:2464:8318"
+        "figma:EyJUWysTaFKnJewVXFz0u0:2464:8464",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2464:8446"
       ],
       "composition": "Fita contínua com lettering de campanha; não transplantar texto sazonal fora do contexto."
     },
@@ -72,9 +73,12 @@
         "figma:EyJUWysTaFKnJewVXFz0u0:2765:1915"
       ],
       "elements": [
-        "figma:EyJUWysTaFKnJewVXFz0u0:176:6"
+        "figma:EyJUWysTaFKnJewVXFz0u0:2469:2605",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2469:2107",
+        "figma:8hsYVcxSZ1qK14VctpJTZn:100:21",
+        "figma:8hsYVcxSZ1qK14VctpJTZn:108:34"
       ],
-      "composition": "Adesivo de chamada, participação e percurso com respiro; recompor o texto real."
+      "composition": "Story para preencher: cabeçalho em balão, stickers temáticos, títulos Bacalar, apoio Sora com palavras em Instrument Serif Italic, campos em branco, botão/assinatura e percurso. Pode ter fundo gráfico sem fotografia."
     },
     {
       "brand": "quero-passagem",
@@ -157,6 +161,93 @@
       ],
       "elements": [],
       "composition": "Foto de estrada em perspectiva e título expressivo; não simular fonte de lettering desenhado."
+    }
+  ],
+  "profiles": [
+    {
+      "id": "qp-metas-viagem",
+      "family": "qp-interativo",
+      "brand": "quero-passagem",
+      "reference_ids": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2469:2004",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2443:1497"
+      ],
+      "brief": "Crie um story interativo da Quero Passagem sobre metas de viagem.",
+      "format": {
+        "width": 1080,
+        "height": 1920
+      },
+      "photo_required": false,
+      "source_frame_fills": [],
+      "background_note": "A referência original é transparente. Marinho #0D2240 é a escolha explícita do estudo local; não inferir fundo de foto obrigatório.",
+      "components": [
+        "cabecalho-em-balao",
+        "stickers-tematicos",
+        "hierarquia-tipografica-mista",
+        "campos-para-preencher",
+        "botao-ou-assinatura",
+        "percurso-continuo"
+      ],
+      "type_roles": {
+        "headline": {
+          "family": "Bacalar Expanded",
+          "weight": 600,
+          "case": "upper"
+        },
+        "body": {
+          "family": "Sora",
+          "weight": 300
+        },
+        "emphasis": {
+          "family": "Instrument Serif",
+          "style": "italic",
+          "weight": 400
+        }
+      },
+      "sticker_ids": [
+        "figma:EyJUWysTaFKnJewVXFz0u0:2469:2605",
+        "figma:EyJUWysTaFKnJewVXFz0u0:2469:2107"
+      ],
+      "path_id": "figma:EyJUWysTaFKnJewVXFz0u0:2469:2064",
+      "pattern_id": "figma:EyJUWysTaFKnJewVXFz0u0:2469:2039",
+      "fields": [
+        {
+          "title": "1 DESTINO",
+          "prefix": "que eu quero",
+          "emphasis": "conhecer"
+        },
+        {
+          "title": "1 DESTINO",
+          "prefix": "que eu quero",
+          "emphasis": "repetir"
+        },
+        {
+          "title": "1 VIAGEM",
+          "prefix": "para fazer",
+          "emphasis": "este ano"
+        },
+        {
+          "title": "1 PRAIA",
+          "prefix": "que eu quero",
+          "emphasis": "visitar"
+        }
+      ],
+      "avoid": [
+        "fotografia obrigatória",
+        "copiar o PNG completo como fundo",
+        "gravar os textos novos dentro de uma imagem gerada",
+        "anunciar botão nativo do Instagram quando só existe elemento gráfico"
+      ],
+      "source_limitation": "Stickers PNG isolados preservam a aparência original, mas seus textos rasterizados não são uma fonte editável.",
+      "path_transform": [
+        0.7622807622,
+        -0.64724648,
+        0.64724648,
+        0.7622807622,
+        -49,
+        1821.544921875
+      ],
+      "fields_are_examples": true
     }
   ]
 }

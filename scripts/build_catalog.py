@@ -102,6 +102,12 @@ def main():
     overrides=read("fontes-de-origem/asset-reviews.json",{})
     for a in assets:
         if a["id"] in overrides:a.update(overrides[a["id"]])
+    assets=[a for a in assets if not a.get("catalog_exclude")]
+    active_hashes={}
+    for a in assets:
+        a.pop("canonical_id",None)
+        if a.get("sha256") in active_hashes:a["canonical_id"]=active_hashes[a["sha256"]]
+        elif a.get("sha256"):active_hashes[a["sha256"]]=a["id"]
     index={"schema_version":1,"collected_at":"2026-10-29","path_base":"skill-root","assets":assets}
     (SK/"references/assets-index.json").write_text(json.dumps(index,ensure_ascii=False,indent=2)+"\n")
     (SK/"references/fonts-index.json").write_text(json.dumps(fonts,ensure_ascii=False,indent=2)+"\n")

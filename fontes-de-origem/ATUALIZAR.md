@@ -43,3 +43,8 @@ O helper remoto fixa o SHA de main no início do pedido, obtém esse bundle e ve
 Atualize os papéis/nome curado/família em asset-reviews.json preservando source_name, ID, caminho e bytes. Reclassifique pelo conteúdo visual, nunca só pelo nome da página. Atualize references/social/familias.json e os guias quando uma evidência ou direção do responsável mudar.
 
 Reconstrua o catálogo, execute `python3 scripts/test_social_catalog.py`, `python3 scripts/test_remote_assets.py` e `python3 scripts/validate.py --strict`. Para rever os estudos, execute `python3 scripts/build_social_examples.py` e, com servidor local ativo, `node scripts/check_social.cjs` (Playwright necessário). Os estudos são exemplos de validação, não novas normas. Ao final, regenere o bundle e o ZIP com build_distribution.py.
+
+
+Na revisão local de organização QP, os itens retirados são marcados com catalog_exclude em asset-reviews.json e têm caminho histórico, motivo, hash e archive_path em retirados-do-catalogo.json. Não recolocar fundos/pranchas QP no acervo de uso automaticamente durante uma nova coleta. O bundle distribui apenas os caminhos dos itens ativos, suas prévias e fonts.css.
+
+Para testar antes de publicar, use o pacote em uma instalação separada com remote_assets.py sync --local-root /caminho/da/base. O modo local é preservado nos syncs seguintes; para voltar à publicação use sync --github. O procedimento não faz commit ou push. A validação de metas está em scripts/build_travel_goals_test.py e scripts/check_travel_goals.cjs.

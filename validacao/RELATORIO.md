@@ -1,6 +1,6 @@
 # Validação da preparação local
 
-Resultado atualizado em 30/10/2026: **integridade aprovada para os 659 registros locais**. Há dependências tipográficas e de acesso explicitadas; isso não equivale à aprovação de toda peça possível.
+Revisão aprovada para publicação em 30/10/2026: **670 registros ativos**. Os resultados anteriores abaixo documentam as etapas já realizadas. Há dependências tipográficas e de acesso explicitadas; isso não equivale à aprovação de toda peça possível.
 
 ## Executado
 - Validador oficial de skill: aprovado.
@@ -54,3 +54,17 @@ O [teste de navegador](social/browser-checks.json) verifica filtros semânticos,
 A skill manda abrir referências antes de compor e comparar o resultado renderizado com elas. A autorização do responsável permite stickers derivados quando úteis e identificados, preservando logos, identidade e veracidade das mensagens.
 
 Também foram inspecionados e renomeados os percursos vetoriais 100:21/100:22, a trama de laços 108:34 e a prancha Component 4 (31:29208) da biblioteca de assets. A prancha foi retirada da categoria de ilustração individual; os dois percursos ganharam categoria e instruções próprias.
+
+
+## Teste local · metas de viagem e organização simplificada
+
+O teste segue o pedido curto de criar um story QP sobre metas de viagem, consultando o perfil qp-metas-viagem e as duas referências 2469:2004 / 2443:1497. Foram usados os elementos originais separados, sem colar o PNG da peça completa como fundo. O cabeçalho e os campos contêm texto real em Bacalar Expanded 600, Sora e Instrument Serif Italic. A escolha de marinho para o fundo e a troca da variante Semi Expanded observada pela Expanded disponível são adaptações explicitadas em [producao.json](metas-viagem/producao.json).
+
+O [story PNG](metas-viagem/story-metas.png), a [prova HTML preenchível](metas-viagem/story.html), a [comparação visual](metas-viagem/comparacao.png) e os [resultados do navegador](metas-viagem/browser-checks.json) permitem revisão concreta. Verificados: 1080 × 1920, fontes efetivas sem fallback, textos sem corte, dois stickers, balão, quatro campos, foco do botão de assinatura, preenchimento com São Paulo, limpeza e visualização em 390px sem rolagem horizontal. O PNG não cria widgets nativos do Instagram. Esta é uma aplicação feita na mesma conversa, não teste independente de outro modelo ou aprovação humana final.
+
+A organização ativa contém 42 stickers QP e seis ilustrações de cidades. Oito itens (seis fundos e duas pranchas QP) foram retirados do catálogo, mantendo os originais em fontes-de-origem/arquivo, com os hashes preservados. O teste também confirma que os filtros QP não oferecem fundos, cidades ou pranchas como categorias separadas. A categoria ilustrações reúne os destinos; os itens individuais das pranchas QP estão em stickers.
+
+O helper ganhou modo explícito de revisão local para testar o pacote sem consultar o GitHub. Ele conserva esse modo nos próximos syncs e só volta ao GitHub com sync --github. Os testes de contrato verificam que nenhuma chamada de rede ocorre nesse modo. Nada desta etapa foi publicado ou enviado por push.
+
+
+Publicação da organização e do teste autorizada pelo responsável em 30/10/2026. As anotações de teste local e github_updated=false nos relatórios descrevem o estado durante a validação anterior à autorização; não são uma consulta ao estado remoto atual.

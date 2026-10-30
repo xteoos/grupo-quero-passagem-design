@@ -7,8 +7,8 @@ As orientações abaixo resultam da revisão visual dos 280 exports do Social - 
 1. Após `sync`, leia o guia da marca: [Quero Passagem](quero-passagem.md), [Viajo Mucho](viajo-mucho.md) ou [Rodon](rodon.md). Consulte [famílias e IDs](familias.json).
 2. Escolha uma família pelo assunto: inspiração de viagem, rodoviário, destino, hotel, oferta, interação ou institucional. Não usar automaticamente o visual de slide para criar post.
 3. Busque `--category pecas-sociais --family ID_DA_FAMILIA`. Em instalações antigas sem --family, use --query ID_DA_FAMILIA ou atualize o ZIP da skill. Obtenha e ABRA visualmente ao menos duas peças próximas do pedido. Se só houver uma adequada, use essa e registre a cobertura. Leia as dimensões reais: faixa de carrossel não é post único.
-4. Busque os elementos separadamente: `stickers`, `letterings`, `linhas-e-percursos`, `ilustracoes`, `pranchas-de-elementos`. Abra as prévias e escolha os que têm relação com a mensagem. Guia de cores não é template; foto isolada não é uma composição.
-5. Defina internamente: onde fica a fotografia, como a chamada conversa com ela, qual combinação tipográfica sustenta a hierarquia e qual elemento da marca ajuda a contar a ideia. Só então componha. Não precisa pedir uma nova aprovação para cada escolha rotineira.
+4. Busque os elementos separadamente: `stickers`, `letterings`, `linhas-e-percursos`, `ilustracoes`. Para QP, os elementos das pranchas já estão separados em stickers; a categoria ilustrações inclui cidades. Abra as prévias e escolha os que têm relação com a mensagem. Guia de cores não é template; foto isolada não é uma composição.
+5. Defina internamente: se a família usa fotografia ou fundo gráfico, como a chamada conversa com ela, qual combinação tipográfica sustenta a hierarquia e qual elemento da marca ajuda a contar a ideia. Só então componha. Não precisa pedir uma nova aprovação para cada escolha rotineira.
 
 ## Liberdade com identidade
 
@@ -20,6 +20,7 @@ Não é obrigatório usar ônibus, linha, sticker e todas as fontes na mesma art
 
 ## O que reprovar na revisão
 
+- A família interativa virou uma foto com título, perdeu seus campos de resposta ou recebeu fotografia por obrigação.
 - A peça está apenas nas cores certas, mas poderia ser de qualquer marca ao trocar o logo.
 - Layout de slide, pilha de cards arredondados ou bloco fotográfico isolado foi usado sem relação com as referências sociais escolhidas.
 - Todos os textos usam o mesmo peso/fonte, ou cada palavra tem uma fonte sem hierarquia.

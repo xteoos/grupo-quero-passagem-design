@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "2464:8318",
+    "name": "Stickers",
+    "type": "FRAME",
+    "width": 1920,
+    "height": 1080,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0.0117647061124444,
+          "g": 0.4156862795352936,
+          "b": 0.6666666865348816
+        },
+        "boundVariables": {}
+      }
+    ],
+    "children": [
+      {
+        "id": "2464:8616",
+        "name": "Group 43",
+        "type": "GROUP",
+        "width": 359.1038818359375,
+        "height": 117.58753204345703,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8615",
+            "name": "Group 42",
+            "type": "GROUP",
+            "width": 359.1038818359375,
+            "height": 117.58753204345703
+          },
+          {
+            "id": "2464:8328",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 23.69715118408203,
+            "height": 23.69709587097168
+          }
+        ]
+      },
+      {
+        "id": "2464:8329",
+        "name": "Group 33",
+        "type": "GROUP",
+        "width": 342.6093444824219,
+        "height": 117.5875473022461,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8330",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 342.6093444824219,
+            "height": 117.5875473022461
+          },
+          {
+            "id": "2464:8331",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 93.43221282958984,
+            "height": 93.43224334716797
+          },
+          {
+            "id": "2464:8332",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 60.02988052368164,
+            "height": 60.046875
+          },
+          {
+            "id": "2464:8335",
+            "name": "semana do",
+            "type": "TEXT",
+            "width": 182,
+            "height": 42
+          },
+          {
+            "id": "2464:8336",
+            "name": "CLIENTE",
+            "type": "TEXT",
+            "width": 209,
+            "height": 50
+          },
+          {
+            "id": "2464:8337",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 23.697038650512695,
+            "height": 23.697124481201172
+          }
+        ]
+      },
+      {
+        "id": "2464:8338",
+        "name": "Group 32",
+        "type": "GROUP",
+        "width": 367.2095031738281,
+        "height": 384.8353271484375,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8339",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 367.2095031738281,
+            "height": 384.8353271484375
+          },
+          {
+            "id": "2464:8340",
+            "name": "v",
+            "type": "TEXT",
+            "width": 24,
+            "height": 53
+          },
+          {
+            "id": "2464:8341",
+            "name": "o",
+            "type": "TEXT",
+            "width": 29,
+            "height": 53
+          },
+          {
+            "id": "2464:8342",
+            "name": "c",
+            "type": "TEXT",
+            "width": 26,
+            "height": 53
+          },
+          {
+            "id": "2464:8343",
+            "name": "ê",
+            "type": "TEXT",
+            "width": 26,
+            "height": 53
+          },
+          {
+            "id": "2464:8344",
+            "name": "m",
+            "type": "TEXT",
+            "width": 41,
+            "height": 53
+          },
+          {
+            "id": "2464:8345",
+            "name": "e",
+            "type": "TEXT",
+            "width": 26,
+            "height": 53
+          },
+          {
+            "id": "2464:8346",
+            "name": "r",
+            "type": "TEXT",
+            "width": 18,
+            "height": 53
+          },
+          {
+            "id": "2464:8347",
+            "name": "e",
+            "type": "TEXT",
+            "width": 26,
+            "height": 53
+          },
+          {
+            "id": "2464:8348",
+            "name": "c",
+            "type": "TEXT",
+            "width": 26,
+            "height": 53
+          },
+          {
+            "id": "2464:8349",
+            "name": "e",
+            "type": "TEXT",
+            "width": 26,
+            "height": 53
+          },
+          {
+            "id": "2464:8350",
+            "name": "u",
+            "type": "TEXT",
+            "width": 27,
+            "height": 53
+          },
+          {
+            "id": "2464:8351",
+            "name": "m",
+            "type": "TEXT",
+            "width": 41,
+            "height": 53
+          },
+          {
+            "id": "2464:8352",
+            "name": "a",
+            "type": "TEXT",
+            "width": 25,
+            "height": 53
+          },
+          {
+            "id": "2464:8353",
+            "name": "v",
+            "type": "TEXT",
+            "width": 24,
+            "height": 53
+          },
+          {
+            "id": "2464:8354",
+            "name": "i",
+            "type": "TEXT",
+            "width": 14,
+            "height": 53
+          },
+          {
+            "id": "2464:8355",
+            "name": "a",
+            "type": "TEXT",
+            "width": 25,
+            "height": 53
+          },
+          {
+            "id": "2464:8356",
+            "name": "g",
+            "type": "TEXT",
+            "width": 29,
+            "height": 53
+          },
+          {
+            "id": "2464:8357",
+            "name": "e",
+            "type": "TEXT",
+            "width": 26,
+            "height": 53
+          },
+          {
+            "id": "2464:8358",
+            "name": "m",
+            "type": "TEXT",
+            "width": 41,
+            "height": 53
+          },
+          {
+            "id": "2464:8359",
+            "name": "$",
+            "type": "TEXT",
+            "width": 136,
+            "height": 209
+          },
+          {
+            "id": "2464:8360",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 38.8812255859375,
+            "height": 38.881248474121094
+          },
+          {
+            "id": "2464:8361",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 25.373973846435547,
+            "height": 25.374055862426758
+          }
+        ]
+      },
+      {
+        "id": "2464:8362",
+        "name": "Group 30",
+        "type": "GROUP",
+        "width": 394.4937744140625,
+        "height": 92.40594482421875,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8363",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 394.4937744140625,
+            "height": 92.40594482421875
+          },
+          {
+            "id": "2464:8364",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 376.75299072265625,
+            "height": 74.66519927978516
+          },
+          {
+            "id": "2464:8365",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 307.2309265136719,
+            "height": 46.14309310913086
+          }
+        ]
+      },
+      {
+        "id": "2464:8369",
+        "name": "Group 27",
+        "type": "GROUP",
+        "width": 253.09915161132812,
+        "height": 123.14070129394531,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8370",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 253.09915161132812,
+            "height": 123.14070129394531
+          }
+        ]
+      },
+      {
+        "id": "2464:8377",
+        "name": "Group 35",
+        "type": "GROUP",
+        "width": 280.73577880859375,
+        "height": 279.2640075683594,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8378",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 280.73577880859375,
+            "height": 279.24560546875
+          },
+          {
+            "id": "2464:8379",
+            "name": "querer",
+            "type": "TEXT",
+            "width": 190,
+            "height": 105
+          },
+          {
+            "id": "2464:8380",
+            "name": "MAIS",
+            "type": "TEXT",
+            "width": 135,
+            "height": 50
+          },
+          {
+            "id": "2464:8381",
+            "name": "VOCÊ PODE",
+            "type": "TEXT",
+            "width": 183,
+            "height": 35
+          },
+          {
+            "id": "2464:8382",
+            "name": "Clip path group",
+            "type": "GROUP",
+            "width": 280.73577880859375,
+            "height": 279.24560546875
+          },
+          {
+            "id": "2464:8387",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 157.6325225830078,
+            "height": 111.86735534667969
+          }
+        ]
+      },
+      {
+        "id": "2464:8388",
+        "name": "Group",
+        "type": "GROUP",
+        "width": 488.69573974609375,
+        "height": 111.08136749267578,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8389",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 488.69573974609375,
+            "height": 111.08136749267578
+          },
+          {
+            "id": "2464:8390",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 466.72137451171875,
+            "height": 89.76680755615234
+          },
+          {
+            "id": "2464:8391",
+            "name": "dia do cliente",
+            "type": "TEXT",
+            "width": 281,
+            "height": 51
+          },
+          {
+            "id": "2464:8392",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 50.56483840942383,
+            "height": 52.56251907348633
+          },
+          {
+            "id": "2464:8393",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 22.918184280395508,
+            "height": 22.918210983276367
+          },
+          {
+            "id": "2464:8394",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 16.201303482055664,
+            "height": 16.201274871826172
+          }
+        ]
+      },
+      {
+        "id": "2464:8395",
+        "name": "Group 31",
+        "type": "GROUP",
+        "width": 482.6844177246094,
+        "height": 92.40594482421875,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8396",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 482.6844177246094,
+            "height": 92.40594482421875
+          },
+          {
+            "id": "2464:8397",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 74.66525268554688,
+            "height": 74.66514587402344
+          },
+          {
+            "id": "2464:8398",
+            "name": "semana do cliente",
+            "type": "TEXT",
+            "width": 314,
+            "height": 43
+          },
+          {
+            "id": "2464:8399",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 46.0196647644043,
+            "height": 47.870731353759766
+          }
+        ]
+      },
+      {
+        "id": "2464:8400",
+        "name": "Group 34",
+        "type": "GROUP",
+        "width": 279.4537353515625,
+        "height": 279.4537353515625,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8401",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 279.4537353515625,
+            "height": 279.4537353515625
+          },
+          {
+            "id": "2464:8402",
+            "name": "v",
+            "type": "TEXT",
+            "width": 13,
+            "height": 29
+          },
+          {
+            "id": "2464:8403",
+            "name": "o",
+            "type": "TEXT",
+            "width": 16,
+            "height": 29
+          },
+          {
+            "id": "2464:8404",
+            "name": "c",
+            "type": "TEXT",
+            "width": 14,
+            "height": 29
+          },
+          {
+            "id": "2464:8405",
+            "name": "ê",
+            "type": "TEXT",
+            "width": 15,
+            "height": 29
+          },
+          {
+            "id": "2464:8406",
+            "name": "p",
+            "type": "TEXT",
+            "width": 16,
+            "height": 29
+          },
+          {
+            "id": "2464:8407",
+            "name": "o",
+            "type": "TEXT",
+            "width": 16,
+            "height": 29
+          },
+          {
+            "id": "2464:8408",
+            "name": "d",
+            "type": "TEXT",
+            "width": 16,
+            "height": 29
+          },
+          {
+            "id": "2464:8409",
+            "name": "e",
+            "type": "TEXT",
+            "width": 15,
+            "height": 29
+          },
+          {
+            "id": "2464:8410",
+            "name": "q",
+            "type": "TEXT",
+            "width": 17,
+            "height": 29
+          },
+          {
+            "id": "2464:8411",
+            "name": "u",
+            "type": "TEXT",
+            "width": 15,
+            "height": 29
+          },
+          {
+            "id": "2464:8412",
+            "name": "e",
+            "type": "TEXT",
+            "width": 15,
+            "height": 29
+          },
+          {
+            "id": "2464:8413",
+            "name": "r",
+            "type": "TEXT",
+            "width": 10,
+            "height": 29
+          },
+          {
+            "id": "2464:8414",
+            "name": "e",
+            "type": "TEXT",
+            "width": 15,
+            "height": 29
+          },
+          {
+            "id": "2464:8415",
+            "name": "r",
+            "type": "TEXT",
+            "width": 10,
+            "height": 29
+          },
+          {
+            "id": "2464:8416",
+            "name": "m",
+            "type": "TEXT",
+            "width": 23,
+            "height": 29
+          },
+          {
+            "id": "2464:8417",
+            "name": "a",
+            "type": "TEXT",
+            "width": 14,
+            "height": 29
+          },
+          {
+            "id": "2464:8418",
+            "name": "i",
+            "type": "TEXT",
+            "width": 8,
+            "height": 29
+          },
+          {
+            "id": "2464:8419",
+            "name": "s",
+            "type": "TEXT",
+            "width": 13,
+            "height": 29
+          },
+          {
+            "id": "2464:8420",
+            "name": "v",
+            "type": "TEXT",
+            "width": 13,
+            "height": 29
+          },
+          {
+            "id": "2464:8421",
+            "name": "o",
+            "type": "TEXT",
+            "width": 16,
+            "height": 29
+          },
+          {
+            "id": "2464:8422",
+            "name": "c",
+            "type": "TEXT",
+            "width": 14,
+            "height": 29
+          },
+          {
+            "id": "2464:8423",
+            "name": "ê",
+            "type": "TEXT",
+            "width": 15,
+            "height": 29
+          },
+          {
+            "id": "2464:8424",
+            "name": "p",
+            "type": "TEXT",
+            "width": 16,
+            "height": 29
+          },
+          {
+            "id": "2464:8425",
+            "name": "o",
+            "type": "TEXT",
+            "width": 16,
+            "height": 29
+          },
+          {
+            "id": "2464:8426",
+            "name": "d",
+            "type": "TEXT",
+            "width": 16,
+            "height": 29
+          },
+          {
+            "id": "2464:8427",
+            "name": "e",
+            "type": "TEXT",
+            "width": 15,
+            "height": 29
+          },
+          {
+            "id": "2464:8428",
+            "name": "q",
+            "type": "TEXT",
+            "width": 17,
+            "height": 29
+          },
+          {
+            "id": "2464:8429",
+            "name": "u",
+            "type": "TEXT",
+            "width": 15,
+            "height": 29
+          },
+          {
+            "id": "2464:8430",
+            "name": "e",
+            "type": "TEXT",
+            "width": 15,
+            "height": 29
+          },
+          {
+            "id": "2464:8431",
+            "name": "r",
+            "type": "TEXT",
+            "width": 10,
+            "height": 29
+          },
+          {
+            "id": "2464:8432",
+            "name": "e",
+            "type": "TEXT",
+            "width": 15,
+            "height": 29
+          },
+          {
+            "id": "2464:8433",
+            "name": "r",
+            "type": "TEXT",
+            "width": 10,
+            "height": 29
+          },
+          {
+            "id": "2464:8434",
+            "name": "m",
+            "type": "TEXT",
+            "width": 23,
+            "height": 29
+          },
+          {
+            "id": "2464:8435",
+            "name": "a",
+            "type": "TEXT",
+            "width": 14,
+            "height": 29
+          },
+          {
+            "id": "2464:8436",
+            "name": "i",
+            "type": "TEXT",
+            "width": 8,
+            "height": 29
+          },
+          {
+            "id": "2464:8437",
+            "name": "s",
+            "type": "TEXT",
+            "width": 13,
+            "height": 29
+          },
+          {
+            "id": "2464:8438",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 19.225236892700195,
+            "height": 19.225265502929688
+          },
+          {
+            "id": "2464:8439",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 19.225292205810547,
+            "height": 19.225265502929688
+          }
+        ]
+      },
+      {
+        "id": "2464:8440",
+        "name": "Group 28",
+        "type": "GROUP",
+        "width": 464.9619445800781,
+        "height": 94.71514892578125,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8441",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 464.9619445800781,
+            "height": 94.71514892578125
+          },
+          {
+            "id": "2464:8442",
+            "name": "você pode querer mais",
+            "type": "TEXT",
+            "width": 318,
+            "height": 34
+          },
+          {
+            "id": "2464:8443",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 408.0861511230469,
+            "height": 22.918241500854492
+          }
+        ]
+      },
+      {
+        "id": "2464:8446",
+        "name": "Group",
+        "type": "GROUP",
+        "width": 314.16546630859375,
+        "height": 164.57855224609375,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8447",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 314.16546630859375,
+            "height": 164.57855224609375
+          },
+          {
+            "id": "2464:8448",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 308.9605407714844,
+            "height": 157.30270385742188
+          },
+          {
+            "id": "2464:8449",
+            "name": "VOCÊ MERECE",
+            "type": "TEXT",
+            "width": 217,
+            "height": 33
+          },
+          {
+            "id": "2464:8450",
+            "name": "uma viagem",
+            "type": "TEXT",
+            "width": 239,
+            "height": 68
+          },
+          {
+            "id": "2464:8451",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 20.792211532592773,
+            "height": 20.792211532592773
+          },
+          {
+            "id": "2464:8452",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 13.571316719055176,
+            "height": 13.571316719055176
+          }
+        ]
+      },
+      {
+        "id": "2464:8453",
+        "name": "Group 41",
+        "type": "GROUP",
+        "width": 156.84449768066406,
+        "height": 156.84449768066406,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8454",
+            "name": "Group 39",
+            "type": "GROUP",
+            "width": 156.84449768066406,
+            "height": 156.84449768066406
+          }
+        ]
+      },
+      {
+        "id": "2464:8459",
+        "name": "Group 40",
+        "type": "GROUP",
+        "width": 156.84449768066406,
+        "height": 156.84449768066406,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8460",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 156.84449768066406,
+            "height": 156.84449768066406
+          },
+          {
+            "id": "2464:8461",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 37.03019332885742,
+            "height": 37.030208587646484
+          },
+          {
+            "id": "2464:8462",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 81.70281219482422,
+            "height": 84.89176940917969
+          },
+          {
+            "id": "2464:8463",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 26.143800735473633,
+            "height": 26.143800735473633
+          }
+        ]
+      },
+      {
+        "id": "2464:8464",
+        "name": "Group 26",
+        "type": "GROUP",
+        "width": 436.636474609375,
+        "height": 188.21044921875,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8465",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 390.278564453125,
+            "height": 79.81514739990234
+          },
+          {
+            "id": "2464:8466",
+            "name": "semana do",
+            "type": "TEXT",
+            "width": 296,
+            "height": 67
+          },
+          {
+            "id": "2464:8467",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 428.894287109375,
+            "height": 92.40594482421875
+          },
+          {
+            "id": "2464:8470",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 336.9096374511719,
+            "height": 92.40594482421875
+          },
+          {
+            "id": "2464:8471",
+            "name": "cliente",
+            "type": "TEXT",
+            "width": 235,
+            "height": 83
+          },
+          {
+            "id": "2464:8472",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 92.406005859375,
+            "height": 92.40594482421875
+          },
+          {
+            "id": "2464:8473",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 18.162242889404297,
+            "height": 9.218597412109375
+          },
+          {
+            "id": "2464:8474",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 56.11798858642578,
+            "height": 56.11798858642578
+          },
+          {
+            "id": "2464:8475",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 23.458887100219727,
+            "height": 23.458831787109375
+          }
+        ]
+      },
+      {
+        "id": "2464:8476",
+        "name": "Group",
+        "type": "GROUP",
+        "width": 263.8388977050781,
+        "height": 112.74913787841797,
+        "visible": true,
+        "children": [
+          {
+            "id": "2464:8477",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 263.8388977050781,
+            "height": 112.74913787841797
+          },
+          {
+            "id": "2464:8478",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 256.3064270019531,
+            "height": 105.16168975830078
+          },
+          {
+            "id": "2464:8479",
+            "name": "semana do",
+            "type": "TEXT",
+            "width": 143,
+            "height": 33
+          },
+          {
+            "id": "2464:8480",
+            "name": "CLIENTE",
+            "type": "TEXT",
+            "width": 187,
+            "height": 44
+          },
+          {
+            "id": "2464:8481",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 19.61932373046875,
+            "height": 19.619295120239258
+          },
+          {
+            "id": "2464:8482",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 12.82906436920166,
+            "height": 12.829036712646484
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2469:2004",
+    "name": "QP [STORY] Add yours - Metas de viagem",
+    "type": "FRAME",
+    "width": 1080,
+    "height": 1920,
+    "fills": [],
+    "children": [
+      {
+        "id": "2469:2039",
+        "name": "Group",
+        "type": "GROUP",
+        "width": 427.11962890625,
+        "height": 568.3804321289062,
+        "visible": true,
+        "children": [
+          {
+            "id": "2469:2040",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 95.24000549316406,
+            "height": 52.01028060913086
+          },
+          {
+            "id": "2469:2041",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 187.53843688964844,
+            "height": 141.25999450683594
+          },
+          {
+            "id": "2469:2044",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 187.55126953125,
+            "height": 187.5501708984375
+          },
+          {
+            "id": "2469:2049",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 187.55015563964844,
+            "height": 187.55026245117188
+          },
+          {
+            "id": "2469:2054",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 52.012474060058594,
+            "height": 95.24002075195312
+          },
+          {
+            "id": "2469:2055",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 95.24000549316406,
+            "height": 52.01028823852539
+          },
+          {
+            "id": "2469:2056",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 52.0102653503418,
+            "height": 95.23999786376953
+          },
+          {
+            "id": "2469:2057",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 187.55123901367188,
+            "height": 187.5501708984375
+          },
+          {
+            "id": "2469:2062",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 95.23999786376953,
+            "height": 52.01028823852539
+          }
+        ]
+      },
+      {
+        "id": "2469:2064",
+        "name": "Frame 4",
+        "type": "FRAME",
+        "width": 1640.09375,
+        "height": 1140.9593505859375,
+        "visible": true,
+        "children": [
+          {
+            "id": "2469:2065",
+            "name": "Vector",
+            "type": "VECTOR",
+            "width": 1605.56494140625,
+            "height": 1079.51904296875
+          },
+          {
+            "id": "2469:2066",
+            "name": "Group 13",
+            "type": "GROUP",
+            "width": 50.1794319152832,
+            "height": 50.1794319152832
+          }
+        ]
+      },
+      {
+        "id": "2469:2070",
+        "name": "Rectangle 30",
+        "type": "RECTANGLE",
+        "width": 394.29595947265625,
+        "height": 73,
+        "visible": true
+      },
+      {
+        "id": "2469:2072",
+        "name": "@queropassagem",
+        "type": "TEXT",
+        "width": 562.0999755859375,
+        "height": 42,
+        "visible": true
+      },
+      {
+        "id": "2469:2099",
+        "name": "Group 48",
+        "type": "GROUP",
+        "width": 915.01953125,
+        "height": 127.65352630615234,
+        "visible": true,
+        "children": [
+          {
+            "id": "2469:2074",
+            "name": "Line 5",
+            "type": "LINE",
+            "width": 457,
+            "height": 0
+          },
+          {
+            "id": "2469:2078",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 401,
+            "height": 127.65352630615234
+          }
+        ]
+      },
+      {
+        "id": "2469:2098",
+        "name": "Group 47",
+        "type": "GROUP",
+        "width": 915.01953125,
+        "height": 128,
+        "visible": true,
+        "children": [
+          {
+            "id": "2469:2075",
+            "name": "Line 6",
+            "type": "LINE",
+            "width": 457,
+            "height": 0
+          },
+          {
+            "id": "2469:2082",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 401,
+            "height": 127.65352630615234
+          }
+        ]
+      },
+      {
+        "id": "2469:2097",
+        "name": "Group 46",
+        "type": "GROUP",
+        "width": 915.01953125,
+        "height": 128,
+        "visible": true,
+        "children": [
+          {
+            "id": "2469:2076",
+            "name": "Line 7",
+            "type": "LINE",
+            "width": 457,
+            "height": 0
+          },
+          {
+            "id": "2469:2085",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 401,
+            "height": 127.65352630615234
+          }
+        ]
+      },
+      {
+        "id": "2469:2096",
+        "name": "Group 45",
+        "type": "GROUP",
+        "width": 915.01953125,
+        "height": 128,
+        "visible": true,
+        "children": [
+          {
+            "id": "2469:2077",
+            "name": "Line 8",
+            "type": "LINE",
+            "width": 457.0000305175781,
+            "height": 0
+          },
+          {
+            "id": "2469:2088",
+            "name": "Group",
+            "type": "GROUP",
+            "width": 401,
+            "height": 127.65352630615234
+          }
+        ]
+      },
+      {
+        "id": "2469:2091",
+        "name": "Group 23",
+        "type": "GROUP",
+        "width": 871.7727661132812,
+        "height": 289.2178955078125,
+        "visible": true,
+        "children": [
+          {
+            "id": "2469:2092",
+            "name": "Rectangle 30",
+            "type": "RECTANGLE",
+            "width": 834.3948364257812,
+            "height": 216.99998474121094
+          },
+          {
+            "id": "2469:2093",
+            "name": "Metas de viagem",
+            "type": "TEXT",
+            "width": 732.6596069335938,
+            "height": 149.75933837890625
+          },
+          {
+            "id": "2469:2107",
+            "name": "Coco",
+            "type": "GROUP",
+            "width": 157.68521118164062,
+            "height": 192.72393798828125
+          },
+          {
+            "id": "2469:2605",
+            "name": "QP / STICKER / 21",
+            "type": "INSTANCE",
+            "width": 159,
+            "height": 182.83670043945312
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2443:1497",
+    "name": "QP [STORY] Add yours - Metas de viagem",
+    "type": "FRAME",
+    "width": 1080,
+    "height": 1920,
+    "fills": [],
+    "children": [
+      {
+        "id": "2443:1527",
+        "name": "CONHECER",
+        "type": "GROUP",
+        "width": 433.0526428222656,
+        "height": 136,
+        "visible": true,
+        "children": [
+          {
+            "id": "2443:1528",
+            "name": "Card",
+            "type": "GROUP",
+            "width": 433.0526428222656,
+            "height": 136
+          }
+        ]
+      },
+      {
+        "id": "2444:1646",
+        "name": "VIAGEM",
+        "type": "GROUP",
+        "width": 433.0526428222656,
+        "height": 136,
+        "visible": true,
+        "children": [
+          {
+            "id": "2444:1647",
+            "name": "Card",
+            "type": "GROUP",
+            "width": 433.0526428222656,
+            "height": 136
+          }
+        ]
+      },
+      {
+        "id": "2444:1592",
+        "name": "DESTINO",
+        "type": "GROUP",
+        "width": 433.0526428222656,
+        "height": 136,
+        "visible": true,
+        "children": [
+          {
+            "id": "2444:1593",
+            "name": "Card",
+            "type": "GROUP",
+            "width": 433.0526428222656,
+            "height": 136
+          }
+        ]
+      },
+      {
+        "id": "2444:1653",
+        "name": "PRAIA",
+        "type": "GROUP",
+        "width": 433.0526428222656,
+        "height": 136,
+        "visible": true,
+        "children": [
+          {
+            "id": "2444:1654",
+            "name": "Card",
+            "type": "GROUP",
+            "width": 433.0526428222656,
+            "height": 136
+          }
+        ]
+      }
+    ]
+  }
+]

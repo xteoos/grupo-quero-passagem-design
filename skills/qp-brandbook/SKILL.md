@@ -9,7 +9,7 @@ Crie materiais coerentes com a marca escolhida, preservando o conteúdo e o form
 
 ## Consultar a base atual
 
-Leia [acesso remoto](references/acesso-remoto.md). No início de cada pedido, execute `python3 scripts/remote_assets.py sync` usando o caminho desta skill. Só então leia as regras atualizadas. Busque candidatos com `find`, obtenha previews para escolher e use `get` para materializar originais antes de compor. Não baixe o acervo inteiro. Se a ferramenta não puder consultar, baixar ou renderizar, informe o limite concreto.
+Leia [acesso remoto](references/acesso-remoto.md). No início de cada pedido, execute `python3 scripts/remote_assets.py sync` usando o caminho desta skill. Em testes locais solicitados pelo responsável, use a revisão local descrita em acesso-remoto.md, evitando sobrescrevê-la com a versão publicada. Só então leia as regras atualizadas. Busque candidatos com `find`, obtenha previews para escolher e use `get` para materializar originais antes de compor. Não baixe o acervo inteiro. Se a ferramenta não puder consultar, baixar ou renderizar, informe o limite concreto.
 
 ## Antes de compor
 Identifique marca, público, objetivo, canal, idioma e formato de entrega a partir do pedido. Pergunte somente pelos dados importantes que faltarem. O formato não tem padrão obrigatório: pode ser PPTX, PDF, Google Slides, Figma, HTML, SVG ou imagem, conforme a necessidade e as ferramentas disponíveis.
@@ -24,6 +24,8 @@ Leia [marcas](references/marcas.md), [produção](references/producao.md) e [dep
 ## Posts, anúncios e outras peças gráficas
 
 Antes de desenhar, leia [o guia social](references/social/COMECAR.md) e o guia da marca nele indicado. Escolha uma família de composição e ABRA as referências visuais; não basta ler nomes, cores ou fontes. Use a tipografia em papéis contrastantes, a fotografia e os elementos contextualizados como descritos nas famílias. Não transpor o layout de apresentação para um post. Classifique a busca pelo papel real do arquivo: peças completas, stickers, letterings, percursos, guias e fundos são recursos distintos. Variações de stickers são permitidas pelo responsável quando fizerem sentido, preservando o caráter da marca e sendo identificadas como derivadas.
+
+Para story QP de metas de viagem, consulte o perfil `qp-metas-viagem` em references/social/familias.json: cabeçalho em balão, combinações Bacalar/Sora/Instrument Serif, stickers contextuais, campos de resposta, pílula de chamada e percurso. Fotografia é opcional nessa família; preserve sua função de participação.
 
 ## Criar com o acervo
 1. Para apresentações e comunicados, selecione o modelo editável da marca e do formato. Para posts e peças gráficas, escolha a família e as referências em `pecas-sociais`; elas orientam uma composição original, sem exigir copiar um layout inteiro. Abra os previews e consulte os originais editáveis quando necessário; registre os IDs. Não use uma campanha isolada como regra geral.

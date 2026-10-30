@@ -6,9 +6,12 @@ def main():
     refs={p.relative_to(SK).as_posix():p.read_text()for p in sorted((SK/'references').rglob('*'))if p.is_file()and p.suffix in ['.md','.json']}
     files={}
     indexed={a['path']:a for a in json.loads((SK/'references/assets-index.json').read_text())['assets']}
+    allowed=set(indexed)|{a['preview_path']for a in indexed.values()if a.get('preview_path')}|{'assets/fonts.css'}
     for p in sorted((SK/'assets').rglob('*')):
         if not p.is_file():continue
-        rel=p.relative_to(SK).as_posix();a=indexed.get(rel)
+        rel=p.relative_to(SK).as_posix()
+        if rel not in allowed:continue
+        a=indexed.get(rel)
         attr=subprocess.check_output(['git','check-attr','filter','--',str(p.relative_to(ROOT))],cwd=ROOT,text=True)
         files[rel]={'sha256':a['sha256']if a else hashlib.sha256(p.read_bytes()).hexdigest(),'bytes':p.stat().st_size,'lfs':attr.rstrip().endswith(': lfs')}
     bundle={'schema_version':1,'repository':'xteoos/grupo-quero-passagem-design','references':refs,'files':files}

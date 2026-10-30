@@ -14,10 +14,17 @@ def local(root,path):
 def raw(commit,path,lfs=False):
     host='https://media.githubusercontent.com/media/' if lfs else 'https://raw.githubusercontent.com/'
     return host+REPO+'/'+commit+'/'+urllib.parse.quote(path,safe='/')
-def sync(root=SK):
-    commit=json.loads(request('https://api.github.com/repos/'+REPO+'/commits/main'))['sha']
-    if not re.fullmatch('[a-f0-9]{40}',commit):raise ValueError('Revisão GitHub inválida')
-    bundle=json.loads(request(raw(commit,'distribution/brandbook-bundle.json')))
+def sync(root=SK,local_root=None,github=False):
+    previous=json.loads((root/STATE).read_text())if(root/STATE).exists()else{}
+    source_root=None if github else local_root or previous.get('source_root')
+    if source_root:
+        source_root=str(pathlib.Path(source_root).resolve())
+        bundle_bytes=local(pathlib.Path(source_root),'distribution/brandbook-bundle.json').read_bytes()
+        bundle=json.loads(bundle_bytes);commit='local:'+hashlib.sha256(bundle_bytes).hexdigest()[:16]
+    else:
+        commit=json.loads(request('https://api.github.com/repos/'+REPO+'/commits/main'))['sha']
+        if not re.fullmatch('[a-f0-9]{40}',commit):raise ValueError('Revisão GitHub inválida')
+        bundle=json.loads(request(raw(commit,'distribution/brandbook-bundle.json')))
     if bundle.get('schema_version')!=1:raise ValueError('Atualize o pacote da skill: versão do catálogo incompatível')
     # Uma revisão por sessão: regras, catálogo e downloads vêm do mesmo commit.
     references=bundle['references']
@@ -27,8 +34,9 @@ def sync(root=SK):
     for name,content in references.items():
         p=local(root,name);p.parent.mkdir(parents=True,exist_ok=True);p.write_text(content)
     state={'commit':commit,'files':bundle['files']}
+    if source_root:state['source_root']=source_root
     local(root,STATE).write_text(json.dumps(state,ensure_ascii=False))
-    return {'commit':commit,'references':len(references),'available_files':len(bundle['files'])}
+    return {'commit':commit,'mode':'local-review'if source_root else'github','references':len(references),'available_files':len(bundle['files'])}
 def state(root):
     p=root/STATE
     if not p.exists():sync(root)
@@ -40,8 +48,8 @@ def fetch(path,root=SK,seen=None):
     if path not in s['files']:raise ValueError('Arquivo não catalogado: '+path)
     meta=s['files'][path];p=local(root,path)
     if not p.exists()or hashlib.sha256(p.read_bytes()).hexdigest()!=meta['sha256']:
-        data=request(raw(s['commit'],PREFIX+path,meta['lfs']))
-        if data.startswith(b'version https://git-lfs.github.com/spec/v1'):raise ValueError('GitHub retornou ponteiro LFS em vez do original: '+path)
+        data=local(pathlib.Path(s['source_root'])/PREFIX,path).read_bytes()if s.get('source_root')else request(raw(s['commit'],PREFIX+path,meta['lfs']))
+        if data.startswith(b'version https://git-lfs.github.com/spec/v1'):raise ValueError('A fonte retornou ponteiro LFS em vez do original: '+path)
         if len(data)!=meta['bytes']or hashlib.sha256(data).hexdigest()!=meta['sha256']:raise ValueError('Arquivo recebido não passou na integridade: '+path)
         p.parent.mkdir(parents=True,exist_ok=True)
         with tempfile.NamedTemporaryFile(dir=p.parent,delete=False)as f:f.write(data);tmp=pathlib.Path(f.name)
@@ -59,13 +67,13 @@ def fetch(path,root=SK,seen=None):
 def rows(root=SK):return json.loads((root/'references/assets-index.json').read_text())['assets']
 def main():
     p=argparse.ArgumentParser(description=__doc__);sub=p.add_subparsers(dest='command',required=True)
-    sub.add_parser('sync');find=sub.add_parser('find')
+    sync_cmd=sub.add_parser('sync');mode=sync_cmd.add_mutually_exclusive_group();mode.add_argument('--local-root');mode.add_argument('--github',action='store_true');find=sub.add_parser('find')
     for flag in ['brand','category','family','query']:find.add_argument('--'+flag,default='')
     find.add_argument('--limit',type=int,default=20)
     get=sub.add_parser('get');group=get.add_mutually_exclusive_group(required=True);group.add_argument('--id',action='append');group.add_argument('--path');group.add_argument('--preview')
     a=p.parse_args()
     try:
-        if a.command=='sync':result=sync()
+        if a.command=='sync':result=sync(local_root=a.local_root,github=a.github)
         elif a.command=='find':
             state(SK);r=[x for x in rows()if(not a.brand or x['brand']==a.brand)and(not a.category or x['category']==a.category)and(not a.family or x.get('family')==a.family)and a.query.lower()in json.dumps(x,ensure_ascii=False).lower()]
             result={'total':len(r),'assets':[dict(x,cached=local(SK,x['path']).exists())for x in r[:a.limit]]}
@@ -74,5 +82,5 @@ def main():
             paths=[a.path]if a.path else [index[a.preview]['preview_path']]if a.preview else[index[i]['path']for i in a.id]
             result={'commit':state(SK)['commit'],'files':[fetch(path)for path in paths]}
         print(json.dumps(result,ensure_ascii=False,indent=2))
-    except Exception as e:print('Não foi possível obter o acervo: '+str(e)+'. Verifique o acesso à internet/GitHub. Não substituir o material ausente.',file=sys.stderr);sys.exit(1)
+    except Exception as e:print('Não foi possível obter o acervo: '+str(e)+'. Verifique a fonte selecionada e o acesso necessário. Não substituir o material ausente.',file=sys.stderr);sys.exit(1)
 if __name__=='__main__':main()

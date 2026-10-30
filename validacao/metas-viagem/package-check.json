@@ -1,0 +1,20 @@
+{
+  "mode": "local-review",
+  "network_required": false,
+  "github_updated": false,
+  "sync": {
+    "commit": "local:0fd5e13c0c6d0515",
+    "mode": "local-review",
+    "references": 49,
+    "available_files": 1263
+  },
+  "local_mode_preserved": true,
+  "retired_files_absent_from_manifest": 8,
+  "qp_stickers": 42,
+  "city_illustrations": 6,
+  "profile_available": true,
+  "individual_sticker_loaded": true,
+  "fonts_and_css_materialized": true,
+  "zip_bytes": 164854,
+  "zip_sha256": "7b700341a1b7ce0df728a57d706a33965f3a6b980a1d2bda9f4817cb231bcd96"
+}

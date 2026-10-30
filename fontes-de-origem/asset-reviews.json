@@ -232,7 +232,9 @@
       "fotografia",
       "percurso"
     ],
-    "name": "QP · fundo fotográfico de viagem"
+    "name": "QP · fundo fotográfico de viagem",
+    "catalog_exclude": true,
+    "exclusion_reason": "Fundos QP retirados do acervo de uso a pedido do responsável."
   },
   "figma:EyJUWysTaFKnJewVXFz0u0:66:40": {
     "category": "fundos",
@@ -250,7 +252,9 @@
       "fotografia",
       "percurso"
     ],
-    "name": "QP · fundo fotográfico de viagem"
+    "name": "QP · fundo fotográfico de viagem",
+    "catalog_exclude": true,
+    "exclusion_reason": "Fundos QP retirados do acervo de uso a pedido do responsável."
   },
   "figma:EyJUWysTaFKnJewVXFz0u0:66:101": {
     "category": "fundos",
@@ -268,7 +272,9 @@
       "fotografia",
       "percurso"
     ],
-    "name": "QP · fundo fotográfico de viagem com percurso"
+    "name": "QP · fundo fotográfico de viagem com percurso",
+    "catalog_exclude": true,
+    "exclusion_reason": "Fundos QP retirados do acervo de uso a pedido do responsável."
   },
   "figma:EyJUWysTaFKnJewVXFz0u0:2176:108": {
     "category": "pecas-sociais",
@@ -440,7 +446,9 @@
       "fotografia",
       "percurso"
     ],
-    "name": "QP · fundo fotográfico de viagem"
+    "name": "QP · fundo fotográfico de viagem",
+    "catalog_exclude": true,
+    "exclusion_reason": "Fundos QP retirados do acervo de uso a pedido do responsável."
   },
   "figma:EyJUWysTaFKnJewVXFz0u0:66:42": {
     "category": "fundos",
@@ -458,7 +466,9 @@
       "fotografia",
       "percurso"
     ],
-    "name": "QP · fundo fotográfico de viagem"
+    "name": "QP · fundo fotográfico de viagem",
+    "catalog_exclude": true,
+    "exclusion_reason": "Fundos QP retirados do acervo de uso a pedido do responsável."
   },
   "figma:EyJUWysTaFKnJewVXFz0u0:66:104": {
     "category": "fundos",
@@ -476,7 +486,9 @@
       "fotografia",
       "percurso"
     ],
-    "name": "QP · fundo fotográfico de viagem com percurso"
+    "name": "QP · fundo fotográfico de viagem com percurso",
+    "catalog_exclude": true,
+    "exclusion_reason": "Fundos QP retirados do acervo de uso a pedido do responsável."
   },
   "figma:EyJUWysTaFKnJewVXFz0u0:176:6": {
     "category": "linhas-e-percursos",
@@ -2576,7 +2588,9 @@
       "prancha",
       "campanha"
     ],
-    "name": "QP · prancha de stickers Dia do Cliente"
+    "name": "QP · prancha de stickers Dia do Cliente",
+    "catalog_exclude": true,
+    "exclusion_reason": "Prancha desmembrada: usar os elementos individuais na categoria stickers."
   },
   "figma:EyJUWysTaFKnJewVXFz0u0:2469:2003": {
     "category": "pecas-sociais",
@@ -5040,7 +5054,9 @@
       "prancha"
     ],
     "review_date": "2026-10-30",
-    "review_level": "visual-detalhada"
+    "review_level": "visual-detalhada",
+    "catalog_exclude": true,
+    "exclusion_reason": "Prancha desmembrada: usar os elementos individuais na categoria stickers."
   },
   "figma:8hsYVcxSZ1qK14VctpJTZn:100:22": {
     "name": "QP · percurso vetorial branco com ponto amarelo",
@@ -5098,5 +5114,224 @@
     ],
     "review_date": "2026-10-30",
     "review_level": "visual-detalhada"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31399": {
+    "category": "stickers",
+    "asset_kind": "sticker-ilustrado",
+    "source_name": "BANANAS",
+    "name": "QP · Bananas · ilustração individual",
+    "composition_role": "Elemento original individual da biblioteca de ilustrações. Usar como sticker quando o tema justificar; preservar textura, cores e proporção. Não colar a prancha inteira.",
+    "tags": [
+      "quero-passagem",
+      "sticker",
+      "ilustracao",
+      "bananas"
+    ],
+    "family": "repertorio-quero-passagem",
+    "parent_source_id": "figma:8hsYVcxSZ1qK14VctpJTZn:31:29208"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31393": {
+    "category": "stickers",
+    "asset_kind": "sticker-ilustrado",
+    "source_name": "COCO",
+    "name": "QP · Coco · ilustração individual",
+    "composition_role": "Elemento original individual da biblioteca de ilustrações. Usar como sticker quando o tema justificar; preservar textura, cores e proporção. Não colar a prancha inteira.",
+    "tags": [
+      "quero-passagem",
+      "sticker",
+      "ilustracao",
+      "coco"
+    ],
+    "family": "repertorio-quero-passagem",
+    "parent_source_id": "figma:8hsYVcxSZ1qK14VctpJTZn:31:29208"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31394": {
+    "category": "stickers",
+    "asset_kind": "sticker-ilustrado",
+    "source_name": "CABANA",
+    "name": "QP · Cabana · ilustração individual",
+    "composition_role": "Elemento original individual da biblioteca de ilustrações. Usar como sticker quando o tema justificar; preservar textura, cores e proporção. Não colar a prancha inteira.",
+    "tags": [
+      "quero-passagem",
+      "sticker",
+      "ilustracao",
+      "cabana"
+    ],
+    "family": "repertorio-quero-passagem",
+    "parent_source_id": "figma:8hsYVcxSZ1qK14VctpJTZn:31:29208"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31391": {
+    "category": "stickers",
+    "asset_kind": "sticker-ilustrado",
+    "source_name": "TICKET",
+    "name": "QP · Ticket · ilustração individual",
+    "composition_role": "Elemento original individual da biblioteca de ilustrações. Usar como sticker quando o tema justificar; preservar textura, cores e proporção. Não colar a prancha inteira.",
+    "tags": [
+      "quero-passagem",
+      "sticker",
+      "ilustracao",
+      "ticket"
+    ],
+    "family": "repertorio-quero-passagem",
+    "parent_source_id": "figma:8hsYVcxSZ1qK14VctpJTZn:31:29208"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31392": {
+    "category": "stickers",
+    "asset_kind": "sticker-ilustrado",
+    "source_name": "ÔNIBUS",
+    "name": "QP · Ônibus · ilustração individual",
+    "composition_role": "Elemento original individual da biblioteca de ilustrações. Usar como sticker quando o tema justificar; preservar textura, cores e proporção. Não colar a prancha inteira.",
+    "tags": [
+      "quero-passagem",
+      "sticker",
+      "ilustracao",
+      "ônibus"
+    ],
+    "family": "repertorio-quero-passagem",
+    "parent_source_id": "figma:8hsYVcxSZ1qK14VctpJTZn:31:29208"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31396": {
+    "category": "stickers",
+    "asset_kind": "sticker-ilustrado",
+    "source_name": "CADEIRA",
+    "name": "QP · Cadeira · ilustração individual",
+    "composition_role": "Elemento original individual da biblioteca de ilustrações. Usar como sticker quando o tema justificar; preservar textura, cores e proporção. Não colar a prancha inteira.",
+    "tags": [
+      "quero-passagem",
+      "sticker",
+      "ilustracao",
+      "cadeira"
+    ],
+    "family": "repertorio-quero-passagem",
+    "parent_source_id": "figma:8hsYVcxSZ1qK14VctpJTZn:31:29208"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31397": {
+    "category": "stickers",
+    "asset_kind": "sticker-ilustrado",
+    "source_name": "PALMEIRA",
+    "name": "QP · Palmeira · ilustração individual",
+    "composition_role": "Elemento original individual da biblioteca de ilustrações. Usar como sticker quando o tema justificar; preservar textura, cores e proporção. Não colar a prancha inteira.",
+    "tags": [
+      "quero-passagem",
+      "sticker",
+      "ilustracao",
+      "palmeira"
+    ],
+    "family": "repertorio-quero-passagem",
+    "parent_source_id": "figma:8hsYVcxSZ1qK14VctpJTZn:31:29208"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31395": {
+    "category": "stickers",
+    "asset_kind": "sticker-ilustrado",
+    "source_name": "BOLSA",
+    "name": "QP · Bolsa · ilustração individual",
+    "composition_role": "Elemento original individual da biblioteca de ilustrações. Usar como sticker quando o tema justificar; preservar textura, cores e proporção. Não colar a prancha inteira.",
+    "tags": [
+      "quero-passagem",
+      "sticker",
+      "ilustracao",
+      "bolsa"
+    ],
+    "family": "repertorio-quero-passagem",
+    "parent_source_id": "figma:8hsYVcxSZ1qK14VctpJTZn:31:29208"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:34849": {
+    "category": "stickers",
+    "asset_kind": "sticker-ilustrado",
+    "source_name": "CAPIVARA",
+    "name": "QP · Capivara · ilustração individual",
+    "composition_role": "Elemento original individual da biblioteca de ilustrações. Usar como sticker quando o tema justificar; preservar textura, cores e proporção. Não colar a prancha inteira.",
+    "tags": [
+      "quero-passagem",
+      "sticker",
+      "ilustracao",
+      "capivara"
+    ],
+    "family": "repertorio-quero-passagem",
+    "parent_source_id": "figma:8hsYVcxSZ1qK14VctpJTZn:31:29208"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31409": {
+    "category": "ilustracoes",
+    "asset_kind": "ilustracao-de-cidade",
+    "name": "Cidade ilustrada · Rio De Janeiro",
+    "source_name": "RIO DE JANEIRO",
+    "composition_role": "Ilustração de destino urbano: Rio De Janeiro. Usar como elemento de apoio contextual, sem tratar como fotografia ou template de post.",
+    "tags": [
+      "quero-passagem",
+      "ilustracao",
+      "cidade",
+      "rio de janeiro"
+    ],
+    "family": "repertorio-quero-passagem"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31410": {
+    "category": "ilustracoes",
+    "asset_kind": "ilustracao-de-cidade",
+    "name": "Cidade ilustrada · Natal",
+    "source_name": "NATAL",
+    "composition_role": "Ilustração de destino urbano: Natal. Usar como elemento de apoio contextual, sem tratar como fotografia ou template de post.",
+    "tags": [
+      "quero-passagem",
+      "ilustracao",
+      "cidade",
+      "natal"
+    ],
+    "family": "repertorio-quero-passagem"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31411": {
+    "category": "ilustracoes",
+    "asset_kind": "ilustracao-de-cidade",
+    "name": "Cidade ilustrada · Curitiba",
+    "source_name": "CURITIBA",
+    "composition_role": "Ilustração de destino urbano: Curitiba. Usar como elemento de apoio contextual, sem tratar como fotografia ou template de post.",
+    "tags": [
+      "quero-passagem",
+      "ilustracao",
+      "cidade",
+      "curitiba"
+    ],
+    "family": "repertorio-quero-passagem"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31414": {
+    "category": "ilustracoes",
+    "asset_kind": "ilustracao-de-cidade",
+    "name": "Cidade ilustrada · Belo Horizonte",
+    "source_name": "BELO HORIZONTE",
+    "composition_role": "Ilustração de destino urbano: Belo Horizonte. Usar como elemento de apoio contextual, sem tratar como fotografia ou template de post.",
+    "tags": [
+      "quero-passagem",
+      "ilustracao",
+      "cidade",
+      "belo horizonte"
+    ],
+    "family": "repertorio-quero-passagem"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31413": {
+    "category": "ilustracoes",
+    "asset_kind": "ilustracao-de-cidade",
+    "name": "Cidade ilustrada · Salvador",
+    "source_name": "SALVADOR",
+    "composition_role": "Ilustração de destino urbano: Salvador. Usar como elemento de apoio contextual, sem tratar como fotografia ou template de post.",
+    "tags": [
+      "quero-passagem",
+      "ilustracao",
+      "cidade",
+      "salvador"
+    ],
+    "family": "repertorio-quero-passagem"
+  },
+  "figma:8hsYVcxSZ1qK14VctpJTZn:11:31412": {
+    "category": "ilustracoes",
+    "asset_kind": "ilustracao-de-cidade",
+    "name": "Cidade ilustrada · São Paulo",
+    "source_name": "SÃO PAULO",
+    "composition_role": "Ilustração de destino urbano: São Paulo. Usar como elemento de apoio contextual, sem tratar como fotografia ou template de post.",
+    "tags": [
+      "quero-passagem",
+      "ilustracao",
+      "cidade",
+      "são paulo"
+    ],
+    "family": "repertorio-quero-passagem"
   }
 }

@@ -3,6 +3,18 @@ from unittest.mock import patch
 sys.path.insert(0,str(pathlib.Path(__file__).resolve().parents[1]/'skills/qp-brandbook/scripts'))
 import remote_assets as remote
 class RemoteTests(unittest.TestCase):
+ def test_local_review_never_requests_github_and_persists(self):
+  with tempfile.TemporaryDirectory()as d:
+   base=pathlib.Path(d);source=base/'repo';dest=base/'installed';dest.mkdir();(source/'distribution').mkdir(parents=True);asset=source/'skills/qp-brandbook/assets/test.png';asset.parent.mkdir(parents=True);asset.write_bytes(b'local')
+   bundle={'schema_version':1,'references':{'references/assets-index.json':'{"assets":[]}'},'files':{'assets/test.png':{'sha256':hashlib.sha256(b'local').hexdigest(),'bytes':5,'lfs':False}}};(source/'distribution/brandbook-bundle.json').write_text(json.dumps(bundle))
+   with patch.object(remote,'request',side_effect=AssertionError('Rede não permitida no teste local')):
+    self.assertEqual(remote.sync(dest,local_root=source)['mode'],'local-review');self.assertEqual(remote.sync(dest)['mode'],'local-review');remote.fetch('assets/test.png',dest)
+   self.assertEqual((dest/'assets/test.png').read_bytes(),b'local')
+ def test_return_to_github_is_explicit(self):
+  with tempfile.TemporaryDirectory()as d:
+   dest=pathlib.Path(d);(dest/remote.STATE).write_text(json.dumps({'source_root':'/unavailable-local-source'}));bundle={'schema_version':1,'references':{},'files':{}}
+   with patch.object(remote,'request',side_effect=[json.dumps({'sha':'a'*40}).encode(),json.dumps(bundle).encode()]):self.assertEqual(remote.sync(dest,github=True)['mode'],'github')
+   self.assertNotIn('source_root',json.loads((dest/remote.STATE).read_text()))
  def setup_root(self,folder,content,path='assets/file.png',lfs=False):
   root=pathlib.Path(folder);(root/remote.STATE).write_text(json.dumps({'commit':'a'*40,'files':{path:{'sha256':hashlib.sha256(content).hexdigest(),'bytes':len(content),'lfs':lfs}}}));return root
  def test_verified_lfs_and_reuse(self):

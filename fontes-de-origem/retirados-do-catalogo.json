@@ -1,0 +1,82 @@
+[
+  {
+    "id": "figma:8hsYVcxSZ1qK14VctpJTZn:31:29208",
+    "name": "QP · prancha de ilustrações de viagem",
+    "path": "assets/ilustracoes/figma/31-29208.png",
+    "sha256": "35624e262c5aa8394940afc4bfd18c1a2e3fa8701d07c35a5c16079032070d85",
+    "source_url": "https://www.figma.com/design/8hsYVcxSZ1qK14VctpJTZn?node-id=31-29208",
+    "reason": "Prancha desmembrada: usar os elementos individuais na categoria stickers.",
+    "decision_date": "2026-10-30",
+    "archive_path": "fontes-de-origem/arquivo/ilustracoes/figma/31-29208.png"
+  },
+  {
+    "id": "figma:EyJUWysTaFKnJewVXFz0u0:63:56",
+    "name": "QP · fundo fotográfico de viagem",
+    "path": "assets/templates/figma/quero-passagem/63-56.png",
+    "sha256": "1d77c728deac1f087737408518ab67b1070ead3f9b6984581c33841bed23ac4a",
+    "source_url": "https://www.figma.com/design/EyJUWysTaFKnJewVXFz0u0?node-id=63-56",
+    "reason": "Fundos QP retirados do acervo de uso a pedido do responsável.",
+    "decision_date": "2026-10-30",
+    "archive_path": "fontes-de-origem/arquivo/templates/figma/quero-passagem/63-56.png"
+  },
+  {
+    "id": "figma:EyJUWysTaFKnJewVXFz0u0:66:40",
+    "name": "QP · fundo fotográfico de viagem",
+    "path": "assets/templates/figma/quero-passagem/66-40.png",
+    "sha256": "414c50aaa0323af30ce95d676c589ae7246d244537fca6488c81d6b230a5075a",
+    "source_url": "https://www.figma.com/design/EyJUWysTaFKnJewVXFz0u0?node-id=66-40",
+    "reason": "Fundos QP retirados do acervo de uso a pedido do responsável.",
+    "decision_date": "2026-10-30",
+    "archive_path": "fontes-de-origem/arquivo/templates/figma/quero-passagem/66-40.png"
+  },
+  {
+    "id": "figma:EyJUWysTaFKnJewVXFz0u0:66:101",
+    "name": "QP · fundo fotográfico de viagem com percurso",
+    "path": "assets/templates/figma/quero-passagem/66-101.png",
+    "sha256": "fe6020c57b7d74e752584a58671e1e622f1337992fc208b47a1b37b172af0346",
+    "source_url": "https://www.figma.com/design/EyJUWysTaFKnJewVXFz0u0?node-id=66-101",
+    "reason": "Fundos QP retirados do acervo de uso a pedido do responsável.",
+    "decision_date": "2026-10-30",
+    "archive_path": "fontes-de-origem/arquivo/templates/figma/quero-passagem/66-101.png"
+  },
+  {
+    "id": "figma:EyJUWysTaFKnJewVXFz0u0:63:34",
+    "name": "QP · fundo fotográfico de viagem",
+    "path": "assets/templates/figma/quero-passagem/63-34.png",
+    "sha256": "b880cf1bf6fbaf51132df90b5a1574c3ef58f0515b2005b05bf824832c47d10b",
+    "source_url": "https://www.figma.com/design/EyJUWysTaFKnJewVXFz0u0?node-id=63-34",
+    "reason": "Fundos QP retirados do acervo de uso a pedido do responsável.",
+    "decision_date": "2026-10-30",
+    "archive_path": "fontes-de-origem/arquivo/templates/figma/quero-passagem/63-34.png"
+  },
+  {
+    "id": "figma:EyJUWysTaFKnJewVXFz0u0:66:42",
+    "name": "QP · fundo fotográfico de viagem",
+    "path": "assets/templates/figma/quero-passagem/66-42.png",
+    "sha256": "21f4b78212342c16a0f2dfd9c4a9e23830b63fe3065928b88d3da900dcd04c68",
+    "source_url": "https://www.figma.com/design/EyJUWysTaFKnJewVXFz0u0?node-id=66-42",
+    "reason": "Fundos QP retirados do acervo de uso a pedido do responsável.",
+    "decision_date": "2026-10-30",
+    "archive_path": "fontes-de-origem/arquivo/templates/figma/quero-passagem/66-42.png"
+  },
+  {
+    "id": "figma:EyJUWysTaFKnJewVXFz0u0:66:104",
+    "name": "QP · fundo fotográfico de viagem com percurso",
+    "path": "assets/templates/figma/quero-passagem/66-104.png",
+    "sha256": "067bc31aefce9a0803ffe8d2865b36e7273632c28176208ac08c0003031dc06e",
+    "source_url": "https://www.figma.com/design/EyJUWysTaFKnJewVXFz0u0?node-id=66-104",
+    "reason": "Fundos QP retirados do acervo de uso a pedido do responsável.",
+    "decision_date": "2026-10-30",
+    "archive_path": "fontes-de-origem/arquivo/templates/figma/quero-passagem/66-104.png"
+  },
+  {
+    "id": "figma:EyJUWysTaFKnJewVXFz0u0:2464:8318",
+    "name": "QP · prancha de stickers Dia do Cliente",
+    "path": "assets/templates/figma/quero-passagem/2464-8318.png",
+    "sha256": "cb6edc095bcdd393aca128f1d5d9dcc3d3225df8d709175cd9677ec75b3d6cdd",
+    "source_url": "https://www.figma.com/design/EyJUWysTaFKnJewVXFz0u0?node-id=2464-8318",
+    "reason": "Prancha desmembrada: usar os elementos individuais na categoria stickers.",
+    "decision_date": "2026-10-30",
+    "archive_path": "fontes-de-origem/arquivo/templates/figma/quero-passagem/2464-8318.png"
+  }
+]

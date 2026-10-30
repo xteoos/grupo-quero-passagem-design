@@ -1,0 +1,69 @@
+{
+  "brief": "Crie um story interativo da Quero Passagem sobre metas de viagem.",
+  "mode": "teste-local-sem-publicacao",
+  "profile": "qp-metas-viagem",
+  "family": "qp-interativo",
+  "reference_ids": [
+    "figma:EyJUWysTaFKnJewVXFz0u0:2469:2004",
+    "figma:EyJUWysTaFKnJewVXFz0u0:2443:1497"
+  ],
+  "format": {
+    "width": 1080,
+    "height": 1920
+  },
+  "photo_required": false,
+  "background": "#0D2240, escolha explícita do estudo; a referência original é transparente.",
+  "assets": [
+    {
+      "id": "drive:164dLpreLRfwE_KztBqkT-RphAy1MwK0w",
+      "source_path": "assets/fontes/kit-marca-tipografia-1.sora/164dLpreLRfwE_KztBqkT-RphAy1MwK0w-sora-variablefont_wght.ttf",
+      "delivery_path": "assets/sora.ttf",
+      "sha256": "46fee4d09354bc092ae968cf65ad21ef68cdc66a364e2f113d4c2b3f7c59a9a6"
+    },
+    {
+      "id": "brand-navigator:bacalar-expanded-accented",
+      "source_path": "assets/fontes/bacalar/BacalarExpanded-BrandNavigator-Semibold.otf",
+      "delivery_path": "assets/bacalar.otf",
+      "sha256": "34db51a761dec22902210da2fb6599083588cb104bfca49e309332935f064f22"
+    },
+    {
+      "id": "drive:1UFOTpGXy6c1X7QeO5HKhYEBMK28651u4",
+      "source_path": "assets/fontes/kit-marca-tipografia-4.instrument-serif/1UFOTpGXy6c1X7QeO5HKhYEBMK28651u4-instrumentserif-italic.ttf",
+      "delivery_path": "assets/instrument-serif-italic.ttf",
+      "sha256": "9c86e4d5a47b50224a2463a9eca8535835257c8e85c470c2c6b454b1af6f046e"
+    },
+    {
+      "id": "figma:EyJUWysTaFKnJewVXFz0u0:2469:2039",
+      "source_path": "assets/formas/quero-passagem/2469-2039.svg",
+      "delivery_path": "assets/trama.svg",
+      "sha256": "5e4cb873277af2a2ba20ad3e3f178685d2413a46fc943f0b55e344844a9a42fc"
+    },
+    {
+      "id": "figma:EyJUWysTaFKnJewVXFz0u0:2469:2064",
+      "source_path": "assets/formas/quero-passagem/2469-2064.svg",
+      "delivery_path": "assets/percurso.svg",
+      "sha256": "1eaddd84bc6a034f5310904cd2045ece0081361e806d7c60ecaffc825ad10328"
+    },
+    {
+      "id": "figma:EyJUWysTaFKnJewVXFz0u0:2469:2605",
+      "source_path": "assets/stickers/quero-passagem/2469-2605.svg",
+      "delivery_path": "assets/chinelos.svg",
+      "sha256": "7874ae7356a2991e772fefe660919efe689e09e2aeae338f08e7b5d5a578fc5d"
+    },
+    {
+      "id": "figma:EyJUWysTaFKnJewVXFz0u0:2469:2107",
+      "source_path": "assets/stickers/quero-passagem/2469-2107.png",
+      "delivery_path": "assets/coco.png",
+      "sha256": "60bd1e56eb47ae482abce72763deb145be2ea880a80694338095bd372c326b06"
+    }
+  ],
+  "adaptations": [
+    "Texto novo de cabeçalho e rótulos com fontes locais reais.",
+    "Bacalar Expanded 600 do pacote no lugar da variante Semi Expanded registrada na referência.",
+    "Fundo marinho para leitura do texto branco.",
+    "Quatro campos preenchíveis somente na prova HTML; PNG não contém widget nativo de rede social."
+  ],
+  "copy_is_new": true,
+  "source_image_used_as_background": false,
+  "github_updated": false
+}

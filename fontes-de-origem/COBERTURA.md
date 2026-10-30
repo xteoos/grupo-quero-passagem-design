@@ -10,7 +10,7 @@ Coleta local: **29/10/2026**. Repositório de distribuição: [grupo-quero-passa
 | Figma · Social - Ads | 280 elementos de nível superior com preview local: 147 QP, 98 Viajo Mucho e 35 Rodon. Revisão visual em 30/10: 202 peças sociais (94 QP, 83 Viajo Mucho, 25 Rodon) e 78 recursos auxiliares, com categorias/papéis próprios. Incluem carrosséis em faixa, guias, stickers, letterings e percursos |
 | Modelos oficiais | 3 PPTX, 2 DOCX e 3 PDFs exportados dos modelos, preservados localmente |
 | Fontes incluídas | Sora e Inter variáveis, Instrument Serif Regular/Italic, Work Sans variável e Poppins Regular, Lilita One Regular e Nunito variável, com licenças OFL; Bacalar Expanded com acentos, OpenType do kit usado no Brand Navigator e aviso de origem |
-| Índice final | 659 registros locais, com hash e situação; 2 duplicados identificados por conteúdo e agrupados na consulta |
+| Índice de distribuição | 670 registros locais, com hash e situação; 2 duplicados identificados por conteúdo e agrupados na consulta |
 
 O acervo original e seus previews somam aproximadamente **2,88 GB**. Vídeos e arquivos de produção pesados permanecem como links externos; nenhum MP4/MOV foi baixado para a skill.
 
@@ -30,3 +30,12 @@ A coleta não usa mocks do projeto. Conteúdo publicado de componentes digitais 
 ## Curadoria social · 30/10/2026
 
 Os 280 itens do Social - Ads foram triados visualmente. A categoria vem da função do item, não do fato de estar numa página de templates. Foram preservados os nomes de origem em source_name, os IDs, caminhos e bytes dos arquivos; nomes curados, famílias e papéis estão no catálogo. Onze famílias de composição orientam a skill por marca. Consulte [a cobertura da revisão](social-review.json), [as pranchas de contato](../validacao/revisao-social/) e [o guia social](../skills/qp-brandbook/references/social/COMECAR.md). Isso não aprova campanhas antigas nem promove todos os itens a modelos editáveis.
+
+
+## Organização e teste · publicação aprovada em 30/10/2026
+
+A pedido do responsável, as duas pranchas QP foram desmembradas para uso em stickers: nove ilustrações individuais já existentes foram recategorizadas e 17 stickers foram exportados isoladamente do Figma (15 da campanha e dois do cabeçalho de metas). Dois vetores da referência de metas foram adicionados para preservar percurso e trama. Há 42 stickers QP no catálogo ativo.
+
+Seis fundos QP e as duas pranchas completas foram retirados do catálogo e do manifesto de distribuição de uso. Os originais foram guardados em fontes-de-origem/arquivo para rastreabilidade, com os motivos em [retirados-do-catalogo.json](retirados-do-catalogo.json). As seis cidades estão em ilustrações, com descrição de destino. As categorias de fundos e pranchas que ainda existirem para outras marcas não aparecem nos filtros quando Quero Passagem está selecionada.
+
+O teste de story está em [metas de viagem](../validacao/metas-viagem/TESTAR-SKILL.md). A publicação desta revisão foi autorizada pelo responsável em 30/10/2026, após a avaliação do teste.

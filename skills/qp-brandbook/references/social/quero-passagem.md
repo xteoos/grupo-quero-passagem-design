@@ -19,7 +19,7 @@ IDs nesta página pertencem a EyJUWysTaFKnJewVXFz0u0. Use o ID completo `figma:E
 
 A fotografia ocupa a peça, com pessoa espontânea e ação de viagem. O título se integra à foto por faixas e adesivos; não é um card de interface separado com foto em miniatura. Nas referências de embarque, a faixa branca com frase em Instrument Serif Italic conversa com uma faixa azul, título em Bacalar e borda branca. Leve inclinação e recortes dão movimento; a sombra, quando presente, é gráfica/curta.
 
-O percurso é uma linha contínua legível, que entra e sai do enquadramento e pode ter ponto circular amarelo/azul. Faça a trajetória conversar com a cena e desviar de rostos e texto. Pode variar o caminho mantendo caráter e peso visual; não desenhe várias ondas decorativas sem função. Abra os elementos 176:6 (branco) e 2627:1516 (azul); 2340:1469 é um laço azul. Nenhum deles é um template completo. Para vetor original escalável, a biblioteca 8hsYVcxSZ1qK14VctpJTZn fornece 100:22 (percurso branco com ponto amarelo) e 100:21 (percurso branco). A trama de laços 108:34 aparece como grafismo de apoio nas peças de hotel. A antiga Component 4, 31:29208, é uma prancha de várias ilustrações; prefira os SVGs individuais para compor.
+O percurso é uma linha contínua legível, que entra e sai do enquadramento e pode ter ponto circular amarelo/azul. Faça a trajetória conversar com a cena e desviar de rostos e texto. Pode variar o caminho mantendo caráter e peso visual; não desenhe várias ondas decorativas sem função. Abra os elementos 176:6 (branco) e 2627:1516 (azul); 2340:1469 é um laço azul. Nenhum deles é um template completo. Para vetor original escalável, a biblioteca 8hsYVcxSZ1qK14VctpJTZn fornece 100:22 (percurso branco com ponto amarelo) e 100:21 (percurso branco). A trama de laços 108:34 aparece como grafismo de apoio nas peças de hotel. A antiga Component 4, 31:29208, foi retirada do catálogo de uso: suas nove ilustrações individuais estão em stickers, preservando os SVGs/PNG originais.
 
 O lettering 66:27 demonstra Bacalar com Serif/Sora, mas seu texto já está rasterizado. Serve para observar construção e proporções; uma nova mensagem deve continuar editável. 1:2540 mostra faixas vazias reaproveitáveis, com limitações de resolução.
 
@@ -45,7 +45,7 @@ Carregue fonts.css. A Bacalar ativa é a versão com acentos do kit do Brand Nav
 | Hotel / hospedagem | 2150:236 campainha; 2150:237 piscina; 2150:243 selo postal de praia |
 | Sol / descanso / praia | 2150:239 coco; 2150:242 Só vai; 2661:2149 drink; ilustrações oficiais de palmeira/cadeira |
 | Destino / descoberta | 2628:1554 selo postal; 2150:235 etiqueta; 2150:240 seta circular |
-| Campanhas específicas | 2150:233, 2150:234, 2150:241, 2150:244 e 2464:8318: conferir textos e contexto antes de usar |
+| Campanhas específicas | 2150:233, 2150:234, 2150:241, 2150:244 e stickers individuais 2464:8329/2464:8464/2464:8476: conferir textos e contexto antes de usar |
 
 Os adesivos ilustrados observados têm volumes planos, contorno branco, azuis/amarelo e textura pontual; não são renders 3D nem emoji de sistema. A versão 2150:238 possui textura e borda próprias; a ilustração vetorial de ônibus é outro arquivo, não uma substituição idêntica. Escolha pela aplicação. Posicione um elemento âncora ligado à ideia e adicione outro apenas se ajudar. Não existe obrigação de usar um ônibus em hotel, nem de repetir sempre o mesmo sticker.
 
@@ -55,8 +55,31 @@ Pode criar uma variação no mesmo caráter quando o tema pedir. Identifique-a c
 
 Na vitrine, faixa vertical de cor sólida à esquerda organiza nome, localização e informação; a foto ocupa a outra parte e mantém visível a experiência do hotel. Os pequenos selos de benefícios acompanham os dados; não copie preço, estrelas, “all inclusive” ou café da manhã da origem sem confirmação. Quando não houver dados comerciais, escolha a família de experiência com foto e chamada, em vez de inventar uma oferta para preencher o layout.
 
-As fitas com texto seguindo curvas e as pranchas de Dia do Cliente são repertório de campanha. É possível derivar uma nova fita com mensagem adequada, mantendo a continuidade e a tipografia legível; não reutilizar “Dia do Cliente” fora do pedido nem simular selo de prêmio.
+As fitas com texto seguindo curvas e os stickers separados da prancha de Dia do Cliente são repertório de campanha. É possível derivar uma nova fita com mensagem adequada, mantendo a continuidade e a tipografia legível; não reutilizar “Dia do Cliente” fora do pedido nem simular selo de prêmio.
 
 ## Conferência de identidade
 
 Ao esconder o logo, o resultado ainda deve ter relação clara com a família escolhida por foto, contraste tipográfico e construção gráfica. A combinação “foto recortada dentro de card azul + título comum + logo embaixo” não basta para atestar consistência. Também não basta acrescentar um ônibus pequeno a esse layout. Compare relações e hierarquia com as peças abertas, não somente os ingredientes.
+
+
+## 6. Story de metas de viagem · qp-interativo
+
+Para o pedido “Crie um story sobre metas de viagem”, abra **2469:2004** e **2443:1497**. A primeira é a composição com cabeçalho e linhas; a segunda explora balões separados em posições alternadas. Não buscar uma foto para preencher a peça por obrigação: os frames originais são transparentes e esta família pode funcionar sobre um fundo gráfico da marca.
+
+A estrutura observada combina:
+
+1. Balão branco de cabeçalho: Sora introduz “Metas de”, Bacalar dá protagonismo a “VIAGEM”. Coco e chinelos conectam o assunto de viagem e descanso, sem ocupar os campos de resposta.
+2. Blocos de metas: “1 DESTINO”, “1 VIAGEM”, “1 PRAIA” em Bacalar; explicação em Sora; a palavra de intenção (“conhecer”, “repetir”, “este ano”, “visitar”) em Instrument Serif Italic. O ritmo nasce de papéis distintos, não de trocar a fonte de cada palavra.
+3. Linhas ou espaços para a pessoa preencher. São parte da função da peça e devem ter área útil; não substituir por cartões com textos longos ou uma lista já preenchida.
+4. Botão/pílula de assinatura ou chamada para participação, com contraste e respiro.
+5. Percurso contínuo no rodapé e, quando ajudar, trama de laços no canto, preservando a leitura.
+
+Use os elementos individuais **2469:2605** (chinelos) e **2469:2107** (coco), ou os stickers adequados encontrados no catálogo. Os percursos vetoriais e a trama da biblioteca estão em **100:21/100:22** e **108:34**. É permitido variar tema das metas, texto, posição e trajetória mantendo hierarquia, campos utilizáveis e caráter gráfico. Não é necessário utilizar toda a biblioteca.
+
+Os quatro campos são o exemplo dessa referência, não uma quantidade obrigatória para qualquer story. Ajuste assuntos, quantidade e ordem ao pedido, mantendo a função de participação e a leitura.
+
+O perfil `qp-metas-viagem` em [familias.json](familias.json) registra esses papéis para seleção da skill. O texto novo deve continuar editável; não usar o PNG completo da referência como fundo e simular uma peça criada. Se entregar PNG, a interação é gráfica; um botão ou adesivo nativo de Instagram precisa ser adicionado na ferramenta da plataforma e não está automaticamente criado no PNG. Em uma prova HTML, os campos podem ser preenchíveis, mas isso não cria um story publicado.
+
+## Organização simplificada do acervo QP
+
+As pranchas foram desmembradas em stickers individuais, com nome, assunto e origem. Mensagens Dia/Semana do Cliente continuam vinculadas à campanha, mesmo quando o arquivo está separado. Não colar uma prancha inteira. Fundos QP pouco úteis foram retirados do catálogo de uso a pedido do responsável. Cidades fazem parte de `ilustracoes`, com descrições de destino; as ilustrações de viagem da antiga prancha são encontradas em `stickers`.

@@ -1,0 +1,109 @@
+{
+  "format": {
+    "width": 1080,
+    "height": 1920
+  },
+  "two_stickers": true,
+  "balloon": true,
+  "path": true,
+  "fields": 4,
+  "editable_fields": true,
+  "cta_focus": true,
+  "mobile_no_overflow": true,
+  "source_frame_used_as_background": false,
+  "text_overflow": [],
+  "fonts": [
+    {
+      "familyName": "Sora",
+      "postScriptName": "Sora-Regular",
+      "isCustomFont": true,
+      "glyphCount": 15
+    },
+    {
+      "familyName": "",
+      "postScriptName": "-",
+      "isCustomFont": true,
+      "glyphCount": 6
+    },
+    {
+      "familyName": "",
+      "postScriptName": "-",
+      "isCustomFont": true,
+      "glyphCount": 9
+    },
+    {
+      "familyName": "Instrument Serif",
+      "postScriptName": "InstrumentSerif-Italic",
+      "isCustomFont": true,
+      "glyphCount": 8
+    },
+    {
+      "familyName": "Sora",
+      "postScriptName": "Sora-Regular_Light",
+      "isCustomFont": true,
+      "glyphCount": 13
+    },
+    {
+      "familyName": "",
+      "postScriptName": "-",
+      "isCustomFont": true,
+      "glyphCount": 9
+    },
+    {
+      "familyName": "Instrument Serif",
+      "postScriptName": "InstrumentSerif-Italic",
+      "isCustomFont": true,
+      "glyphCount": 7
+    },
+    {
+      "familyName": "Sora",
+      "postScriptName": "Sora-Regular_Light",
+      "isCustomFont": true,
+      "glyphCount": 13
+    },
+    {
+      "familyName": "",
+      "postScriptName": "-",
+      "isCustomFont": true,
+      "glyphCount": 8
+    },
+    {
+      "familyName": "Instrument Serif",
+      "postScriptName": "InstrumentSerif-Italic",
+      "isCustomFont": true,
+      "glyphCount": 8
+    },
+    {
+      "familyName": "Sora",
+      "postScriptName": "Sora-Regular_Light",
+      "isCustomFont": true,
+      "glyphCount": 11
+    },
+    {
+      "familyName": "",
+      "postScriptName": "-",
+      "isCustomFont": true,
+      "glyphCount": 7
+    },
+    {
+      "familyName": "Instrument Serif",
+      "postScriptName": "InstrumentSerif-Italic",
+      "isCustomFont": true,
+      "glyphCount": 7
+    },
+    {
+      "familyName": "Sora",
+      "postScriptName": "Sora-Regular_Light",
+      "isCustomFont": true,
+      "glyphCount": 13
+    },
+    {
+      "familyName": "Sora",
+      "postScriptName": "Sora-Regular_Light",
+      "isCustomFont": true,
+      "glyphCount": 14
+    }
+  ],
+  "catalog_categories_simplified": true,
+  "errors": []
+}
