@@ -1,0 +1,15 @@
+{
+  "public_zip_bytes": 139292,
+  "empty_install_without_assets": true,
+  "sync": {
+    "commit": "75f1b3c394ddd58d0fc9c02954773d28d5ed1fdc",
+    "references": 44,
+    "available_files": 1244
+  },
+  "logo_downloaded": true,
+  "portable_html_and_dependencies_downloaded": true,
+  "downloaded_files": 14,
+  "downloaded_bytes": 3296099,
+  "requires_git": false,
+  "requires_git_lfs": false
+}

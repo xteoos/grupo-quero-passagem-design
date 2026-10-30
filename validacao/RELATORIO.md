@@ -39,3 +39,5 @@ O ZIP distribution/qp-brandbook.zip contém apenas a skill, referências, metada
 Cinco testes do helper verificam download LFS pelo endpoint de mídia, reaproveitamento de arquivo íntegro, recuperação de arquivo de cache corrompido, rejeição de ponteiros/conteúdo incorreto, contenção de caminhos e obtenção de dependências CSS. Resultados dos downloads reais: [remote-downloads.json](remote-downloads.json). A ferramenta não usa o executável Git nem Git LFS para essa consulta.
 
 O README orienta instalação do ZIP leve e busca sob demanda; o download completo não é apresentado como alternativa de uso. O helper atualiza as referências no início de cada pedido e fixa uma revisão para seus downloads. Acesso à internet, Python 3 e permissão de gravação continuam necessários para o helper.
+
+Teste de instalação pelo ZIP público em pasta vazia: sincronização das 44 referências, busca e download de um logo e obtenção de um HTML adaptado com suas dependências aprovados. Foram materializados 14 arquivos (cerca de 3,3 MB), sem clone e sem Git/LFS. Evidência: [remote-package.json](remote-package.json).
