@@ -12,6 +12,9 @@ def inspect_file(p,expected=None):
     return None
 def validate(root=ROOT):
     sk=root/"skills/qp-brandbook";errors=[];warnings=[];index=json.loads((sk/"references/assets-index.json").read_text());ids=set()
+    policy_path=sk/"references/typography-policy.json"
+    policy=json.loads(policy_path.read_text())if policy_path.exists()else{}
+    authorized={a["asset_id"]:a["sha256"]for package in policy.get("authorized_font_packages",[])for a in package["allowed_assets"]}
     for a in index["assets"]:
         if a["id"]in ids:errors.append(a["id"]+": duplicate-id")
         ids.add(a["id"])
@@ -31,14 +34,15 @@ def validate(root=ROOT):
                     if "[Content_Types].xml"not in z.namelist():errors.append(a["id"]+": invalid-office-package")
             except zipfile.BadZipFile:errors.append(a["id"]+": invalid-office-zip")
         if a.get("font",{}).get("missing_glyphs"):warnings.append(a["id"]+": glifos ausentes: "+str(a["font"]["missing_glyphs"]))
-        if re.search("bacalartest|trial|demo",a["name"],re.I)and a["category"]=="fontes":errors.append(a["id"]+": trial-font-in-production")
+        font_identity=a["name"]+" "+str(a.get("font",{}).get("names",{}))
+        if re.search("bacalartest|trial|demo",font_identity,re.I)and a["category"]=="fontes"and authorized.get(a["id"])!=a.get("sha256"):errors.append(a["id"]+": trial-font-without-owner-authorization")
     for doc in sk.rglob("*.md"):
         for link in re.findall(r"\]\(([^)]+)\)",doc.read_text()):
             if re.match(r"[a-z]+:|#",link,re.I):continue
             path=urllib.parse.unquote(link.split("#")[0])
             if path and not(doc.parent/path).exists():errors.append(str(doc.relative_to(sk))+": broken-link "+link)
-    font_names=" ".join(str(a.get("font",{}).get("names",{}))for a in index["assets"]).lower()
-    for family,pattern in [("Bacalar Expanded","bacalar"),("Mauren","mauren"),("All Round Gothic","all round")]:
+    font_names=" ".join(str(a.get("font",{}).get("names",{}))+" "+a.get("css_family","")for a in index["assets"]if a.get("font")).lower()
+    for family,pattern in [("Bacalar Expanded","bacalar"),("Lilita One","lilita one"),("Nunito","nunito")]:
         if pattern not in font_names:warnings.append(family+" completa pendente para os templates que a exigem.")
     if not shutil.which("git-lfs"):warnings.append("Git LFS não encontrado neste ambiente; instalar antes de adicionar os originais ao Git.")
     return {"integrity_pass":not errors,"errors":errors,"warnings":warnings,"assets":len(index["assets"]),"local":sum(a.get("availability")=="local"for a in index["assets"])}

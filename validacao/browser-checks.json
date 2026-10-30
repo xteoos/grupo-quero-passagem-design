@@ -1,6 +1,6 @@
 {
   "catalog": {
-    "total": "649 itens encontrados · 651 arquivos locais no índice",
+    "total": "657 itens encontrados · 659 arquivos locais no índice",
     "fontChecks": [
       {
         "font": "300 20px Sora",
@@ -12,6 +12,18 @@
       },
       {
         "font": "italic 400 20px \"Instrument Serif\"",
+        "loaded": true
+      },
+      {
+        "font": "400 20px \"Lilita One\"",
+        "loaded": true
+      },
+      {
+        "font": "800 20px Nunito",
+        "loaded": true
+      },
+      {
+        "font": "600 20px \"Bacalar Expanded\"",
         "loaded": true
       }
     ],
@@ -53,45 +65,74 @@
       "source": "paginas/fundamentos/tipografia.md",
       "assets": [
         "figma:8hsYVcxSZ1qK14VctpJTZn:53:292",
-        "drive:1BWZ0EmKDe_nbD9CJgh5m_597VEZIvuqh"
+        "drive:1BWZ0EmKDe_nbD9CJgh5m_597VEZIvuqh",
+        "brand-navigator:bacalar-expanded-accented"
       ],
+      "required_font": "Bacalar Expanded",
+      "font_weight": 600,
+      "expected_postscript": "-",
       "status": "rendered-valid",
       "slides": 1,
       "broken_images": [],
       "overflow": [],
-      "rendered": true
+      "rendered": true,
+      "renderedFont": [
+        {
+          "familyName": "",
+          "postScriptName": "-",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ],
+      "portable_template": false
     },
     {
       "file": "viajo-mucho.html",
       "source": "figma:EyJUWysTaFKnJewVXFz0u0:1:3470",
-      "status": "blocked-font",
-      "missing_font": "Mauren",
-      "brief": {
-        "objective": "inspirar uma viagem de fim de semana",
-        "language": "es-MX",
-        "headline": "Tu próximo viaje empieza contigo.",
-        "commercial_claims": []
-      },
+      "status": "rendered-valid",
+      "adaptation": "substituicao-tipografica-solicitada-2026-10-30",
+      "required_font": "Lilita One",
+      "font_weight": 400,
+      "expected_postscript": "LilitaOne",
+      "image_limitation": "recorte-do-preview-oficial",
+      "commercial_claims": [],
       "slides": 1,
       "broken_images": [],
       "overflow": [],
-      "rendered": true
+      "rendered": true,
+      "renderedFont": [
+        {
+          "familyName": "Lilita One",
+          "postScriptName": "LilitaOne",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ],
+      "portable_template": true
     },
     {
       "file": "rodon.html",
       "source": "figma:EyJUWysTaFKnJewVXFz0u0:42:42",
-      "status": "blocked-font",
-      "missing_font": "All Round Gothic",
-      "brief": {
-        "objective": "inspirar uma viagem de fim de semana",
-        "language": "pt-BR",
-        "headline": "Seu próximo destino começa com você.",
-        "commercial_claims": []
-      },
+      "status": "rendered-valid",
+      "adaptation": "substituicao-tipografica-solicitada-2026-10-30",
+      "required_font": "Nunito",
+      "font_weight": 800,
+      "expected_postscript": "Nunito-ExtraBold",
+      "image_limitation": "recorte-do-preview-oficial",
+      "commercial_claims": [],
       "slides": 1,
       "broken_images": [],
       "overflow": [],
-      "rendered": true
+      "rendered": true,
+      "renderedFont": [
+        {
+          "familyName": "Nunito ExtraLight",
+          "postScriptName": "Nunito-ExtraBold",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ],
+      "portable_template": true
     }
   ]
 }

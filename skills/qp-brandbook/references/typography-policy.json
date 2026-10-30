@@ -1,0 +1,47 @@
+{
+  "updated_at": "2026-10-30",
+  "authority": "Pedido do responsável em 30/10/2026: substituir Mauren e All Round Gothic por Google Fonts similares e usar a Bacalar com acentos já utilizada no Brand Navigator. O responsável declarou autorização de uso da Bacalar.",
+  "substitutions": [
+    {
+      "brand": "viajo-mucho",
+      "original_family": "Mauren",
+      "replacement_family": "Lilita One",
+      "weight": 400,
+      "style": "normal",
+      "font_asset_id": "google-fonts:LilitaOne-Regular.ttf",
+      "support_family": "Work Sans",
+      "scope": "títulos de novas peças e adaptações; preservar logos e fontes originais",
+      "approval_required_per_piece": false
+    },
+    {
+      "brand": "rodon",
+      "original_family": "All Round Gothic",
+      "replacement_family": "Nunito",
+      "weight": 800,
+      "style": "normal",
+      "font_asset_id": "google-fonts:Nunito[wght].ttf",
+      "support_family": "Poppins",
+      "scope": "títulos de novas peças e adaptações; preservar logos e fontes originais",
+      "approval_required_per_piece": false
+    }
+  ],
+  "pending": [],
+  "authorized_font_packages": [
+    {
+      "id": "bacalar-brand-navigator-2026-10-30",
+      "family": "Bacalar Expanded",
+      "css_weight": 600,
+      "source_url": "https://use.typekit.net/ril0uew.css",
+      "authorization": "Responsável solicitou usar a Bacalar com acentos do projeto Brand Navigator em 30/10/2026.",
+      "allowed_assets": [
+        {
+          "asset_id": "brand-navigator:bacalar-expanded-accented",
+          "sha256": "34db51a761dec22902210da2fb6599083588cb104bfca49e309332935f064f22"
+        }
+      ],
+      "verified_glyphs": "ÁÉÍÓÚÀÂÊÔÃÕÇáéíóúàâêôãõç¿ñ",
+      "technical_limitations": "Arquivo de entrega web OpenType com tabela de nomes reduzida. Uso HTML local validado; instalação desktop em Figma/Office precisa ser conferida na ferramenta. Não tratar metadados web como instalador desktop.",
+      "qp_usage": "Bacalar Expanded, peso 600 real do kit, em CAIXA ALTA."
+    }
+  ]
+}

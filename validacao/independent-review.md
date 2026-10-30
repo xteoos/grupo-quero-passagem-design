@@ -1,3 +1,5 @@
+> Atualização de 30/10/2026: a avaliação inicial abaixo antecede a autorização de uso da Bacalar enviada e as substituições de Mauren/All Round Gothic. Para as regras atuais de fontes, consulte typography-policy.json e RELATORIO.md.
+
 > Revisão inicial independente. Os achados de faixa da Sora, CLI ausente e prévias com marca d’água foram corrigidos nesta entrega; consulte RELATORIO.md e os resultados atuais.
 
 # Validação independente da skill qp-brandbook

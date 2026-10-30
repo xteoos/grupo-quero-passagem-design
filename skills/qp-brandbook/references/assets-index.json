@@ -15590,6 +15590,203 @@
       "sha256": "09b58e935952c81e112678a884e48a9d64fe5ece7e10e1aa25b99e57c38e9cf3",
       "availability": "local",
       "preview_path": "assets/previews/19lgUrEMkv7sYomWGXFMwfuqQQKP6mKlI3aBxlS94Fao-pdf.jpg"
+    },
+    {
+      "id": "google-fonts:LilitaOne-Regular.ttf",
+      "name": "LilitaOne-Regular.ttf",
+      "brand": "viajo-mucho",
+      "category": "fontes",
+      "provider": "google-fonts",
+      "path": "assets/fontes/google-fonts/LilitaOne-Regular.ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lilitaone/LilitaOne-Regular.ttf",
+      "usage": "adaptacao-autorizada",
+      "tags": [
+        "viajo-mucho",
+        "fonte-completa",
+        "substituicao-solicitada-2026-10-30"
+      ],
+      "bytes": 28092,
+      "sha256": "f5b641c45c69d772ee4eda687bc9fda411d5cad6b0b45371491da4580cbc8d59",
+      "availability": "local",
+      "font": {
+        "names": {
+          "1": "Lilita One",
+          "2": "Regular",
+          "4": "Lilita One",
+          "6": "LilitaOne"
+        },
+        "missing_glyphs": [],
+        "variable": false,
+        "axes": {}
+      }
+    },
+    {
+      "id": "google-fonts:lilitaone-OFL.txt",
+      "name": "lilitaone-OFL.txt",
+      "brand": "viajo-mucho",
+      "category": "fontes",
+      "provider": "google-fonts",
+      "path": "assets/fontes/google-fonts/lilitaone-OFL.txt",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lilitaone/OFL.txt",
+      "usage": "adaptacao-autorizada",
+      "tags": [
+        "viajo-mucho",
+        "fonte-completa",
+        "substituicao-solicitada-2026-10-30"
+      ],
+      "bytes": 4392,
+      "sha256": "255d5debbb80eb2ea762644311f266a279e8778f00156655a516e2b7781a63e1",
+      "availability": "local"
+    },
+    {
+      "id": "google-fonts:Nunito[wght].ttf",
+      "name": "Nunito[wght].ttf",
+      "brand": "rodon",
+      "category": "fontes",
+      "provider": "google-fonts",
+      "path": "assets/fontes/google-fonts/Nunito[wght].ttf",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/Nunito%5Bwght%5D.ttf",
+      "usage": "adaptacao-autorizada",
+      "tags": [
+        "rodon",
+        "fonte-completa",
+        "substituicao-solicitada-2026-10-30"
+      ],
+      "bytes": 276932,
+      "sha256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207",
+      "availability": "local",
+      "font": {
+        "names": {
+          "1": "Nunito ExtraLight",
+          "2": "Regular",
+          "4": "Nunito ExtraLight",
+          "6": "Nunito-ExtraLight"
+        },
+        "missing_glyphs": [],
+        "variable": true,
+        "axes": {
+          "wght": {
+            "min": 200.0,
+            "default": 200.0,
+            "max": 1000.0
+          }
+        }
+      }
+    },
+    {
+      "id": "google-fonts:nunito-OFL.txt",
+      "name": "nunito-OFL.txt",
+      "brand": "rodon",
+      "category": "fontes",
+      "provider": "google-fonts",
+      "path": "assets/fontes/google-fonts/nunito-OFL.txt",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/OFL.txt",
+      "usage": "adaptacao-autorizada",
+      "tags": [
+        "rodon",
+        "fonte-completa",
+        "substituicao-solicitada-2026-10-30"
+      ],
+      "bytes": 4385,
+      "sha256": "580df76c95a1ec5ab878ceb25bb3d85c6a076804e9c970c8c6972aea775fdf65",
+      "availability": "local"
+    },
+    {
+      "id": "adaptacao:viajo-mucho-google-fonts",
+      "name": "viajo-mucho · modelo adaptado com Google Fonts",
+      "brand": "viajo-mucho",
+      "category": "templates",
+      "provider": "adaptacao-local",
+      "path": "assets/templates/adaptados/viajo-mucho.html",
+      "source_id": "1:3470",
+      "source_url": "https://www.figma.com/design/EyJUWysTaFKnJewVXFz0u0?node-id=1-3470",
+      "usage": "adaptacao-autorizada",
+      "tags": [
+        "google-fonts",
+        "html-editavel",
+        "2026-10-30"
+      ],
+      "preview_path": "assets/previews/adaptacao-viajo-mucho.jpg",
+      "width": 720,
+      "height": 1280,
+      "bytes": 1830,
+      "sha256": "dd3605f134ad5e99a03f877015cc96adefbba2e52d2b4c23175e6fa903630929",
+      "availability": "local"
+    },
+    {
+      "id": "adaptacao:rodon-google-fonts",
+      "name": "rodon · modelo adaptado com Google Fonts",
+      "brand": "rodon",
+      "category": "templates",
+      "provider": "adaptacao-local",
+      "path": "assets/templates/adaptados/rodon.html",
+      "source_id": "42:42",
+      "source_url": "https://www.figma.com/design/EyJUWysTaFKnJewVXFz0u0?node-id=42-42",
+      "usage": "adaptacao-autorizada",
+      "tags": [
+        "google-fonts",
+        "html-editavel",
+        "2026-10-30"
+      ],
+      "preview_path": "assets/previews/adaptacao-rodon.jpg",
+      "width": 720,
+      "height": 960,
+      "bytes": 1957,
+      "sha256": "8c9bb565fdabf11a537d69b821baae760fbaf808f5ac16cbbf12033d7bcefcbf",
+      "availability": "local"
+    },
+    {
+      "id": "brand-navigator:bacalar-expanded-accented",
+      "name": "BacalarExpanded-BrandNavigator-Semibold.otf",
+      "brand": "quero-passagem",
+      "category": "fontes",
+      "provider": "brand-navigator-kit",
+      "path": "assets/fontes/bacalar/BacalarExpanded-BrandNavigator-Semibold.otf",
+      "source_url": "https://use.typekit.net/ril0uew.css",
+      "source_id": "00000000000000007757234c",
+      "usage": "autorizado-pelo-responsavel",
+      "css_family": "Bacalar Expanded",
+      "css_weight": 600,
+      "authorization_id": "bacalar-brand-navigator-2026-10-30",
+      "tags": [
+        "bacalar",
+        "expanded",
+        "acentos-verificados",
+        "mesmo-kit-do-brand-navigator",
+        "opentype-web"
+      ],
+      "bytes": 23096,
+      "sha256": "34db51a761dec22902210da2fb6599083588cb104bfca49e309332935f064f22",
+      "availability": "local",
+      "font": {
+        "names": {
+          "1": "",
+          "2": "Regular",
+          "4": "-",
+          "6": "-"
+        },
+        "missing_glyphs": [],
+        "variable": false,
+        "axes": {}
+      }
+    },
+    {
+      "id": "brand-navigator:bacalar-origem",
+      "name": "Bacalar · origem e aviso do kit Brand Navigator",
+      "brand": "quero-passagem",
+      "category": "fontes",
+      "provider": "brand-navigator-kit",
+      "path": "assets/fontes/bacalar/Origem-BrandNavigator.txt",
+      "source_url": "https://use.typekit.net/ril0uew.css",
+      "usage": "documentacao-de-origem",
+      "tags": [
+        "bacalar",
+        "proveniencia",
+        "licenca-de-origem"
+      ],
+      "bytes": 1059,
+      "sha256": "658c5ba3fe70ec4d7cd2e4b2558e37fd022fdb7de0392b33948e971b9909241c",
+      "availability": "local"
     }
   ]
 }

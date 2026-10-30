@@ -25,7 +25,11 @@ Leia [marcas](references/marcas.md), [produção](references/producao.md) e [dep
 5. Renderize o resultado no formato solicitado. Confira fontes efetivas, acentos, quebras, recortes, contraste, legibilidade, logos e relação com o template.
 
 ## Limites que afetam a entrega
-A Bacalar Expanded completa está pendente. Não use BacalarTest/Demo/Trial em produção. Uma peça que exige Bacalar não pode ser declarada fiel com outra fonte. Se for útil preparar uma prova em Sora, obtenha concordância com essa adaptação e identifique-a; sem isso, entregue a composição como rascunho pendente de tipografia.
+Nas novas adaptações Viajo Mucho, substitua Mauren por Lilita One Regular (400); em Rodon, substitua All Round Gothic por Nunito ExtraBold (800). As trocas foram solicitadas pelo responsável e não precisam de nova autorização por peça. Reajuste quebras e hierarquia, mantenha Work Sans/Poppins no apoio e não altere logos. Use os arquivos locais e registre a adaptação; os modelos originais continuam como evidência.
+
+Use a Bacalar Expanded com acentos importada do mesmo kit do Brand Navigator, peso 600, em CAIXA ALTA. Carregue o arquivo local por assets/fonts.css; não usar os BacalarTest do ZIP como se fossem a versão corrigida. Os acentos portugueses e espanhóis foram conferidos no arquivo importado. Leia [tipografia](references/tipografia.md) e [a política de fontes](references/typography-policy.json) para a origem e os limites de instalação: é um OpenType de entrega web com nomes internos reduzidos. Em Figma, Office e outros editores, confira se a fonte realmente foi instalada e renderizada; se a ferramenta precisar de arquivo desktop com nomes completos, informe essa dependência específica e obtenha o arquivo adequado. A fonte não está genericamente bloqueada: o uso HTML local com acentos é validado.
+
+O responsável autorizou o uso da Bacalar. Não pedir essa autorização novamente por causa do nome Trial no ZIP anterior. Não substituir fonte, remover acentos ou aceitar fallback silencioso.
 
 Se um arquivo obrigatório estiver ausente ou for ponteiro LFS, peça a obtenção do original, em vez de usar a miniatura. Falta de renderizador também deve ser informada. Não declare um PPTX validado apenas por conseguir salvá-lo.
 

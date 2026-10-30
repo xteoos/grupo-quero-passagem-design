@@ -1,12 +1,11 @@
 # Dependências e divergências
-- Bacalar Expanded completa: aguardando arquivo autorizado do responsável.
-- Mauren completa: requerida pelo modelo Viajo Mucho 1:3470. A origem registra Trial Version.
-- All Round Gothic completa: requerida pelo modelo Rodon 42:42. A origem registra FONTSPRING DEMO.
-- Work Sans e Poppins de apoio estão incluídas com licenças OFL, a partir de [Google Fonts Work Sans](https://github.com/google/fonts/tree/main/ofl/worksans) e [Google Fonts Poppins](https://github.com/google/fonts/tree/main/ofl/poppins).
-- QP frame 1:1759 tem cores sólidas que diferem da paleta primária publicada: #0025C1 e #FFCF09. Preservar o original e solicitar decisão se o pedido exigir simultaneamente esse template exato e a paleta normativa.
 
-Leia [as observações de três templates](template-observations.json) para fonte, estilo, dimensão e cores registradas. Não herdar fontes QP para Viajo Mucho/Rodon e não tratar Trial/Demo como versão completa.
+- **Bacalar Expanded com acentos: incluída**, a partir do mesmo kit usado no Brand Navigator, conforme pedido e autorização do responsável. Peso 600; uso HTML local validado. O OpenType de entrega web tem nomes internos reduzidos: instalação em editores desktop precisa ser conferida. Se a ferramenta não o aceitar, obter o arquivo desktop adequado; não usar o ZIP sem acentos como substituto.
+- **Mauren → Lilita One Regular, peso 400:** substituição solicitada pelo responsável para as novas adaptações Viajo Mucho. A fonte completa e sua licença OFL estão no pacote; Work Sans continua no apoio.
+- **All Round Gothic → Nunito ExtraBold, peso 800:** substituição solicitada pelo responsável para as novas adaptações Rodon. O arquivo variável e a licença OFL estão incluídos; Poppins continua no apoio.
+- As substituições são decisões desta base em 30/10/2026, não uma transcrição das fontes Figma. Não pedem nova autorização por peça. Não alterar logos nem afirmar identidade tipográfica exata com o original. Consulte [a política de fontes](typography-policy.json) e [os modelos adaptados](../assets/templates/adaptados/).
+- QP frame 1:1759 tem cores sólidas diferentes da paleta primária publicada: #0025C1 e #FFCF09. Preservar a fonte e solicitar decisão se o pedido exigir simultaneamente esse modelo exato e a paleta normativa.
 
-O kit continua utilizável com os modelos e famílias disponíveis; uma peça que exija uma dependência ausente permanece rascunho. Os exemplos de validação com título pendente de fonte são explicitamente identificados, sem fallback disfarçado.
+[As observações de três templates](template-observations.json) preservam os nomes e estilos encontrados nos originais, inclusive Trial/Demo. Essa evidência histórica não deve ser reescrita para fingir que o original usava Google Fonts.
 
-Para fornecer uma fonte completa: copiar para assets/fontes, registrar o arquivo em fontes-de-origem/local-assets.json da base de manutenção (id, nome, marca, categoria, path relativo à skill, origem e situação), reconstruir o catálogo e verificar metadados, glifos e renderização. O índice desta skill deve acompanhar a distribuição atualizada.
+Se uma fonte ou arquivo obrigatório estiver ausente ou ainda for ponteiro Git LFS, obtenha o original antes de finalizar. Não use a miniatura como se fosse o arquivo completo. Para adicionar uma fonte completa, registre id, nome, marca, caminho relativo à skill, origem e situação em fontes-de-origem/local-assets.json; reconstrua o catálogo e confira metadados, glifos e renderização.

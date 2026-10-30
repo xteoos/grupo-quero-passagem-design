@@ -96,7 +96,7 @@ def main():
             elif p.suffix.lower()==".svg":
                 e=ET.parse(p).getroot();a["width"]=e.get("width");a["height"]=e.get("height");a["preview_path"]=a["path"]
             elif p.suffix.lower() in [".ttf",".otf"]:
-                info=inspect_font(p);fonts.append({"path":a["path"],**info});a["font"]=info
+                info=inspect_font(p);fonts.append({"path":a["path"],**info,**{k:a[k]for k in ["css_family","css_weight"]if k in a}});a["font"]=info
         except Exception as e:
             errors.append({"id":a["id"],"error":str(e)});a["inspection_error"]=str(e)
     overrides=read("fontes-de-origem/asset-reviews.json",{})
@@ -109,9 +109,10 @@ def main():
     css=[]
     for a in assets:
         if a.get("availability")!="local" or not a.get("font"):continue
-        n=a["name"].lower();family="Instrument Serif" if "instrument" in n else "Sora" if "sora" in n else "Inter" if "inter" in n else "Work Sans" if "worksans" in n or "work-sans" in n else "Poppins" if "poppins" in n else "Bacalar Expanded" if "bacalar" in n else None
+        n=a["name"].lower();family="Instrument Serif" if "instrument" in n else "Sora" if "sora" in n else "Inter" if "inter" in n else "Work Sans" if "worksans" in n or "work-sans" in n else "Poppins" if "poppins" in n else "Lilita One" if "lilitaone" in n else "Nunito" if "nunito" in n else "Bacalar Expanded" if "bacalar" in n else None
+        if "bacalar" in n:family=a.get("css_family") or a["font"]["names"].get("1")
         if not family:continue
-        css.append("@font-face{font-family:'"+family+"';src:url('./"+a["path"].removeprefix("assets/")+"');font-style:"+("italic"if"italic"in n else"normal")+";font-weight:"+((str(int(a["font"]["axes"]["wght"]["min"]))+" "+str(int(a["font"]["axes"]["wght"]["max"])))if "wght"in a["font"]["axes"] else"400")+";font-display:swap;}")
+        css.append("@font-face{font-family:'"+family+"';src:url('./"+a["path"].removeprefix("assets/")+"');font-style:"+("italic"if"italic"in n else"normal")+";font-weight:"+((str(int(a["font"]["axes"]["wght"]["min"]))+" "+str(int(a["font"]["axes"]["wght"]["max"])))if "wght"in a["font"]["axes"] else str(a.get("css_weight",400)))+";font-display:swap;}")
     (SK/"assets/fonts.css").write_text("\n".join(css)+"\n")
     payload=json.dumps(index,ensure_ascii=False).replace("</","<\\/")
     template=(ROOT/"scripts/catalog-template.html").read_text();(ROOT/"catalogo/index.html").write_text(template.replace("__ASSET_DATA__",payload))

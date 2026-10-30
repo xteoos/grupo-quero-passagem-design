@@ -23,32 +23,34 @@
     "source": "paginas/fundamentos/tipografia.md",
     "assets": [
       "figma:8hsYVcxSZ1qK14VctpJTZn:53:292",
-      "drive:1BWZ0EmKDe_nbD9CJgh5m_597VEZIvuqh"
+      "drive:1BWZ0EmKDe_nbD9CJgh5m_597VEZIvuqh",
+      "brand-navigator:bacalar-expanded-accented"
     ],
+    "required_font": "Bacalar Expanded",
+    "font_weight": 600,
+    "expected_postscript": "-",
     "status": "render-required"
   },
   {
     "file": "viajo-mucho.html",
     "source": "figma:EyJUWysTaFKnJewVXFz0u0:1:3470",
-    "status": "blocked-font",
-    "missing_font": "Mauren",
-    "brief": {
-      "objective": "inspirar uma viagem de fim de semana",
-      "language": "es-MX",
-      "headline": "Tu próximo viaje empieza contigo.",
-      "commercial_claims": []
-    }
+    "status": "render-required",
+    "adaptation": "substituicao-tipografica-solicitada-2026-10-30",
+    "required_font": "Lilita One",
+    "font_weight": 400,
+    "expected_postscript": "LilitaOne",
+    "image_limitation": "recorte-do-preview-oficial",
+    "commercial_claims": []
   },
   {
     "file": "rodon.html",
     "source": "figma:EyJUWysTaFKnJewVXFz0u0:42:42",
-    "status": "blocked-font",
-    "missing_font": "All Round Gothic",
-    "brief": {
-      "objective": "inspirar uma viagem de fim de semana",
-      "language": "pt-BR",
-      "headline": "Seu próximo destino começa com você.",
-      "commercial_claims": []
-    }
+    "status": "render-required",
+    "adaptation": "substituicao-tipografica-solicitada-2026-10-30",
+    "required_font": "Nunito",
+    "font_weight": 800,
+    "expected_postscript": "Nunito-ExtraBold",
+    "image_limitation": "recorte-do-preview-oficial",
+    "commercial_claims": []
   }
 ]

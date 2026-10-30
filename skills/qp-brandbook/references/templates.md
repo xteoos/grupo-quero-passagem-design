@@ -1,7 +1,7 @@
 # Templates e variações controladas
 Fontes: modelos de apresentação e comunicados no Drive; páginas Quero Passagem, Viajo Mucho e Rodon do arquivo Social - Ads no Figma. IDs e caminhos constam em [assets-index.json](assets-index.json).
 
-Consulte [dependências](dependencias.md) e [observações dos modelos](template-observations.json): há fontes Trial/Demo em nomes registrados nos modelos Viajo Mucho e Rodon e divergência cromática em uma peça QP. Não foram incluídas fontes de teste.
+Consulte [dependências](dependencias.md) e [observações dos modelos](template-observations.json): há fontes Trial/Demo em nomes registrados nos modelos Viajo Mucho e Rodon e divergência cromática em uma peça QP. A Bacalar com acentos foi importada do mesmo kit do Brand Navigator, conforme indicação do responsável; usar peso 600 e conferir a compatibilidade no editor escolhido. Outros arquivos de teste não foram incluídos. Para novas peças Viajo Mucho e Rodon, aplique as substituições autorizadas em [tipografia](tipografia.md): Lilita One e Nunito ExtraBold. Os [modelos HTML adaptados](../assets/templates/adaptados/) oferecem títulos e apoio editáveis. As imagens decorativas desses modelos são recortes de previews oficiais e não se tornam fotografias independentes de alta resolução; para ampliar, editar fotos ou gerar novo enquadramento, obtenha os arquivos de origem. Preserve os originais.
 
 ## Escolha e leitura
 Selecione marca, finalidade e proporção antes do modelo. O nome de uma camada pode dizer FEED e ter dimensões de story: confira a geometria registrada. Um frame largo pode representar um carrossel inteiro, não uma única imagem a publicar.

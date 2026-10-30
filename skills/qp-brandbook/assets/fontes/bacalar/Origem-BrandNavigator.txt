@@ -1,0 +1,19 @@
+Bacalar Expanded · fonte usada pelo Brand Navigator
+Origem configurada: brand-navigator/index.html, kit https://use.typekit.net/ril0uew.css
+Importação: 30/10/2026, a pedido do responsável.
+Família CSS da origem: bacalar-expanded; estilo normal; peso 600.
+Arquivo OpenType servido pelo kit, preservado sem alteração de bytes.
+
+Aviso presente no CSS da origem:
+The Typekit service used to deliver this font or fonts for use on websites
+is provided by Adobe and is subject to these Terms of Use
+http://www.adobe.com/products/eulas/tou_typekit.
+For font license information:
+http://typekit.com/eulas/00000000000000007757234c
+© 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+
+Este é o arquivo de entrega web do kit, não um instalador desktop.
+A tabela de nomes do arquivo servido é reduzida; o nome de família e o peso
+são fornecidos pelo CSS. Em HTML, carregue o fonts.css da skill. Não afirmar
+instalação em Figma/Office sem conferir nessa ferramenta.
+A autorização de uso foi informada pelo responsável; não é uma licença OFL.

@@ -7,11 +7,11 @@ A leitura do frame Social - Ads 1:1759 registrou sólidos #0025C1, #FFCF09, #FFC
 Evidência: template-samples.json. A contagem é de preenchimentos sólidos dos nós, não uma medição de área nem uma definição de paleta.
 
 ## Fontes específicas de marcas
-- QP, frame 1:1759: Instrument Serif Italic e Bacalar Expanded. Bacalar completa pendente.
-- Viajo Mucho, frame 1:3470: Mauren Trial Version Regular e Work Sans Regular/SemiBold. Mauren completa pendente; Work Sans obtida da distribuição oficial Google Fonts.
-- Rodon, frame 42:42: FONTSPRING DEMO - All Round Gothic Bold e Poppins Regular. All Round Gothic completa pendente; Poppins obtida da distribuição oficial Google Fonts.
+- QP, frame 1:1759: Instrument Serif Italic e Bacalar Expanded. A versão com acentos do kit usado no Brand Navigator foi importada a pedido do responsável em 30/10/2026, peso 600. O ZIP anterior tinha BacalarTest sem acentos, idêntico aos fallbacks locais do código. A versão ativa vem do kit, não desses arquivos.
+- Viajo Mucho, frame 1:3470: Mauren Trial Version Regular e Work Sans Regular/SemiBold. Nas adaptações desta base, Mauren foi substituída por Lilita One Regular em 30/10/2026 a pedido do responsável; Work Sans obtida da distribuição oficial Google Fonts.
+- Rodon, frame 42:42: FONTSPRING DEMO - All Round Gothic Bold e Poppins Regular. Nas adaptações desta base, All Round Gothic foi substituída por Nunito ExtraBold em 30/10/2026 a pedido do responsável; Poppins obtida da distribuição oficial Google Fonts.
 
-Os nomes Trial/Demo são os observados na fonte; nenhum desses arquivos de teste foi incluído em assets/fontes. Essas leituras descrevem três modelos específicos e não todas as peças de cada marca.
+Os nomes Trial/Demo são os observados na fonte; a fonte Bacalar ativa foi obtida do kit do Brand Navigator com autorização posterior do responsável; as fontes de teste Mauren e All Round Gothic não foram incluídas. Essas leituras descrevem três modelos específicos e não todas as peças de cada marca.
 
 ## Fotografias de prévia
 Os 16 JPEGs do ensaio Jessy contêm “© Vini Level PRÉVIA”. Permanecem como parte do inventário solicitado, com situação previa-com-marca-dagua; não devem entrar em artes finais. Os dez recortes PNG do ensaio não apresentaram essa marca na revisão de contato. Não inferir que outra foto está liberada ou atual sem conferir a aplicação.

@@ -116,5 +116,49 @@
     "missing_glyphs": [],
     "variable": false,
     "axes": {}
+  },
+  {
+    "path": "assets/fontes/google-fonts/LilitaOne-Regular.ttf",
+    "names": {
+      "1": "Lilita One",
+      "2": "Regular",
+      "4": "Lilita One",
+      "6": "LilitaOne"
+    },
+    "missing_glyphs": [],
+    "variable": false,
+    "axes": {}
+  },
+  {
+    "path": "assets/fontes/google-fonts/Nunito[wght].ttf",
+    "names": {
+      "1": "Nunito ExtraLight",
+      "2": "Regular",
+      "4": "Nunito ExtraLight",
+      "6": "Nunito-ExtraLight"
+    },
+    "missing_glyphs": [],
+    "variable": true,
+    "axes": {
+      "wght": {
+        "min": 200.0,
+        "default": 200.0,
+        "max": 1000.0
+      }
+    }
+  },
+  {
+    "path": "assets/fontes/bacalar/BacalarExpanded-BrandNavigator-Semibold.otf",
+    "names": {
+      "1": "",
+      "2": "Regular",
+      "4": "-",
+      "6": "-"
+    },
+    "missing_glyphs": [],
+    "variable": false,
+    "axes": {},
+    "css_family": "Bacalar Expanded",
+    "css_weight": 600
   }
 ]

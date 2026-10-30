@@ -1,34 +1,84 @@
-# Quero Passagem · Brandbook para IAs
+# Crie materiais com a cara da Quero Passagem
 
-Base de marca para criar apresentações, posts, anúncios e comunicados com assets oficiais. A skill lê apenas as referências necessárias para cada pedido. O formato final é combinado com quem solicita a peça.
+Este é o guia de marca da Quero Passagem e das marcas do grupo, preparado para ajudar pessoas e ferramentas de inteligência artificial a criar **apresentações, posts, anúncios e comunicados**.
 
-## Começar
-1. Abra [o catálogo visual](catalogo/index.html). Funciona localmente, sem login ou aplicação web.
-2. Leia [a skill](skills/qp-brandbook/SKILL.md) e consulte [as páginas oficiais extraídas](skills/qp-brandbook/references/paginas/INDEX.md).
-3. Confira [a cobertura e as pendências](fontes-de-origem/COBERTURA.md). Bacalar, Mauren e All Round Gothic completas estão pendentes para os modelos que as exigem.
-4. Faça um pedido informando marca, público, objetivo, canal e formato. Exemplo: “Use $qp-brandbook para criar um comunicado interno da Quero Passagem sobre uma mudança de processo. Entrega em HTML editável, usando o template de comunicados e sem inventar datas.”
+Aqui você encontra orientações de cores, fontes, fotografias e escrita, além de logos, imagens e modelos prontos para adaptar. Você pode usar esta base mesmo sem conhecer design ou programação.
 
-## Instalar a skill
-O pacote inteiro `skills/qp-brandbook/` precisa acompanhar o SKILL.md. Copiar apenas o Markdown perde os assets e as referências.
+## O que é uma “skill”?
 
-**Codex:** copie ou vincule a pasta completa em `~/.codex/skills/qp-brandbook` (ou no diretório de skills do CODEX_HOME, quando personalizado).
-**Claude Code:** copie a pasta completa para `.claude/skills/qp-brandbook/` no projeto de trabalho, ou `~/.claude/skills/qp-brandbook/` para uso pessoal.
-**Outras IAs:** forneça o SKILL.md, as referências relevantes e os arquivos selecionados. Um link de GitHub privado, sozinho, não concede acesso a uma IA. Use a integração autenticada da ferramenta ou uma cópia local do repositório.
+Pense em uma skill como um **guia de trabalho que a IA consulta antes de criar**. A nossa se chama `qp-brandbook`: ela explica como usar os materiais da marca, quais arquivos escolher e o que conferir antes de entregar.
 
-A instalação não concede autorização para publicar peças, editar fontes no Drive/Figma ou alterar este acervo.
+Ela vem acompanhada das fontes, imagens, modelos e referências. Por isso, é preciso usar **a pasta completa**, e não apenas o arquivo de instruções `SKILL.md`.
 
-## Fontes e limites
-As regras vêm das páginas publicadas do Brand Navigator; os arquivos vêm do Drive e Figma indicados pelo responsável. Conteúdo mockado do código não foi usado como norma.
-- **Fontes pendentes:** Bacalar, Mauren e All Round Gothic; consultar [as dependências da skill](skills/qp-brandbook/references/dependencias.md). Os arquivos Demo/Trial foram excluídos. Sora, Inter e Instrument Serif são locais. Entregas que exigem Bacalar permanecem pendentes até receber o arquivo completo.
-- Previews de templates são referências visuais. Texto e logos devem continuar como elementos controláveis na peça nova.
-- Fotos antigas e arquivos sem revisão de aplicação aparecem identificados; não presumir que toda imagem do acervo representa a identidade atual.
-- Sem credenciais, dados de usuários ou .env do projeto de origem neste repositório.
-- Sem garantia de que uma IA genérica consegue ler arquivos locais, renderizar fontes ou editar todos os formatos. A skill exige informar limitações concretas.
+## Quero começar: o que faço?
 
-## Git e Git LFS
-Repositório público: [xteoos/grupo-quero-passagem-design](https://github.com/xteoos/grupo-quero-passagem-design), branch `main`.
+### 1. Dê acesso aos materiais
 
-Para obter o projeto completo, incluindo os originais armazenados com Git LFS:
+Se você usa **Codex ou Claude Code no computador**, peça à ferramenta para preparar a base. Pode copiar esta mensagem:
+
+> Baixe o repositório https://github.com/xteoos/grupo-quero-passagem-design. Baixe também os arquivos grandes com Git LFS. Prepare a skill qp-brandbook para uso neste projeto, usando a pasta completa skills/qp-brandbook. Confira se consegue abrir as fontes, fotos e modelos antes de começarmos.
+
+Essa preparação precisa ser feita uma vez por computador ou projeto. Se a ferramenta pedir uma ação que você não conhece, peça ajuda a alguém da equipe técnica. As instruções manuais estão [mais abaixo](#instalação-manual-para-quem-vai-configurar).
+
+Se você usa **ChatGPT, Claude no navegador ou outra IA**, envie este pedido:
+
+> Use o guia https://github.com/xteoos/grupo-quero-passagem-design. Comece pelo arquivo skills/qp-brandbook/SKILL.md e consulte as referências da marca. Antes de criar, confirme quais fontes, imagens e modelos você consegue realmente acessar. Se faltar algo, diga quais arquivos preciso fornecer.
+
+O link ajuda a encontrar as instruções, mas **não garante acesso a todos os arquivos nem capacidade de editar uma apresentação**. Quando necessário, anexe à conversa as referências e os arquivos escolhidos. A instalação local descrita aqui é para Codex e Claude Code; as versões no navegador têm seus próprios recursos e limites.
+
+### 2. Diga o que você precisa
+
+Informe a marca, para quem é o material, o objetivo, onde será usado e como quer receber. Não precisa escrever um pedido técnico.
+
+**Apresentação:**
+
+> Use a skill qp-brandbook. Preciso de uma apresentação da Quero Passagem para uma reunião interna, com 6 slides. O objetivo é apresentar o projeto descrito no texto abaixo. Use o modelo oficial e entregue um PowerPoint editável. Não invente dados. Conteúdo: [cole aqui].
+
+**Post:**
+
+> Use a skill qp-brandbook. Crie um post da Quero Passagem para Instagram, no tamanho 1080 × 1350, com o tema [tema]. Use fotografias e elementos do acervo. Entregue a imagem pronta e um arquivo que possamos editar. Texto obrigatório: [texto].
+
+**Comunicado:**
+
+> Use a skill qp-brandbook. Crie um comunicado interno da Quero Passagem sobre [assunto], usando o modelo de comunicados. Inclua estas informações: [informações]. Se faltar uma data ou orientação importante, me pergunte. Quero receber em [formato].
+
+**Outras marcas do grupo:**
+
+> Use a skill qp-brandbook para criar um post da Viajo Mucho, em espanhol para o México, sobre [tema]. Use os modelos dessa marca e a adaptação tipográfica em Lilita One prevista nesta base.
+
+Para Rodon, informe a marca no pedido; os títulos adaptados usam Nunito ExtraBold. A IA deve selecionar os modelos e os elementos próprios de cada marca.
+
+### 3. Confira antes de compartilhar
+
+Peça para a IA mostrar a peça pronta e explicar brevemente qual modelo usou e se ficou alguma pendência. Confira textos, acentos, logos, fotos e informações do seu pedido. Um exemplo antigo pode conter datas ou ofertas que não valem mais.
+
+Se quiser ajustar, peça em linguagem comum: “diminua o texto”, “troque a fotografia” ou “deixe o título mais visível, mantendo a identidade da marca”.
+
+## Quero ver os materiais disponíveis
+
+Depois de baixar a base, abra [o catálogo visual](catalogo/index.html) no navegador. Ele permite buscar materiais, filtrar por marca e ver a origem de cada arquivo. A prévia ajuda a escolher; use o arquivo original na produção.
+
+Se as fontes não carregarem ao abrir o arquivo diretamente, peça à IA: “Inicie o catálogo local deste projeto”. O endereço padrão é [abrir catálogo local](http://127.0.0.1:8769/catalogo/), disponível apenas enquanto o servidor estiver ativo no seu computador.
+
+| O que você procura | Onde encontrar |
+|---|---|
+| Instruções que a IA deve seguir | [Skill qp-brandbook](skills/qp-brandbook/SKILL.md) |
+| Cores, fontes, fotos e escrita | [Referências da marca](skills/qp-brandbook/references/) |
+| Logos, fotos, fontes e modelos | [Arquivos para criar as peças](skills/qp-brandbook/assets/) |
+| O que foi coletado e o que ainda falta | [Cobertura e pendências](fontes-de-origem/COBERTURA.md) |
+| Exemplos e conferências realizadas | [Relatório de validação](validacao/RELATORIO.md) |
+
+## O que mudou nas fontes
+
+- **Viajo Mucho:** Lilita One substitui Mauren nos títulos das novas adaptações; Work Sans continua nos textos de apoio.
+- **Rodon:** Nunito ExtraBold, peso 800, substitui All Round Gothic nos títulos das novas adaptações; Poppins continua nos textos de apoio.
+- **Quero Passagem:** Sora, Inter, Instrument Serif e Bacalar Expanded com acentos estão incluídas. A Bacalar foi importada do mesmo kit usado pelo Brand Navigator, conforme indicado pelo responsável. A IA deve carregar a fonte e conferir o resultado na ferramenta escolhida.
+
+As substituições foram solicitadas pelo responsável para facilitar o uso da base. Os modelos originais foram preservados. Veja [as regras de tipografia](skills/qp-brandbook/references/tipografia.md) e os [modelos adaptados](skills/qp-brandbook/assets/templates/adaptados/).
+
+## Instalação manual para quem vai configurar
+
+Você precisa de Git e Git LFS, que baixam o projeto e seus arquivos grandes. O acervo ocupa aproximadamente 3 GB. Com essas ferramentas instaladas, execute no Terminal:
 
 ```sh
 git clone https://github.com/xteoos/grupo-quero-passagem-design.git
@@ -37,30 +87,16 @@ git lfs install --local
 git lfs pull
 ```
 
-Instale Git LFS antes de trabalhar com os arquivos grandes. O download de um ZIP do GitHub pode conter ponteiros LFS em vez dos originais; confira os arquivos com o verificador.
-Antes de adicionar arquivos ao Git, instale Git LFS e rode neste repositório:
+Evite depender apenas do botão “Download ZIP” do GitHub: alguns arquivos podem vir como pequenos arquivos de referência, em vez de fotos ou apresentações reais. `git lfs pull` baixa os originais.
 
-```sh
-git lfs install --local
-git lfs pull
-```
+**Codex:** copie a pasta inteira `skills/qp-brandbook` para `.agents/skills/qp-brandbook` dentro do projeto em que vai trabalhar. Para usar em vários projetos, a localização pessoal é `~/.agents/skills/qp-brandbook`. Abra uma nova conversa e peça “Use $qp-brandbook…”. Consulte a [documentação do Codex](https://developers.openai.com/codex/skills).
 
-Em clones, `git lfs pull` baixa os originais. Fotografias, PDFs e apresentações usam LFS; miniaturas e documentação ficam no Git comum. Os filtros locais exigem LFS, para evitar adicionar os originais por engano sem o filtro.
+**Claude Code:** copie a mesma pasta inteira para `.claude/skills/qp-brandbook` no projeto, ou `~/.claude/skills/qp-brandbook` para uso pessoal. Abra uma nova sessão e use `/qp-brandbook` seguido do pedido. Consulte a [documentação do Claude Code](https://code.claude.com/docs/en/skills).
 
-## Manter e validar
-Use Python 3.11+ com Pillow para miniaturas e Node 22+ para atualizar o snapshot do projeto de origem.
+Dentro da pasta instalada devem existir `SKILL.md`, `references`, `assets`, `scripts` e `agents`. Copiar só o texto de `SKILL.md` não leva as fontes e os materiais junto. Ao atualizar esta base, atualize também a cópia instalada.
 
-```sh
-python3 -m venv .venv
-.venv/bin/pip install -r requirements.txt
-.venv/bin/python scripts/build_catalog.py
-.venv/bin/python scripts/validate.py
-.venv/bin/python scripts/test_validation.py
-```
+## Para quem mantém esta base
 
-A atualização das fontes segue [o procedimento de manutenção](fontes-de-origem/ATUALIZAR.md). Os conectores fazem a autenticação; URLs temporárias ficam apenas em .cache e não são versionadas. Não há atualização automática nem escrita nas fontes.
+O passo a passo técnico de atualização, instalação das ferramentas de validação e conferência dos arquivos está em [Atualizar a base](fontes-de-origem/ATUALIZAR.md).
 
-Leia [o relatório de validação](validacao/RELATORIO.md) antes de tratar os exemplos como evidência de conformidade.
-
-
-Para visualizar com o carregamento local de fontes, execute `python3 scripts/serve.py` e abra http://127.0.0.1:8769/catalogo/. Para repetir a verificação de navegador: `npm ci`, `npx playwright install chromium` e `npm run check:browser` com o servidor ativo. Não é necessário instalar essas ferramentas para apenas usar a skill.
+As regras vêm das páginas publicadas do Brand Navigator e os materiais vêm das fontes registradas no Drive e Figma. Arquivos históricos e prévias com marca d’água têm identificação própria. Usar a skill não publica a peça automaticamente nem altera os arquivos de origem.

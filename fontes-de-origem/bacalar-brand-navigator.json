@@ -1,0 +1,29 @@
+{
+  "collected_at": "2026-10-30",
+  "source_project": "brand-navigator",
+  "source_commit": "b3bf690",
+  "configured_in": "index.html:18 e src/index.css:109-117",
+  "kit_url": "https://use.typekit.net/ril0uew.css",
+  "font_id": "00000000000000007757234c",
+  "source_css_family": "bacalar-expanded",
+  "skill_css_family": "Bacalar Expanded",
+  "style": "normal",
+  "weight": 600,
+  "font_path": "assets/fontes/bacalar/BacalarExpanded-BrandNavigator-Semibold.otf",
+  "sha256": "34db51a761dec22902210da2fb6599083588cb104bfca49e309332935f064f22",
+  "inspection": {
+    "names": {
+      "1": "",
+      "2": "Regular",
+      "4": "-",
+      "6": "-"
+    },
+    "missing_glyphs": [],
+    "variable": false,
+    "axes": {}
+  },
+  "file_is_web_delivery": true,
+  "desktop_installation_validated": false,
+  "authorization": "Responsável solicitou usar a Bacalar com acentos do projeto Brand Navigator em 30/10/2026.",
+  "note": "A tabela de nomes do arquivo servido é reduzida; carregar a família explicitamente via CSS. Não confundir com os BacalarTest locais, idênticos ao ZIP e sem acentos."
+}
